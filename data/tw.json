@@ -1,0 +1,1057 @@
+{
+  "country": {
+    "code": "tw",
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "nameLocal": "中華民國",
+    "currency": "TWD",
+    "system": "俸點 Pay-Point System",
+    "authoritativePublisher": "Directorate-General of Personnel Administration (DGPA)",
+    "authoritativeUrl": "https://www.dgpa.gov.tw/information?uid=108",
+    "fiscalYear": "2025"
+  },
+  "meta": {
+    "source": "Directorate-General of Personnel Administration (DGPA) — 公務人員俸額表 (PRIMARY AUTHORITATIVE SOURCE)",
+    "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407",
+    "fiscalYear": "2025",
+    "effectiveFrom": "2025-01-01",
+    "retrievedAt": "2026-04-24",
+    "status": "AUTO-VERIFIED — 142/142 cells public-ready as of 2026-04-24. Last auto-fetch by tw:dgpa-extras-v2.",
+    "currency": "TWD",
+    "notes": "Taiwan civil servants are paid via a 俸點 (pay point) system. Each 職等 (grade) and 級 (rank within grade) maps to a 俸點 value in the range 160-800, which converts to monthly salary via the statutory 公務人員俸額表 published by DGPA. Annual = monthly × 12. Lunar New Year and year-end bonuses are discretionary, not guaranteed."
+  },
+  "grades": [
+    {
+      "code": "BPT",
+      "description": "俸點 (Pay Point) — Taiwan's unified pay scale. Each civil servant's rank (職等 grade × 級 step) maps to a 俸點 value from 160 (lowest entry) to 800 (top of 簡任 senior appointment). This page shows the full 俸點 → 月支數額 mapping published by DGPA. 委任 (Elementary Appointment) covers 職等 1-5; 薦任 (Recommended) covers 6-9; 簡任 (Designated) covers 10-14."
+    },
+    {
+      "code": "POL-YP",
+      "description": "政務人員 — President of the Five-Yuan Government (四院院長). Highest political role: President of Executive/Judicial/Examination/Control Yuan."
+    },
+    {
+      "code": "POL-YVP",
+      "description": "政務人員 — Vice President of the Five-Yuan Government (四院副院長)."
+    },
+    {
+      "code": "POL-MIN",
+      "description": "政務人員 — Cabinet Minister (部長 / 相當職務). Head of a ministry."
+    },
+    {
+      "code": "EMP",
+      "description": "雇員薪額 — non-career employees with 薪點 (pay points) 140-310 across 本薪 and 年功薪 stages. Appointed per 雇員管理規則 without 職等."
+    },
+    {
+      "code": "WKR",
+      "description": "技工工友 — Technicians and General Workers (public sector manual/technical support) with 薪點 90-170 mapping to monthly 工餉."
+    },
+    {
+      "code": "MGMT",
+      "description": "主管職務加給 (Management supplement) — paid monthly on top of base 俸額 for civil servants in supervisory roles. Amount depends on 職等 (grade 5-14) under DGPA 附表5. Only managers receive this; non-supervisory staff do not."
+    },
+    {
+      "code": "PROF",
+      "description": "專業加給(二) (Professional supplement, Type II) — the standard monthly professional allowance for most civil servants and police under DGPA 附表6. Paid to every career 公務人員 on top of 俸額. Mapped by 職等 1-14."
+    },
+    {
+      "code": "EDU",
+      "description": "教育人員薪額 (Education Personnel Pay) — parallel pay scale for public-school teachers, professors, and administrators under 教師待遇條例. Uses 薪額 points (90 to 770) rather than 俸點; monthly amounts match the civil-service 俸額 scale at equivalent levels."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "BPT",
+      "step": 230,
+      "annual": 208680,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 240,
+      "annual": 217920,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 250,
+      "annual": 227040,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 260,
+      "annual": 236280,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 270,
+      "annual": 245520,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 280,
+      "annual": 254640,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 290,
+      "annual": 263880,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 300,
+      "annual": 273000,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 310,
+      "annual": 282240,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 320,
+      "annual": 291480,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 330,
+      "annual": 300600,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 340,
+      "annual": 309840,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 350,
+      "annual": 318960,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 360,
+      "annual": 328200,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 370,
+      "annual": 337440,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 385,
+      "annual": 351240,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 400,
+      "annual": 364920,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 415,
+      "annual": 378720,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 430,
+      "annual": 392520,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 445,
+      "annual": 406320,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 460,
+      "annual": 420120,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 475,
+      "annual": 433920,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 490,
+      "annual": 447720,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 505,
+      "annual": 461520,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 520,
+      "annual": 475320,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 535,
+      "annual": 489120,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 550,
+      "annual": 502800,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 590,
+      "annual": 539640,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 610,
+      "annual": 558000,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 630,
+      "annual": 576360,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 650,
+      "annual": 594720,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 670,
+      "annual": 613200,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 690,
+      "annual": 631560,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 710,
+      "annual": 649920,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 730,
+      "annual": 668280,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 750,
+      "annual": 686640,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 780,
+      "annual": 714240,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 790,
+      "annual": 723480,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "BPT",
+      "step": 800,
+      "annual": 762840,
+      "verifiedAt": "2026-04-20T11:09:02.689Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/uploads/dgpa/files/202505/7927abfd-d520-43d5-913e-c616bf4a16e7.pdf"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 1,
+      "annual": 208680,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 2,
+      "annual": 217920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 3,
+      "annual": 227040,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 4,
+      "annual": 236280,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 5,
+      "annual": 245520,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 6,
+      "annual": 254640,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 7,
+      "annual": 263880,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 8,
+      "annual": 273000,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 9,
+      "annual": 282240,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 10,
+      "annual": 291480,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 11,
+      "annual": 300600,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 12,
+      "annual": 309840,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 13,
+      "annual": 318960,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 14,
+      "annual": 328200,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 15,
+      "annual": 337440,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 16,
+      "annual": 351240,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 17,
+      "annual": 364920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 18,
+      "annual": 378720,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 19,
+      "annual": 392520,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 20,
+      "annual": 406320,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 21,
+      "annual": 420120,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 22,
+      "annual": 433920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 23,
+      "annual": 447720,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 24,
+      "annual": 461520,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 25,
+      "annual": 475320,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 26,
+      "annual": 489120,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 27,
+      "annual": 502800,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 28,
+      "annual": 539640,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 29,
+      "annual": 558000,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 30,
+      "annual": 576360,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 31,
+      "annual": 594720,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 32,
+      "annual": 613200,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 33,
+      "annual": 631560,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 34,
+      "annual": 649920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 35,
+      "annual": 668280,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 36,
+      "annual": 686640,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 37,
+      "annual": 714240,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 38,
+      "annual": 723480,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EDU",
+      "step": 39,
+      "annual": 762840,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 1,
+      "annual": 144840,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 2,
+      "annual": 150000,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 3,
+      "annual": 155160,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 4,
+      "annual": 160440,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 5,
+      "annual": 160560,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 6,
+      "annual": 167040,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 7,
+      "annual": 173520,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 8,
+      "annual": 180000,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 9,
+      "annual": 186480,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 10,
+      "annual": 193080,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 11,
+      "annual": 199560,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 12,
+      "annual": 208680,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 13,
+      "annual": 217920,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 14,
+      "annual": 227040,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 15,
+      "annual": 236280,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 16,
+      "annual": 245520,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 17,
+      "annual": 254640,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 18,
+      "annual": 263880,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 19,
+      "annual": 273000,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "EMP",
+      "step": 20,
+      "annual": 282240,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 5,
+      "annual": 51840,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 6,
+      "annual": 58440,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 7,
+      "annual": 71160,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 8,
+      "annual": 93000,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 9,
+      "annual": 120120,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 10,
+      "annual": 162120,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 11,
+      "annual": 236520,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 12,
+      "annual": 364920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 13,
+      "annual": 404760,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "MGMT",
+      "step": 14,
+      "annual": 499560,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "POL-MIN",
+      "step": 1,
+      "annual": 2628480,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "POL-YP",
+      "step": 1,
+      "annual": 4463040,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "POL-YVP",
+      "step": 1,
+      "annual": 2957040,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 1,
+      "annual": 258000,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 2,
+      "annual": 260280,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 3,
+      "annual": 261000,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 4,
+      "annual": 265320,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 5,
+      "annual": 272760,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 6,
+      "annual": 310680,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 7,
+      "annual": 321960,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 8,
+      "annual": 358200,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 9,
+      "annual": 371160,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 10,
+      "annual": 439920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 11,
+      "annual": 470280,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 12,
+      "annual": 520320,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 13,
+      "annual": 535920,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "PROF",
+      "step": 14,
+      "annual": 571680,
+      "verifiedAt": "2026-04-24T02:17:59.225Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 1,
+      "annual": 131280,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 2,
+      "annual": 138600,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 3,
+      "annual": 145800,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 4,
+      "annual": 153120,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 5,
+      "annual": 160440,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 6,
+      "annual": 167760,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 7,
+      "annual": 174960,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 8,
+      "annual": 182280,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 9,
+      "annual": 189600,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 10,
+      "annual": 196920,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 11,
+      "annual": 204120,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 12,
+      "annual": 211440,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 13,
+      "annual": 218760,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 14,
+      "annual": 226080,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 15,
+      "annual": 233280,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 16,
+      "annual": 240600,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    },
+    {
+      "gradeCode": "WKR",
+      "step": 17,
+      "annual": 247920,
+      "verifiedAt": "2026-04-22T10:32:59.471Z",
+      "sourceUrl": "https://www.dgpa.gov.tw/information?uid=108&pid=12407"
+    }
+  ]
+}

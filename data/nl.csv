@@ -1,0 +1,215 @@
+country_code,country_name,currency,grade_code,grade_description,step,annual,verified_at,source_url
+nl,Netherlands,EUR,GOV-EK-CHAIR,"Voorzitter Eerste Kamer (President of the Senate) — part-time role, additional allowance. Source: Wet vergoedingen leden Eerste Kamer + Reglement Eerste Kamer.",1,90000,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-EK-MEMBER,"Lid Eerste Kamer (Senator) — part-time, 75 seats (Senate meets Tuesdays only). Source: Wet vergoedingen leden Eerste Kamer, effective 2024-07-01.",1,34900,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-MIN-PRES,Minister-President (Prime Minister of the Netherlands). Source: Wet rechtspositie ministers en staatssecretarissen + Bezoldigingsbesluit 2024-07-01 (incl. 8% vakantiegeld + 8.33% eindejaarsuitkering).,1,183168,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-MINISTER,"Minister (Cabinet member). Source: Wet rechtspositie ministers en staatssecretarissen, effective 2024-07-01.",1,167596,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-STAATSSEC,"Staatssecretaris (Secretary of State / Junior Minister). Source: Wet rechtspositie ministers en staatssecretarissen, effective 2024-07-01.",1,157980,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-TK-MEMBER,"Lid Tweede Kamer (Member of the House of Representatives) — 150 seats. Source: Wet schadeloosstelling leden Tweede Kamer, effective 2024-07-01 (schadeloosstelling + ambtstoelage).",1,155720,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,GOV-TK-SPEAKER,Voorzitter Tweede Kamer (Speaker of the House of Representatives) — pay parity with Minister. Source: Reglement van Orde Tweede Kamer + pay parity with Minister.,1,167596,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-HOF-PRESIDENT,President van een Gerechtshof (President of a Court of Appeal — 4 courts). Source: Wet rechtspositie rechterlijke ambtenaren.,1,185700,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-HOF-RAADSHEER,Raadsheer (Judge) in een Gerechtshof. Source: Wet rechtspositie rechterlijke ambtenaren.,1,160400,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-HR-JUSTICE,Raadsheer in de Hoge Raad (Supreme Court Justice). Source: Wet rechtspositie rechterlijke ambtenaren.,1,187100,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-HR-PRESIDENT,"President van de Hoge Raad der Nederlanden (President of the Supreme Court). Source: Wet rechtspositie rechterlijke ambtenaren + Bezoldigingsbesluit Rechterlijke Ambtenaren, 2024-07-01.",1,208700,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-HR-VICE,Vice-president van de Hoge Raad. Source: Wet rechtspositie rechterlijke ambtenaren.,1,194800,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-RB-PRESIDENT,President van een Rechtbank (President of a District Court — 11 courts). Source: Wet rechtspositie rechterlijke ambtenaren.,1,170900,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-RB-RECHTER,"Rechter in een Rechtbank (District Court Judge, entry-career). Source: Wet rechtspositie rechterlijke ambtenaren (schaal 10 entry).",1,126400,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-RB-RECHTER-SR,"Senior rechter in een Rechtbank (Senior District Court Judge, top scale). Source: Wet rechtspositie rechterlijke ambtenaren (schaal 11).",1,155300,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,JUD-RIO,"Rechter in opleiding / RiO (Judge in Training, 4-year program before appointment). Source: Wet rechtspositie rechterlijke ambtenaren (RiO schaal).",1,77800,2026-04-24T01:10:17.282Z,https://wetten.overheid.nl/
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,1,28041,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,2,28521,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,3,29010,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,4,29507,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,5,30013,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,6,30528,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,7,31052,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,8,31585,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,9,32127,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,10,32679,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S1,Schaal 1 — entry-level support roles.,11,33240,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,1,40853,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,2,42768,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,3,45042,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,4,48289,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,5,52087,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,6,54177,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,7,56301,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,8,58416,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,9,60431,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,10,62555,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S10,Schaal 10 — starting policy advisor (beleidsmedewerker) for bachelor-level entrants.,11,64678,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,1,48289,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,2,52087,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,3,54177,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,4,56301,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,5,58416,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,6,60431,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,7,62555,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,8,64678,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,9,67410,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,10,70375,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S11,Schaal 11 — working-level policy advisor; typical master-degree starting scale.,11,73331,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,1,56301,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,2,58416,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,3,60431,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,4,62555,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,5,64678,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,6,67410,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,7,70375,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,8,73331,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,9,76479,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,10,79685,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S12,Schaal 12 — senior policy advisor.,11,82892,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,1,62555,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,2,64678,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,3,67410,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,4,70375,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,5,73331,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,6,76479,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,7,79685,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,8,82892,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,9,86106,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,10,89493,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S13,Schaal 13 — senior specialist or coordinator; team-lead-equivalent.,11,92972,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,1,70375,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,2,73331,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,3,76479,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,4,79685,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,5,82892,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,6,86106,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,7,89493,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,8,92972,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,9,96153,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,10,99382,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S14,Schaal 14 — senior manager or senior policy advisor (strategic).,11,102605,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,1,79685,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,2,82892,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,3,86106,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,4,89493,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,5,92972,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,6,96153,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,7,99382,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,8,102605,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,9,105488,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,10,108508,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S15,Schaal 15 — top policy advisor / senior manager.,11,111723,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",1,89493,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",2,92972,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",3,96153,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",4,99382,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",5,102605,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",6,105488,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",7,108508,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",8,111723,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",9,114878,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",10,118093,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S16,"Schaal 16 — MT-lid, directeur.",11,121607,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,1,99382,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,2,102605,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,3,105488,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,4,108508,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,5,111723,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,6,114878,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,7,118093,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,8,121607,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,9,125214,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,10,128831,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S17,Schaal 17 — plaatsvervangend DG / DG (in smaller DG's).,11,132438,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,1,108508,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,2,111723,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,3,114878,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,4,118093,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,5,121607,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,6,125214,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,7,128831,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,8,132438,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,9,136373,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,10,140308,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S18,Schaal 18 — Directeur-Generaal of a ministerial directorate.,11,144252,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,1,29507,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,2,30013,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,3,30528,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,4,31052,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,5,31585,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,6,32127,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,7,32679,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,8,33240,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,9,33811,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,10,34392,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S2,Schaal 2 — junior clerical and support staff.,11,34984,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,1,31052,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,2,31585,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,3,32127,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,4,32679,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,5,33240,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,6,33811,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,7,34392,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,8,34984,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,9,35586,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,10,36198,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S3,Schaal 3 — experienced clerical and support staff.,11,37047,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,1,32127,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,2,32679,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,3,33240,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,4,33811,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,5,34392,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,6,34984,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,7,35586,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,8,36198,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,9,37047,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,10,37996,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S4,Schaal 4 — junior administrative roles.,11,38954,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,1,33240,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,2,33811,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,3,34392,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,4,34984,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,5,35586,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,6,36198,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,7,37047,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,8,37996,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,9,38954,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,10,39903,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S5,Schaal 5 — administrative officer.,11,40853,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,1,34392,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,2,34984,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,3,35586,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,4,36198,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,5,37047,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,6,37996,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,7,38954,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,8,39903,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,9,40853,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,10,41819,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S6,Schaal 6 — senior administrative officer.,11,42768,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,1,36198,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,2,37047,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,3,37996,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,4,38954,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,5,39903,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,6,40853,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,7,41819,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,8,42768,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,9,43717,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,10,45042,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S7,Schaal 7 — intermediate administrative and policy-support roles.,11,46557,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,1,38954,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,2,39903,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,3,40853,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,4,41819,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,5,42768,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,6,43717,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,7,45042,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,8,46557,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,9,48289,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,10,50171,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S8,Schaal 8 — senior administrative or junior specialist.,11,52087,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,1,41819,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,2,42768,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,3,43717,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,4,45042,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,5,46557,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,6,48289,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,7,50171,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,8,52087,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,9,54177,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,10,56301,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen
+nl,Netherlands,EUR,S9,Schaal 9 — specialist or policy-support senior.,11,58416,2026-04-17T23:38:17.074Z,https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen

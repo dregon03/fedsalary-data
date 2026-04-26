@@ -1,0 +1,1419 @@
+{
+  "country": {
+    "code": "uk",
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "nameLocal": "United Kingdom",
+    "currency": "GBP",
+    "system": "SCS Pay Framework + Judicial Salaries + Armed Forces",
+    "authoritativePublisher": "Cabinet Office / Ministry of Justice / Armed Forces' Pay Review Body",
+    "authoritativeUrl": "https://www.gov.uk/",
+    "fiscalYear": "2025"
+  },
+  "meta": {
+    "source": "Cabinet Office — Guidance on the Senior Civil Service Pay Award 2025/26",
+    "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html",
+    "fiscalYear": "2025",
+    "retrievedAt": "2026-04-23",
+    "status": "AUTO-VERIFIED — 167/167 cells public-ready as of 2026-04-23. Last auto-fetch by uk:sector-nhs-parliament-teachers-v1.",
+    "currency": "GBP",
+    "notes": "UK Civil Service pay below SCS (Administrative Officer, Executive Officer, Higher Executive Officer, Senior Executive Officer, Grade 7, Grade 6) is set per-department with no unified national scale — not published here. SCS ranges ARE centrally set: Band 1 (Deputy Director) / Band 1A (specialist) / Band 2 (Director) / Band 3 (Director General) / Permanent Secretary (tier set by Cabinet Secretary per role)."
+  },
+  "grades": [
+    {
+      "code": "JUD-GRP1",
+      "description": "Judicial Salary Group 1 — Lady Chief Justice of England and Wales. Single-holder post at the head of the Judiciary of England and Wales."
+    },
+    {
+      "code": "JUD-GRP1_1",
+      "description": "Judicial Salary Group 1.1 — President of the UK Supreme Court, Lord President of the Court of Session (Scotland), Lady Chief Justice of Northern Ireland, Master of the Rolls."
+    },
+    {
+      "code": "JUD-GRP2",
+      "description": "Judicial Salary Group 2 — Justices of the Supreme Court; Division Presidents (Family/King's Bench); Chancellor of the High Court; Senior President of Tribunals; Lord Justice Clerk (Scotland)."
+    },
+    {
+      "code": "JUD-GRP3",
+      "description": "Judicial Salary Group 3 — Lords/Lady Justices of Appeal (England & Wales and Northern Ireland); Inner House Judges of the Court of Session (Scotland)."
+    },
+    {
+      "code": "JUD-GRP4",
+      "description": "Judicial Salary Group 4 — Puisne Judges of the High Court (England & Wales and Northern Ireland); Outer House Judges of the Court of Session (Scotland); Vice-Chancellor of the County Palatine of Lancaster."
+    },
+    {
+      "code": "JUD-GRP5",
+      "description": "Judicial Salary Group 5 — Senior Circuit Judges; Chamber Presidents of First-tier Tribunals; Judge Advocate General; President of Employment Tribunals; Sheriffs Principal (Scotland); Senior District Judge (Chief Magistrate); Recorder of Liverpool/Manchester/Belfast."
+    },
+    {
+      "code": "JUD-GRP5_1",
+      "description": "Judicial Salary Group 5.1 — Senior Masters & Registrars (England & Wales); Upper Tribunal Judges; Social Security Commissioner (Northern Ireland); Deputy Chamber Presidents."
+    },
+    {
+      "code": "JUD-GRP5_2",
+      "description": "Judicial Salary Group 5.2 — Circuit Judges; Sheriffs (Scotland); Senior Judge of the Court of Protection; Regional Employment Judges; Senior Court Masters and Cost Judges; County Court Judges (Northern Ireland)."
+    },
+    {
+      "code": "JUD-GRP6",
+      "description": "Judicial Salary Group 6 — Designated First-tier Tribunal Judges; Vice-Judge Advocate General; Regional Judges (Property Chamber); Presiding District Judge (Magistrates' Courts) Northern Ireland."
+    },
+    {
+      "code": "JUD-GRP7",
+      "description": "Judicial Salary Group 7 — District Judges (England & Wales, Northern Ireland); Employment Judges; Coroners (Northern Ireland); Assistant Judge Advocate General; First-tier Tribunal Judges; Summary Sheriffs (Scotland)."
+    },
+    {
+      "code": "JUD-GRP8",
+      "description": "Judicial Salary Group 8 — Salaried (Regional) Medical Members of the First-tier Tribunal Social Entitlement Chamber."
+    },
+    {
+      "code": "MIL-OF1",
+      "description": "NATO OF-1 — Officer rank 1 (Second Lieutenant / Sub-Lieutenant / Pilot Officer on entry, rising to Lieutenant / Lieutenant RN / Flying Officer). Rates include X-Factor of 14.5%."
+    },
+    {
+      "code": "MIL-OF2",
+      "description": "NATO OF-2 — Captain (Army) / Lieutenant RN / Flight Lieutenant. Rates include X-Factor."
+    },
+    {
+      "code": "MIL-OF3",
+      "description": "NATO OF-3 — Major (Army) / Lieutenant Commander / Squadron Leader. Rates include X-Factor. OF3-09 to OF3-13 are for RAF Engineer Officers only, by selection."
+    },
+    {
+      "code": "MIL-OF4",
+      "description": "NATO OF-4 — Lieutenant Colonel / Commander / Wing Commander. Rates include X-Factor."
+    },
+    {
+      "code": "MIL-OF5",
+      "description": "NATO OF-5 — Colonel / Captain RN / Group Captain. Rates include X-Factor (reduced rate at this seniority)."
+    },
+    {
+      "code": "MIL-OF6",
+      "description": "NATO OF-6 — Brigadier / Commodore / Air Commodore. Rates include X-Factor (reduced rate)."
+    },
+    {
+      "code": "MIL-OR2",
+      "description": "NATO OR-2 — Private (Army) / Able Rating / Aircraftman (RAF). Entry rank on joining the Armed Forces after recruit training."
+    },
+    {
+      "code": "MIL-OR3",
+      "description": "NATO OR-3 — Lance Corporal (Army) / Leading Rating / — (RAF has no direct equivalent; dual OR2/OR3 bands apply)."
+    },
+    {
+      "code": "MIL-OR4",
+      "description": "NATO OR-4 — Corporal / Leading Rate / Corporal (RAF). First SNCO position in most trades."
+    },
+    {
+      "code": "MIL-OR6",
+      "description": "NATO OR-6 — Sergeant / Petty Officer / Sergeant (RAF). Senior NCO."
+    },
+    {
+      "code": "MIL-OR7",
+      "description": "NATO OR-7 — Staff Sergeant / Colour Sergeant / Chief Petty Officer / Flight Sergeant."
+    },
+    {
+      "code": "MIL-OR8",
+      "description": "NATO OR-8 — Warrant Officer Class 2 / Warrant Officer / Warrant Officer (RAF)."
+    },
+    {
+      "code": "MIL-OR9",
+      "description": "NATO OR-9 — Warrant Officer Class 1 / Warrant Officer Class 1 / Warrant Officer Class 1 (senior most rank for OR)."
+    },
+    {
+      "code": "NHS-BAND-1",
+      "description": "NHS Band 1 (closed to new entrants). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-2",
+      "description": "NHS Band 2 (support roles — housekeeping, porters). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-3",
+      "description": "NHS Band 3 (clinical support workers, senior admin). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-4",
+      "description": "NHS Band 4 (assistant practitioners, pharmacy techs). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-5",
+      "description": "NHS Band 5 (newly-qualified nurses, junior professionals). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-6",
+      "description": "NHS Band 6 (senior staff nurses, specialist practitioners). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-7",
+      "description": "NHS Band 7 (team leaders, advanced practitioners). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-8A",
+      "description": "NHS Band 8a (service managers, consultant nurses). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-8B",
+      "description": "NHS Band 8b (senior managers, principal practitioners). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-8C",
+      "description": "NHS Band 8c (associate directors). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-8D",
+      "description": "NHS Band 8d (assistant directors). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "NHS-BAND-9",
+      "description": "NHS Band 9 (directors, chief officers below Board). Source: NHS Agenda for Change 2025-26 (effective 22 May 2025)."
+    },
+    {
+      "code": "PARL-CABINET-MIN",
+      "description": "Cabinet Minister (Secretary of State). Pay = MP + Cabinet Minister additional (£71,090). Note: Cabinet Ministers often forgo part of the additional salary by convention, so actual paid amount is typically around £159,000."
+    },
+    {
+      "code": "PARL-CHIEF-WHIP",
+      "description": "Government Chief Whip (also Parliamentary Secretary to the Treasury). Pay = MP + Chief Whip additional (£41,685)."
+    },
+    {
+      "code": "PARL-LORD-CHANCELLOR",
+      "description": "Lord Chancellor / Secretary of State for Justice. Pay = MP + Lord Chancellor additional (£61,651)."
+    },
+    {
+      "code": "PARL-LORD-SPEAKER",
+      "description": "Lord Speaker of the House of Lords, per Constitutional Reform Act 2005."
+    },
+    {
+      "code": "PARL-LORDS-LEADER",
+      "description": "Leader of the House of Lords. Salary-only (Lords don't receive MP sessional indemnity — peers receive daily allowance)."
+    },
+    {
+      "code": "PARL-MIN-STATE",
+      "description": "Minister of State (senior junior minister). Pay = MP + Minister of State additional (£31,680)."
+    },
+    {
+      "code": "PARL-MP",
+      "description": "Member of Parliament — sessional indemnity only (excluding any office-holder additional). Set annually by IPSA. £93,904 for 2025-26 (uplifted 5.5% from £91,346 in April 2025)."
+    },
+    {
+      "code": "PARL-OPP-LEADER",
+      "description": "Leader of the Official Opposition. Pay = MP + Leader additional (£76,888)."
+    },
+    {
+      "code": "PARL-PM",
+      "description": "Prime Minister of the United Kingdom. Pay = MP sessional indemnity (£93,904) + PM additional salary (£83,370) per Ministerial and other Salaries Act 1975."
+    },
+    {
+      "code": "PARL-SPEAKER",
+      "description": "Speaker of the House of Commons. Special statutory salary set by Ministerial and other Salaries Act 1975 s.1(1)(b)."
+    },
+    {
+      "code": "PARL-UNDER-SEC",
+      "description": "Parliamentary Under-Secretary of State (PUSS). Pay = MP + PUSS additional (£23,712)."
+    },
+    {
+      "code": "PERM-SEC",
+      "description": "Permanent Secretary — Permanent Head of a ministerial department. Tier set centrally by the Cabinet Secretary; pay above the published ceiling requires Chief Secretary to the Treasury approval."
+    },
+    {
+      "code": "SCS-1",
+      "description": "SCS Band 1 — Deputy Director. Heads medium-sized policy units, technical divisions, or operational teams."
+    },
+    {
+      "code": "SCS-1A",
+      "description": "SCS Band 1A — Deputy Director (specialist scheme). Applies to specific technical/professional roles with a slightly elevated ceiling vs Band 1."
+    },
+    {
+      "code": "SCS-2",
+      "description": "SCS Band 2 — Director. Heads a directorate within a department or an executive agency of moderate size."
+    },
+    {
+      "code": "SCS-3",
+      "description": "SCS Band 3 — Director General. Heads a large directorate-general or leads a substantial group across a major department."
+    },
+    {
+      "code": "TEACH-LEAD",
+      "description": "Leading Practitioner Pay Range — top-rate classroom teachers with additional responsibilities, rest-of-England."
+    },
+    {
+      "code": "TEACH-MPR",
+      "description": "Main Pay Range (MPR) — qualified teachers, rest-of-England rates. M1 (entry) to M6 (top before threshold to UPR). Inner London / Outer London / Fringe variants add £3-£7K."
+    },
+    {
+      "code": "TEACH-UNQ",
+      "description": "Unqualified Teacher Pay Range — instructors without QTS (Qualified Teacher Status)."
+    },
+    {
+      "code": "TEACH-UPR",
+      "description": "Upper Pay Range (UPR) — post-threshold experienced teachers. U1 to U3."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "JUD-GRP1",
+      "step": 1,
+      "annual": 325010,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP1_1",
+      "step": 1,
+      "annual": 290213,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP2",
+      "step": 1,
+      "annual": 280311,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP3",
+      "step": 1,
+      "annual": 266556,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP4",
+      "step": 1,
+      "annual": 234096,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP5",
+      "step": 1,
+      "annual": 187743,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP5_1",
+      "step": 1,
+      "annual": 180810,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP5_2",
+      "step": 1,
+      "annual": 173854,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP6",
+      "step": 1,
+      "annual": 163675,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP7",
+      "step": 1,
+      "annual": 139469,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "JUD-GRP8",
+      "step": 1,
+      "annual": 110826,
+      "verifiedAt": "2026-04-22T14:31:59.978Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/judicial-salaries-and-fees-2025-to-2026"
+    },
+    {
+      "gradeCode": "MIL-OF1",
+      "step": 1,
+      "annual": 34676,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF1",
+      "step": 2,
+      "annual": 41456,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF1",
+      "step": 3,
+      "annual": 42872,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF1",
+      "step": 4,
+      "annual": 44288,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF1",
+      "step": 5,
+      "annual": 45705,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 1,
+      "annual": 52815,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 2,
+      "annual": 52815,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 3,
+      "annual": 54445,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 4,
+      "annual": 56076,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 5,
+      "annual": 57706,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 6,
+      "annual": 59337,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 7,
+      "annual": 60968,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF2",
+      "step": 8,
+      "annual": 62598,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 1,
+      "annual": 66240,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 2,
+      "annual": 66240,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 3,
+      "annual": 68385,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 4,
+      "annual": 70531,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 5,
+      "annual": 72676,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 6,
+      "annual": 74821,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 7,
+      "annual": 76967,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 8,
+      "annual": 79112,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 9,
+      "annual": 80672,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 10,
+      "annual": 82263,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 11,
+      "annual": 83886,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 12,
+      "annual": 85542,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF3",
+      "step": 13,
+      "annual": 87230,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 1,
+      "annual": 92520,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 2,
+      "annual": 92520,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 3,
+      "annual": 94933,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 4,
+      "annual": 97332,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 5,
+      "annual": 99738,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 6,
+      "annual": 102143,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 7,
+      "annual": 104550,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF4",
+      "step": 8,
+      "annual": 106955,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 1,
+      "annual": 111854,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 2,
+      "annual": 111854,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 3,
+      "annual": 113687,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 4,
+      "annual": 115519,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 5,
+      "annual": 117352,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 6,
+      "annual": 119184,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 7,
+      "annual": 121017,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF5",
+      "step": 8,
+      "annual": 122849,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 1,
+      "annual": 133083,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 2,
+      "annual": 133083,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 3,
+      "annual": 134418,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 4,
+      "annual": 135753,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 5,
+      "annual": 137088,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OF6",
+      "step": 6,
+      "annual": 138423,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 1,
+      "annual": 26334,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 2,
+      "annual": 27028,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 3,
+      "annual": 27028,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 4,
+      "annual": 29052,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 5,
+      "annual": 30179,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 6,
+      "annual": 31685,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 7,
+      "annual": 33274,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 8,
+      "annual": 34848,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 9,
+      "annual": 36516,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR2",
+      "step": 10,
+      "annual": 38212,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR3",
+      "step": 1,
+      "annual": 34848,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR3",
+      "step": 2,
+      "annual": 36516,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR3",
+      "step": 3,
+      "annual": 38212,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 1,
+      "annual": 40684,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 2,
+      "annual": 40684,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 3,
+      "annual": 41735,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 4,
+      "annual": 42543,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 5,
+      "annual": 43110,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR4",
+      "step": 6,
+      "annual": 43687,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 1,
+      "annual": 45876,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 2,
+      "annual": 45876,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 3,
+      "annual": 47015,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 4,
+      "annual": 48255,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 5,
+      "annual": 49617,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR6",
+      "step": 6,
+      "annual": 50849,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 1,
+      "annual": 51871,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 2,
+      "annual": 51871,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 3,
+      "annual": 52742,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 4,
+      "annual": 53538,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 5,
+      "annual": 54305,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 6,
+      "annual": 55106,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 7,
+      "annual": 56532,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 8,
+      "annual": 56532,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 9,
+      "annual": 57666,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 10,
+      "annual": 58450,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 11,
+      "annual": 59229,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR7",
+      "step": 12,
+      "annual": 59986,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 1,
+      "annual": 56532,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 2,
+      "annual": 56532,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 3,
+      "annual": 57666,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 4,
+      "annual": 58450,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 5,
+      "annual": 59229,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR8",
+      "step": 6,
+      "annual": 59986,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 1,
+      "annual": 62456,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 2,
+      "annual": 62456,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 3,
+      "annual": 62810,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 4,
+      "annual": 63515,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 5,
+      "annual": 64220,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "MIL-OR9",
+      "step": 6,
+      "annual": 64866,
+      "verifiedAt": "2026-04-22T14:31:59.982Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/armed-forces-pay-review-body-fifty-fourth-report-2025"
+    },
+    {
+      "gradeCode": "NHS-BAND-1",
+      "step": 1,
+      "annual": 24465,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-2",
+      "step": 1,
+      "annual": 24465,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-3",
+      "step": 1,
+      "annual": 24937,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-3",
+      "step": 2,
+      "annual": 26598,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-4",
+      "step": 1,
+      "annual": 27485,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-4",
+      "step": 2,
+      "annual": 30162,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-5",
+      "step": 1,
+      "annual": 31049,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-5",
+      "step": 2,
+      "annual": 33487,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-5",
+      "step": 3,
+      "annual": 37796,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-6",
+      "step": 1,
+      "annual": 38682,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-6",
+      "step": 2,
+      "annual": 40823,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-6",
+      "step": 3,
+      "annual": 46580,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-7",
+      "step": 1,
+      "annual": 47810,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-7",
+      "step": 2,
+      "annual": 50273,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-7",
+      "step": 3,
+      "annual": 54710,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8A",
+      "step": 1,
+      "annual": 55690,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8A",
+      "step": 2,
+      "annual": 58487,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8A",
+      "step": 3,
+      "annual": 62682,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8B",
+      "step": 1,
+      "annual": 64455,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8B",
+      "step": 2,
+      "annual": 68631,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8B",
+      "step": 3,
+      "annual": 74896,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8C",
+      "step": 1,
+      "annual": 76965,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8C",
+      "step": 2,
+      "annual": 81652,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8C",
+      "step": 3,
+      "annual": 88682,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8D",
+      "step": 1,
+      "annual": 91342,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8D",
+      "step": 2,
+      "annual": 96941,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-8D",
+      "step": 3,
+      "annual": 105337,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-9",
+      "step": 1,
+      "annual": 109179,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-9",
+      "step": 2,
+      "annual": 115763,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "NHS-BAND-9",
+      "step": 3,
+      "annual": 125637,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-CABINET-MIN",
+      "step": 1,
+      "annual": 165000,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-CHIEF-WHIP",
+      "step": 1,
+      "annual": 135589,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-LORD-CHANCELLOR",
+      "step": 1,
+      "annual": 155555,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-LORD-SPEAKER",
+      "step": 1,
+      "annual": 103036,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-LORDS-LEADER",
+      "step": 1,
+      "annual": 115598,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-MIN-STATE",
+      "step": 1,
+      "annual": 125584,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-MP",
+      "step": 1,
+      "annual": 93904,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-OPP-LEADER",
+      "step": 1,
+      "annual": 170792,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-PM",
+      "step": 1,
+      "annual": 177274,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-SPEAKER",
+      "step": 1,
+      "annual": 163800,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PARL-UNDER-SEC",
+      "step": 1,
+      "annual": 117616,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "PERM-SEC",
+      "step": 1,
+      "annual": 174000,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "PERM-SEC",
+      "step": 2,
+      "annual": 208100,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-1",
+      "step": 1,
+      "annual": 81000,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-1",
+      "step": 2,
+      "annual": 117800,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-1A",
+      "step": 1,
+      "annual": 81000,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-1A",
+      "step": 2,
+      "annual": 128900,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-2",
+      "step": 1,
+      "annual": 100000,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-2",
+      "step": 2,
+      "annual": 162500,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-3",
+      "step": 1,
+      "annual": 130000,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "SCS-3",
+      "step": 2,
+      "annual": 208100,
+      "verifiedAt": "2026-04-21T11:44:36.916Z",
+      "sourceUrl": "https://www.gov.uk/government/publications/guidance-on-the-senior-civil-service-pay-award-202526/guidance-on-the-senior-civil-service-pay-award-202526-html"
+    },
+    {
+      "gradeCode": "TEACH-LEAD",
+      "step": 1,
+      "annual": 55415,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-LEAD",
+      "step": 2,
+      "annual": 84315,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-MPR",
+      "step": 1,
+      "annual": 33075,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-MPR",
+      "step": 2,
+      "annual": 45268,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-UNQ",
+      "step": 1,
+      "annual": 22920,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-UNQ",
+      "step": 2,
+      "annual": 33540,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-UPR",
+      "step": 1,
+      "annual": 46962,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    },
+    {
+      "gradeCode": "TEACH-UPR",
+      "step": 2,
+      "annual": 51351,
+      "verifiedAt": "2026-04-23T15:01:49.539Z",
+      "sourceUrl": "https://www.gov.uk/"
+    }
+  ]
+}

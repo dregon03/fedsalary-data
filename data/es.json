@@ -1,0 +1,1016 @@
+{
+  "country": {
+    "code": "es",
+    "iso3": "ESP",
+    "name": "Spain",
+    "nameLocal": "España",
+    "currency": "EUR",
+    "system": "Subgrupos EBEP + Complemento destino + Altos cargos",
+    "authoritativePublisher": "Ministerio de Hacienda — Ley de Presupuestos Generales del Estado",
+    "authoritativeUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con",
+    "fiscalYear": "2023"
+  },
+  "meta": {
+    "source": "Ministerio de Hacienda — Ley 31/2022 de Presupuestos Generales del Estado para 2023 (authoritative PGE)",
+    "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con",
+    "fiscalYear": "2023",
+    "retrievedAt": "2026-04-24",
+    "status": "AUTO-VERIFIED — 90/90 cells public-ready as of 2026-04-24. Last auto-fetch by es:fas-rd248-2025.",
+    "currency": "EUR",
+    "notes": "Spanish funcionarios are classified into five subgrupos (A1, A2, B, C1, C2) plus the OEP (Oferta de Empleo Público). Each has a fixed sueldo base. Complementos (destino, específico, productividad) add meaningful pay on top and vary by body and post."
+  },
+  "grades": [
+    {
+      "code": "ALTO-DIR-GENERAL",
+      "description": "Director General — total annual (sueldo + complemento destino + específico)."
+    },
+    {
+      "code": "ALTO-MINISTRO",
+      "description": "Ministro del Gobierno — Minister (cabinet member). Annual retribuciones fixed by Ley PGE."
+    },
+    {
+      "code": "ALTO-PRES-CE",
+      "description": "Presidente del Consejo de Estado — President of the Council of State (supreme consultative body). Annual retribuciones fixed by Ley PGE."
+    },
+    {
+      "code": "ALTO-PRES-CES",
+      "description": "Presidente del Consejo Económico y Social — President of the Economic and Social Council (CES). Annual retribuciones fixed by Ley PGE."
+    },
+    {
+      "code": "ALTO-PRES-GOB",
+      "description": "Presidente del Gobierno — Prime Minister / Head of Government of Spain. Annual retribuciones fixed by Ley PGE."
+    },
+    {
+      "code": "ALTO-SEC-ESTADO",
+      "description": "Secretario de Estado — total annual (sueldo + complemento destino + específico)."
+    },
+    {
+      "code": "ALTO-SUBSECRETARIO",
+      "description": "Subsecretario — total annual (sueldo + complemento destino + específico)."
+    },
+    {
+      "code": "ALTO-VP-GOB",
+      "description": "Vicepresidente del Gobierno — Deputy Prime Minister. Annual retribuciones fixed by Ley PGE."
+    },
+    {
+      "code": "CAJ-AUX-JUD",
+      "description": "Auxilio Judicial — Judicial auxiliary/support staff. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CAJ-AYU-LAB",
+      "description": "Ayudantes Laboratorio del INTCF — Laboratory assistants at the National Toxicology Institute. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CAJ-GEST-PROC",
+      "description": "Gestión Procesal y Administrativa — Procedural and administrative management officer (judicial administrative corps). Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CAJ-MED-FOR",
+      "description": "Médicos Forenses y Facultativos del INTCF — Forensic doctors and specialists at the National Toxicology Institute. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CAJ-TEC-INTCF",
+      "description": "Técnicos Especialistas del INTCF — Specialist technicians at the National Toxicology Institute. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CAJ-TRAM-PROC",
+      "description": "Tramitación Procesal y Administrativa — Procedural and administrative processing officer. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "CGPJ-PRES",
+      "description": "Presidente del Tribunal Supremo y del Consejo General del Poder Judicial — Chief Justice and head of Spain's governing judicial body. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "CGPJ-SEC",
+      "description": "Secretario General del Consejo General del Poder Judicial — Secretary General of the CGPJ. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "CGPJ-VOCAL",
+      "description": "Vocal del Consejo General del Poder Judicial — Member of the governing body of the Spanish judiciary. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "FAS-ALF",
+      "description": "Alférez / Alférez de Fragata — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-BRIG",
+      "description": "Brigada — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A2) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-CABO",
+      "description": "Cabo — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (E) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-CABO-1",
+      "description": "Cabo Primero — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (E) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-CABO-MAY",
+      "description": "Cabo Mayor — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (E) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-CAP",
+      "description": "Capitán / Teniente de Navío — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-COL",
+      "description": "Coronel / Capitán de Navío — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-COM",
+      "description": "Comandante / Capitán de Corbeta — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-GEN-BRIG",
+      "description": "General de Brigada / Contralmirante — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-GEN-DIV",
+      "description": "General de División / Vicealmirante — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-SGT",
+      "description": "Sargento — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A2) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-SGT-1",
+      "description": "Sargento Primero — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A2) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-SOB-MAY",
+      "description": "Suboficial Mayor — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A2) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-SOLDADO",
+      "description": "Soldado / Marinero — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (E) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-SUBT",
+      "description": "Subteniente — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A2) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-TCOL",
+      "description": "Teniente Coronel / Capitán de Fragata — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FAS-TEN",
+      "description": "Teniente / Alférez de Navío — Fuerzas Armadas / Guardia Civil (officers). Total calculated as sueldo base (A1) + complemento de empleo + componente general del complemento específico. Additional pay components (complemento destino, trienios, dedicación especial) vary by posting. Source: RD 1314/2005 + RD 248/2025."
+    },
+    {
+      "code": "FIS-ABOG",
+      "description": "Abogado Fiscal — Assistant Prosecutor (entry-level). Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "FIS-FISCAL",
+      "description": "Fiscal — Prosecutor (standard). Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "FIS-SUP-CA",
+      "description": "Fiscal Superior de la Comunidad Autónoma — Regional Chief Prosecutor. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "JUD-JUEZ",
+      "description": "Juez — Entry-level judge (Juzgado). Sueldo base × 14/12 per Ley PGE Art. 28. Total pay depends on complementos."
+    },
+    {
+      "code": "JUD-MAG",
+      "description": "Magistrado — Judge of a tribunal (Audiencia Provincial, TSJ, etc.). Sueldo base × 14/12 per Ley PGE Art. 28. Total pay depends on complemento destino, específico, and antigüedad."
+    },
+    {
+      "code": "JUD-PRES-AN",
+      "description": "Presidente de la Audiencia Nacional (no magistrado del TS) — President of the National Court. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "JUD-PRES-SALA-AN",
+      "description": "Presidente de la Sala de la Audiencia Nacional — Chamber President of the National Court. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "JUD-PRES-TSJ",
+      "description": "Presidente del Tribunal Superior de Justicia — President of a Regional High Court of Justice. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "LAJ-1",
+      "description": "Letrado de la Administración de Justicia de primera categoría — Judicial officer (1st category) — senior court clerk/administrator. Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "LAJ-2",
+      "description": "Letrado de la Administración de Justicia de segunda categoría — Judicial officer (2nd category). Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "LAJ-3",
+      "description": "Letrado de la Administración de Justicia de tercera categoría — Judicial officer (3rd category, entry). Sueldo base × 14/12 per Ley PGE Art. 28."
+    },
+    {
+      "code": "NIV-1",
+      "description": "Nivel 1 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-2",
+      "description": "Nivel 2 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-3",
+      "description": "Nivel 3 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-4",
+      "description": "Nivel 4 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-5",
+      "description": "Nivel 5 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-6",
+      "description": "Nivel 6 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-7",
+      "description": "Nivel 7 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-8",
+      "description": "Nivel 8 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-9",
+      "description": "Nivel 9 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-10",
+      "description": "Nivel 10 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-11",
+      "description": "Nivel 11 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-12",
+      "description": "Nivel 12 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-13",
+      "description": "Nivel 13 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-14",
+      "description": "Nivel 14 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-15",
+      "description": "Nivel 15 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-16",
+      "description": "Nivel 16 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-17",
+      "description": "Nivel 17 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-18",
+      "description": "Nivel 18 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-19",
+      "description": "Nivel 19 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-20",
+      "description": "Nivel 20 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-21",
+      "description": "Nivel 21 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-22",
+      "description": "Nivel 22 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-23",
+      "description": "Nivel 23 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-24",
+      "description": "Nivel 24 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-25",
+      "description": "Nivel 25 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-26",
+      "description": "Nivel 26 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-27",
+      "description": "Nivel 27 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-28",
+      "description": "Nivel 28 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-29",
+      "description": "Nivel 29 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "NIV-30",
+      "description": "Nivel 30 complemento de destino — position-specific uplift paid on top of sueldo base (niveles range 14-30 for A1, 1-14 for lower subgrupos)."
+    },
+    {
+      "code": "SUB-A1",
+      "description": "Subgrupo A1 sueldo base — top-tier general administration (Master/equivalent entry, oposición a Cuerpo Superior)."
+    },
+    {
+      "code": "SUB-A2",
+      "description": "Subgrupo A2 sueldo base — middle management (Bachelor/equivalent entry)."
+    },
+    {
+      "code": "SUB-B",
+      "description": "Subgrupo B sueldo base — technical specialists (FP superior, introduced by EBEP 2007)."
+    },
+    {
+      "code": "SUB-C1",
+      "description": "Subgrupo C1 sueldo base — mid-level admin (Bachillerato)."
+    },
+    {
+      "code": "SUB-C2",
+      "description": "Subgrupo C2 sueldo base — junior admin (ESO/secondary)."
+    },
+    {
+      "code": "SUB-E",
+      "description": "Agrupaciones Profesionales sueldo base — lowest tier (Ley 30/1984 Grupo E successors)."
+    },
+    {
+      "code": "TC-MAG",
+      "description": "Magistrado del Tribunal Constitucional — Justice of the Constitutional Court. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TC-PRES",
+      "description": "Presidente del Tribunal Constitucional — President of the Constitutional Court. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TC-PRES-SEC",
+      "description": "Presidente de Sección del Tribunal Constitucional — Section President of the Constitutional Court. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TC-SEC",
+      "description": "Secretario General del Tribunal Constitucional — Secretary General of the Constitutional Court. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TC-VP",
+      "description": "Vicepresidente del Tribunal Constitucional — Vice-President of the Constitutional Court. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TCU-CONS",
+      "description": "Consejero de Cuentas del Tribunal de Cuentas — Councilor of the Court of Audit. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TCU-PRES",
+      "description": "Presidente del Tribunal de Cuentas — President of the Court of Audit. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TCU-PRES-SEC",
+      "description": "Presidente de Sección del Tribunal de Cuentas — Section President of the Court of Audit. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    },
+    {
+      "code": "TCU-SEC",
+      "description": "Secretario General del Tribunal de Cuentas — Secretary General of the Court of Audit. Total annual retribuciones fixed by Ley PGE, Art. 22."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "ALTO-DIR-GENERAL",
+      "step": 1,
+      "annual": 59048,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-MINISTRO",
+      "step": 1,
+      "annual": 79415,
+      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-PRES-CE",
+      "step": 1,
+      "annual": 90383,
+      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-PRES-CES",
+      "step": 1,
+      "annual": 98741,
+      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-PRES-GOB",
+      "step": 1,
+      "annual": 90010,
+      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-SEC-ESTADO",
+      "step": 1,
+      "annual": 77893,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-SUBSECRETARIO",
+      "step": 1,
+      "annual": 69060,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "ALTO-VP-GOB",
+      "step": 1,
+      "annual": 84601,
+      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-AUX-JUD",
+      "step": 1,
+      "annual": 13441,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-AYU-LAB",
+      "step": 1,
+      "annual": 14819,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-GEST-PROC",
+      "step": 1,
+      "annual": 18029,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-MED-FOR",
+      "step": 1,
+      "annual": 20879,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-TEC-INTCF",
+      "step": 1,
+      "annual": 18029,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CAJ-TRAM-PROC",
+      "step": 1,
+      "annual": 14819,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CGPJ-PRES",
+      "step": 1,
+      "annual": 151186,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CGPJ-SEC",
+      "step": 1,
+      "annual": 127385,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "CGPJ-VOCAL",
+      "step": 1,
+      "annual": 130390,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "FAS-ALF",
+      "step": 1,
+      "annual": 31728,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-BRIG",
+      "step": 1,
+      "annual": 30208,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-CABO",
+      "step": 1,
+      "annual": 18599,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-CABO-1",
+      "step": 1,
+      "annual": 19956,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-CABO-MAY",
+      "step": 1,
+      "annual": 21296,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-CAP",
+      "step": 1,
+      "annual": 35341,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-COL",
+      "step": 1,
+      "annual": 42770,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-COM",
+      "step": 1,
+      "annual": 37991,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-GEN-BRIG",
+      "step": 1,
+      "annual": 46041,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-GEN-DIV",
+      "step": 1,
+      "annual": 50436,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-SGT",
+      "step": 1,
+      "annual": 26924,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-SGT-1",
+      "step": 1,
+      "annual": 28296,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-SOB-MAY",
+      "step": 1,
+      "annual": 34357,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-SOLDADO",
+      "step": 1,
+      "annual": 18144,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-SUBT",
+      "step": 1,
+      "annual": 32513,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-TCOL",
+      "step": 1,
+      "annual": 39756,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FAS-TEN",
+      "step": 1,
+      "annual": 32115,
+      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+    },
+    {
+      "gradeCode": "FIS-ABOG",
+      "step": 1,
+      "annual": 24358,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "FIS-FISCAL",
+      "step": 1,
+      "annual": 27839,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "FIS-SUP-CA",
+      "step": 1,
+      "annual": 31317,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "JUD-JUEZ",
+      "step": 1,
+      "annual": 24358,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "JUD-MAG",
+      "step": 1,
+      "annual": 27839,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "JUD-PRES-AN",
+      "step": 1,
+      "annual": 32440,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "JUD-PRES-SALA-AN",
+      "step": 1,
+      "annual": 30732,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "JUD-PRES-TSJ",
+      "step": 1,
+      "annual": 31317,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "LAJ-1",
+      "step": 1,
+      "annual": 24358,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "LAJ-2",
+      "step": 1,
+      "annual": 23152,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "LAJ-3",
+      "step": 1,
+      "annual": 21510,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-1",
+      "step": 1,
+      "annual": 1279,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-10",
+      "step": 1,
+      "annual": 3000,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-11",
+      "step": 1,
+      "annual": 3312,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-12",
+      "step": 1,
+      "annual": 3626,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-13",
+      "step": 1,
+      "annual": 3939,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-14",
+      "step": 1,
+      "annual": 4252,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-15",
+      "step": 1,
+      "annual": 4565,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-16",
+      "step": 1,
+      "annual": 4878,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-17",
+      "step": 1,
+      "annual": 5190,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-18",
+      "step": 1,
+      "annual": 5504,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-19",
+      "step": 1,
+      "annual": 5817,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-2",
+      "step": 1,
+      "annual": 1514,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-20",
+      "step": 1,
+      "annual": 6129,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-21",
+      "step": 1,
+      "annual": 6599,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-22",
+      "step": 1,
+      "annual": 7107,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-23",
+      "step": 1,
+      "annual": 7617,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-24",
+      "step": 1,
+      "annual": 8126,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-25",
+      "step": 1,
+      "annual": 8635,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-26",
+      "step": 1,
+      "annual": 9733,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-27",
+      "step": 1,
+      "annual": 11094,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-28",
+      "step": 1,
+      "annual": 11604,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-29",
+      "step": 1,
+      "annual": 12113,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-3",
+      "step": 1,
+      "annual": 1749,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-30",
+      "step": 1,
+      "annual": 13504,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-4",
+      "step": 1,
+      "annual": 1983,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-5",
+      "step": 1,
+      "annual": 2217,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-6",
+      "step": 1,
+      "annual": 2374,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-7",
+      "step": 1,
+      "annual": 2530,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-8",
+      "step": 1,
+      "annual": 2687,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "NIV-9",
+      "step": 1,
+      "annual": 2844,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-A1",
+      "step": 1,
+      "annual": 17050,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-A2",
+      "step": 1,
+      "annual": 14993,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-B",
+      "step": 1,
+      "annual": 13369,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-C1",
+      "step": 1,
+      "annual": 11483,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-C2",
+      "step": 1,
+      "annual": 9733,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "SUB-E",
+      "step": 1,
+      "annual": 8920,
+      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TC-MAG",
+      "step": 1,
+      "annual": 141757,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TC-PRES",
+      "step": 1,
+      "annual": 167169,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TC-PRES-SEC",
+      "step": 1,
+      "annual": 149445,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TC-SEC",
+      "step": 1,
+      "annual": 134150,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TC-VP",
+      "step": 1,
+      "annual": 157133,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TCU-CONS",
+      "step": 1,
+      "annual": 130772,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TCU-PRES",
+      "step": 1,
+      "annual": 130772,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TCU-PRES-SEC",
+      "step": 1,
+      "annual": 130772,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    },
+    {
+      "gradeCode": "TCU-SEC",
+      "step": 1,
+      "annual": 112585,
+      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
+    }
+  ]
+}

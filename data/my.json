@@ -1,0 +1,5016 @@
+{
+  "country": {
+    "code": "my",
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "nameLocal": "Malaysia",
+    "currency": "MYR",
+    "system": "Sistem Saraan Perkhidmatan Awam (SSPA)",
+    "authoritativePublisher": "Jabatan Perkhidmatan Awam (JPA) — Public Service Department",
+    "authoritativeUrl": "https://sspa.jpa.gov.my/",
+    "fiscalYear": "2024"
+  },
+  "meta": {
+    "source": "Jabatan Perkhidmatan Awam (JPA) — Sistem Saraan Perkhidmatan Awam (SSPA), Pekeliling Perkhidmatan Bilangan 1 Tahun 2024, Lampiran D",
+    "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf",
+    "fiscalYear": "2024",
+    "retrievedAt": "2026-04-24",
+    "status": "AUTO-VERIFIED — 686/686 cells public-ready as of 2026-04-24. Last auto-fetch by my:extras-v1.",
+    "currency": "MYR",
+    "notes": "Malaysia implemented the SSPA (Sistem Saraan Perkhidmatan Awam) effective 1 December 2024 under Pekeliling Perkhidmatan Bilangan 1 Tahun 2024, replacing the previous Sistem Saraan Malaysia. Structure: 2 groups — Pengurusan & Profesional (grades 9-15 + 13P) and Pelaksana (grades 1-8). Each grade has JGMM (min-max range) with KGT annual increment rate. Annual = monthly × 12 before allowances (ITKA housing, COLA, etc. vary by posting)."
+  },
+  "grades": [
+    {
+      "code": "JUD-CJ",
+      "description": "Chief Justice of Malaysia (Ketua Hakim Negara). Base monthly salary RM36,000 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-CJHC-MY",
+      "description": "Chief Judge of the High Court in Malaya (Hakim Besar Mahkamah Tinggi Malaya). Base monthly salary RM30,500 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-CJHC-SS",
+      "description": "Chief Judge of the High Court in Sabah and Sarawak (Hakim Besar Mahkamah Tinggi Sabah & Sarawak). Base monthly salary RM30,000 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-COA",
+      "description": "Judge of the Court of Appeal (Hakim Mahkamah Rayuan). Base monthly salary RM27,500 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-FCJ",
+      "description": "Judge of the Federal Court (Hakim Mahkamah Persekutuan). Base monthly salary RM28,500 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-HC",
+      "description": "Judge of the High Courts (Hakim Mahkamah Tinggi). Base monthly salary RM26,500 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "JUD-PCA",
+      "description": "President of the Court of Appeal (Presiden Mahkamah Rayuan). Base monthly salary RM31,500 per Judges' Remuneration Act 1971 (Act 45), First Schedule."
+    },
+    {
+      "code": "PL-1",
+      "description": "Pelaksana Gred 1 — entry-level operational staff."
+    },
+    {
+      "code": "PL-2",
+      "description": "Pelaksana Gred 2 — basic operational staff."
+    },
+    {
+      "code": "PL-3",
+      "description": "Pelaksana Gred 3 — junior operational staff."
+    },
+    {
+      "code": "PL-4",
+      "description": "Pelaksana Gred 4 — operational staff."
+    },
+    {
+      "code": "PL-5",
+      "description": "Pelaksana Gred 5 — intermediate operational staff."
+    },
+    {
+      "code": "PL-6",
+      "description": "Pelaksana Gred 6 — senior operational staff."
+    },
+    {
+      "code": "PL-7",
+      "description": "Pelaksana Gred 7 — experienced execution staff."
+    },
+    {
+      "code": "PL-8",
+      "description": "Pelaksana Gred 8 — senior execution staff / supervisor."
+    },
+    {
+      "code": "POL-DEPMIN",
+      "description": "Deputy Minister (Timbalan Menteri). Monthly base salary RM10,847.65 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-DPM",
+      "description": "Deputy Prime Minister (Timbalan Perdana Menteri). Monthly base salary RM18,168.15 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-MIN",
+      "description": "Minister (Menteri Kabinet). Monthly base salary RM14,907.20 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-MP",
+      "description": "Member of the House of Representatives (Ahli Dewan Rakyat) — base allowance. Monthly base salary RM6,508.59 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PARLSEC",
+      "description": "Parliamentary Secretary (Setiausaha Parlimen). Monthly base salary RM7,187.40 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PDN-DP",
+      "description": "Deputy President of the Senate (Timbalan Yang di-Pertua Dewan Negara) — salary only. Monthly base salary RM9,680.00 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PDN-P",
+      "description": "President of the Senate (Yang di-Pertua Dewan Negara) — salary only. Monthly base salary RM14,219.92 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PDR-DP",
+      "description": "Deputy Speaker of the House of Representatives (Timbalan Yang di-Pertua Dewan Rakyat) — salary only. Monthly base salary RM9,680.00 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PDR-P",
+      "description": "Speaker of the House of Representatives (Yang di-Pertua Dewan Rakyat) — salary only. Monthly base salary RM14,219.92 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-PM",
+      "description": "Prime Minister (Perdana Menteri). Monthly base salary RM22,826.65 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "POL-SEN",
+      "description": "Senator / Member of the Senate (Ahli Dewan Negara) — base allowance. Monthly base salary RM4,112.79 per Members of Parliament (Remuneration) Act 1980 (Act 237)."
+    },
+    {
+      "code": "PP-9",
+      "description": "Pengurusan & Profesional Gred 9 — entry-level professional (graduate entry)."
+    },
+    {
+      "code": "PP-10",
+      "description": "Pengurusan & Profesional Gred 10 — mid-career professional."
+    },
+    {
+      "code": "PP-11",
+      "description": "Pengurusan & Profesional Gred 11 — experienced professional / team lead."
+    },
+    {
+      "code": "PP-12",
+      "description": "Pengurusan & Profesional Gred 12 — middle management."
+    },
+    {
+      "code": "PP-13",
+      "description": "Pengurusan & Profesional Gred 13 — middle-to-senior management."
+    },
+    {
+      "code": "PP-13P",
+      "description": "Pengurusan & Profesional Gred 13P — special senior entry/progression band."
+    },
+    {
+      "code": "PP-14",
+      "description": "Pengurusan & Profesional Gred 14 — senior management."
+    },
+    {
+      "code": "PP-15",
+      "description": "Pengurusan & Profesional Gred 15 — senior management (Pengarah / Timbalan KSU level)."
+    },
+    {
+      "code": "PT-VK2",
+      "description": "Gred Khas Turus I — Special Grade Turus I. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM12,240 – RM33,950, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VK3",
+      "description": "Gred Khas Turus II — Special Grade Turus II. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM11,380 – RM31,140, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VK4",
+      "description": "Gred Khas Turus III — Special Grade Turus III. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM10,350 – RM28,560, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VK5",
+      "description": "Gred Khas A — Special Grade A. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM9,400 – RM26,200, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VK6",
+      "description": "Gred Khas B — Special Grade B. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM8,650 – RM24,030, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VK7",
+      "description": "Gred Khas C — Special Grade C. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM7,990 – RM22,040, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU1",
+      "description": "Ketua Setiausaha Negara (KSN) — Chief Secretary to the Government. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM13,480 – RM37,460, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU2",
+      "description": "Gred Utama Turus I — Superscale Turus I (Director-General of major ministry). Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM12,410 – RM34,360, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU3",
+      "description": "Gred Utama Turus II — Superscale Turus II. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM11,380 – RM31,140, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU4",
+      "description": "Gred Utama Turus III — Superscale Turus III. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM10,350 – RM28,560, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU5",
+      "description": "Gred Utama A — Main Superscale A. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM9,400 – RM26,200, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU6",
+      "description": "Gred Utama B — Main Superscale B. Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM8,650 – RM24,030, step increment 9% KGT."
+    },
+    {
+      "code": "PT-VU7",
+      "description": "Gred Utama C — Main Superscale C (entry to top management). Pengurusan Tertinggi under SSPA (effective 1 December 2024). Monthly salary range RM7,990 – RM22,040, step increment 9% KGT."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "JUD-CJ",
+      "step": 1,
+      "annual": 432000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-CJHC-MY",
+      "step": 1,
+      "annual": 366000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-CJHC-SS",
+      "step": 1,
+      "annual": 360000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-COA",
+      "step": 1,
+      "annual": 330000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-FCJ",
+      "step": 1,
+      "annual": 342000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-HC",
+      "step": 1,
+      "annual": 318000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "JUD-PCA",
+      "step": 1,
+      "annual": 378000,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 1,
+      "annual": 18000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 2,
+      "annual": 19200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 3,
+      "annual": 20400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 4,
+      "annual": 21600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 5,
+      "annual": 22800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 6,
+      "annual": 24000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 7,
+      "annual": 25200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 8,
+      "annual": 26400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 9,
+      "annual": 27600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 10,
+      "annual": 28800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 11,
+      "annual": 30000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 12,
+      "annual": 31200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 13,
+      "annual": 32400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 14,
+      "annual": 33600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 15,
+      "annual": 34800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 16,
+      "annual": 36000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 17,
+      "annual": 37200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 18,
+      "annual": 38400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 19,
+      "annual": 39600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 20,
+      "annual": 40800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 21,
+      "annual": 42000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 22,
+      "annual": 43200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 23,
+      "annual": 44400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 24,
+      "annual": 45600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 25,
+      "annual": 46800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 26,
+      "annual": 48000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 27,
+      "annual": 49200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 28,
+      "annual": 50400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 29,
+      "annual": 51600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 30,
+      "annual": 52800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 31,
+      "annual": 54000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-1",
+      "step": 32,
+      "annual": 55200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 1,
+      "annual": 26640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 2,
+      "annual": 28020,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 3,
+      "annual": 29400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 4,
+      "annual": 30780,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 5,
+      "annual": 32160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 6,
+      "annual": 33540,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 7,
+      "annual": 34920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 8,
+      "annual": 36300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 9,
+      "annual": 37680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 10,
+      "annual": 39060,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 11,
+      "annual": 40440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 12,
+      "annual": 41820,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 13,
+      "annual": 43200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 14,
+      "annual": 44580,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 15,
+      "annual": 45960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 16,
+      "annual": 47340,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 17,
+      "annual": 48720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 18,
+      "annual": 50100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 19,
+      "annual": 51480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 20,
+      "annual": 52860,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 21,
+      "annual": 54240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 22,
+      "annual": 55620,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 23,
+      "annual": 57000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 24,
+      "annual": 58380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 25,
+      "annual": 59760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 26,
+      "annual": 61140,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 27,
+      "annual": 62520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 28,
+      "annual": 63900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 29,
+      "annual": 65280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 30,
+      "annual": 66660,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-2",
+      "step": 31,
+      "annual": 68040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 1,
+      "annual": 33480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 2,
+      "annual": 34980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 3,
+      "annual": 36480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 4,
+      "annual": 37980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 5,
+      "annual": 39480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 6,
+      "annual": 40980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 7,
+      "annual": 42480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 8,
+      "annual": 43980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 9,
+      "annual": 45480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 10,
+      "annual": 46980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 11,
+      "annual": 48480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 12,
+      "annual": 49980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 13,
+      "annual": 51480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 14,
+      "annual": 52980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 15,
+      "annual": 54480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 16,
+      "annual": 55980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 17,
+      "annual": 57480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 18,
+      "annual": 58980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 19,
+      "annual": 60480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 20,
+      "annual": 61980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 21,
+      "annual": 63480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 22,
+      "annual": 64980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 23,
+      "annual": 66480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 24,
+      "annual": 67980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 25,
+      "annual": 69480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 26,
+      "annual": 70980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-3",
+      "step": 27,
+      "annual": 72480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 1,
+      "annual": 35160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 2,
+      "annual": 36720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 3,
+      "annual": 38280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 4,
+      "annual": 39840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 5,
+      "annual": 41400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 6,
+      "annual": 42960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 7,
+      "annual": 44520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 8,
+      "annual": 46080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 9,
+      "annual": 47640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 10,
+      "annual": 49200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 11,
+      "annual": 50760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 12,
+      "annual": 52320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 13,
+      "annual": 53880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 14,
+      "annual": 55440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 15,
+      "annual": 57000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 16,
+      "annual": 58560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 17,
+      "annual": 60120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 18,
+      "annual": 61680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 19,
+      "annual": 63240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 20,
+      "annual": 64800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 21,
+      "annual": 66360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 22,
+      "annual": 67920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 23,
+      "annual": 69480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 24,
+      "annual": 71040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 25,
+      "annual": 72600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 26,
+      "annual": 74160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-4",
+      "step": 27,
+      "annual": 75720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 1,
+      "annual": 19800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 2,
+      "annual": 21540,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 3,
+      "annual": 23280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 4,
+      "annual": 25020,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 5,
+      "annual": 26760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 6,
+      "annual": 28500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 7,
+      "annual": 30240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 8,
+      "annual": 31980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 9,
+      "annual": 33720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 10,
+      "annual": 35460,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 11,
+      "annual": 37200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 12,
+      "annual": 38940,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 13,
+      "annual": 40680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 14,
+      "annual": 42420,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 15,
+      "annual": 44160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 16,
+      "annual": 45900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 17,
+      "annual": 47640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 18,
+      "annual": 49380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 19,
+      "annual": 51120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 20,
+      "annual": 52860,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 21,
+      "annual": 54600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 22,
+      "annual": 56340,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 23,
+      "annual": 58080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 24,
+      "annual": 59820,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 25,
+      "annual": 61560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 26,
+      "annual": 63300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 27,
+      "annual": 65040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 28,
+      "annual": 66780,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 29,
+      "annual": 68520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 30,
+      "annual": 70260,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 31,
+      "annual": 72000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 32,
+      "annual": 73740,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 33,
+      "annual": 75480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 34,
+      "annual": 77220,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-5",
+      "step": 35,
+      "annual": 78960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 1,
+      "annual": 36960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 2,
+      "annual": 38820,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 3,
+      "annual": 40680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 4,
+      "annual": 42540,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 5,
+      "annual": 44400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 6,
+      "annual": 46260,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 7,
+      "annual": 48120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 8,
+      "annual": 49980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 9,
+      "annual": 51840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 10,
+      "annual": 53700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 11,
+      "annual": 55560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 12,
+      "annual": 57420,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 13,
+      "annual": 59280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 14,
+      "annual": 61140,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 15,
+      "annual": 63000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 16,
+      "annual": 64860,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 17,
+      "annual": 66720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 18,
+      "annual": 68580,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 19,
+      "annual": 70440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 20,
+      "annual": 72300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 21,
+      "annual": 74160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 22,
+      "annual": 76020,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 23,
+      "annual": 77880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 24,
+      "annual": 79740,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 25,
+      "annual": 81600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 26,
+      "annual": 83460,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 27,
+      "annual": 85320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 28,
+      "annual": 87180,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 29,
+      "annual": 89040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 30,
+      "annual": 90900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 31,
+      "annual": 92760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 32,
+      "annual": 94620,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 33,
+      "annual": 96480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 34,
+      "annual": 98340,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 35,
+      "annual": 100200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-6",
+      "step": 36,
+      "annual": 102060,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 1,
+      "annual": 45720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 2,
+      "annual": 47880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 3,
+      "annual": 50040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 4,
+      "annual": 52200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 5,
+      "annual": 54360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 6,
+      "annual": 56520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 7,
+      "annual": 58680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 8,
+      "annual": 60840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 9,
+      "annual": 63000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 10,
+      "annual": 65160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 11,
+      "annual": 67320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 12,
+      "annual": 69480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 13,
+      "annual": 71640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 14,
+      "annual": 73800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 15,
+      "annual": 75960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 16,
+      "annual": 78120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 17,
+      "annual": 80280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 18,
+      "annual": 82440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 19,
+      "annual": 84600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 20,
+      "annual": 86760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 21,
+      "annual": 88920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 22,
+      "annual": 91080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 23,
+      "annual": 93240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 24,
+      "annual": 95400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 25,
+      "annual": 97560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 26,
+      "annual": 99720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 27,
+      "annual": 101880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 28,
+      "annual": 104040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 29,
+      "annual": 106200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 30,
+      "annual": 108360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-7",
+      "step": 31,
+      "annual": 110520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 1,
+      "annual": 64680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 2,
+      "annual": 67380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 3,
+      "annual": 70080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 4,
+      "annual": 72780,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 5,
+      "annual": 75480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 6,
+      "annual": 78180,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 7,
+      "annual": 80880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 8,
+      "annual": 83580,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 9,
+      "annual": 86280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 10,
+      "annual": 88980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 11,
+      "annual": 91680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 12,
+      "annual": 94380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 13,
+      "annual": 97080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 14,
+      "annual": 99780,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 15,
+      "annual": 102480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 16,
+      "annual": 105180,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 17,
+      "annual": 107880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 18,
+      "annual": 110580,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 19,
+      "annual": 113280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 20,
+      "annual": 115980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 21,
+      "annual": 118680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 22,
+      "annual": 121380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 23,
+      "annual": 124080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PL-8",
+      "step": 24,
+      "annual": 126780,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "POL-DEPMIN",
+      "step": 1,
+      "annual": 130172,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-DPM",
+      "step": 1,
+      "annual": 218018,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-MIN",
+      "step": 1,
+      "annual": 178886,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-MP",
+      "step": 1,
+      "annual": 78103,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PARLSEC",
+      "step": 1,
+      "annual": 86249,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PDN-DP",
+      "step": 1,
+      "annual": 116160,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PDN-P",
+      "step": 1,
+      "annual": 170639,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PDR-DP",
+      "step": 1,
+      "annual": 116160,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PDR-P",
+      "step": 1,
+      "annual": 170639,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-PM",
+      "step": 1,
+      "annual": 273920,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "POL-SEN",
+      "step": 1,
+      "annual": 49353,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://www.parlimen.gov.my/images/webuser/akta/Act%20237e.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 1,
+      "annual": 46080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 2,
+      "annual": 49080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 3,
+      "annual": 52080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 4,
+      "annual": 55080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 5,
+      "annual": 58080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 6,
+      "annual": 61080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 7,
+      "annual": 64080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 8,
+      "annual": 67080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 9,
+      "annual": 70080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 10,
+      "annual": 73080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 11,
+      "annual": 76080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 12,
+      "annual": 79080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 13,
+      "annual": 82080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 14,
+      "annual": 85080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 15,
+      "annual": 88080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 16,
+      "annual": 91080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 17,
+      "annual": 94080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 18,
+      "annual": 97080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 19,
+      "annual": 100080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 20,
+      "annual": 103080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 21,
+      "annual": 106080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 22,
+      "annual": 109080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 23,
+      "annual": 112080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 24,
+      "annual": 115080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 25,
+      "annual": 118080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 26,
+      "annual": 121080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 27,
+      "annual": 124080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 28,
+      "annual": 127080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 29,
+      "annual": 130080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 30,
+      "annual": 133080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 31,
+      "annual": 136080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 32,
+      "annual": 139080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 33,
+      "annual": 142080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-10",
+      "step": 34,
+      "annual": 145080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 1,
+      "annual": 39840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 2,
+      "annual": 42900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 3,
+      "annual": 45960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 4,
+      "annual": 49020,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 5,
+      "annual": 52080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 6,
+      "annual": 55140,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 7,
+      "annual": 58200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 8,
+      "annual": 61260,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 9,
+      "annual": 64320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 10,
+      "annual": 67380,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 11,
+      "annual": 70440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 12,
+      "annual": 73500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 13,
+      "annual": 76560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 14,
+      "annual": 79620,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 15,
+      "annual": 82680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 16,
+      "annual": 85740,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 17,
+      "annual": 88800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 18,
+      "annual": 91860,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 19,
+      "annual": 94920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 20,
+      "annual": 97980,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 21,
+      "annual": 101040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 22,
+      "annual": 104100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 23,
+      "annual": 107160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 24,
+      "annual": 110220,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 25,
+      "annual": 113280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 26,
+      "annual": 116340,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 27,
+      "annual": 119400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 28,
+      "annual": 122460,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 29,
+      "annual": 125520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 30,
+      "annual": 128580,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 31,
+      "annual": 131640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 32,
+      "annual": 134700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 33,
+      "annual": 137760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 34,
+      "annual": 140820,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 35,
+      "annual": 143880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 36,
+      "annual": 146940,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 37,
+      "annual": 150000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-11",
+      "step": 38,
+      "annual": 153060,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 1,
+      "annual": 66360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 2,
+      "annual": 69600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 3,
+      "annual": 72840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 4,
+      "annual": 76080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 5,
+      "annual": 79320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 6,
+      "annual": 82560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 7,
+      "annual": 85800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 8,
+      "annual": 89040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 9,
+      "annual": 92280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 10,
+      "annual": 95520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 11,
+      "annual": 98760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 12,
+      "annual": 102000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 13,
+      "annual": 105240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 14,
+      "annual": 108480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 15,
+      "annual": 111720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 16,
+      "annual": 114960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 17,
+      "annual": 118200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 18,
+      "annual": 121440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 19,
+      "annual": 124680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 20,
+      "annual": 127920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 21,
+      "annual": 131160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 22,
+      "annual": 134400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 23,
+      "annual": 137640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 24,
+      "annual": 140880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 25,
+      "annual": 144120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 26,
+      "annual": 147360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 27,
+      "annual": 150600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 28,
+      "annual": 153840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 29,
+      "annual": 157080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-12",
+      "step": 30,
+      "annual": 160320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 1,
+      "annual": 74520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 2,
+      "annual": 78000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 3,
+      "annual": 81480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 4,
+      "annual": 84960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 5,
+      "annual": 88440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 6,
+      "annual": 91920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 7,
+      "annual": 95400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 8,
+      "annual": 98880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 9,
+      "annual": 102360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 10,
+      "annual": 105840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 11,
+      "annual": 109320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 12,
+      "annual": 112800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 13,
+      "annual": 116280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 14,
+      "annual": 119760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 15,
+      "annual": 123240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 16,
+      "annual": 126720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 17,
+      "annual": 130200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 18,
+      "annual": 133680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 19,
+      "annual": 137160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 20,
+      "annual": 140640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 21,
+      "annual": 144120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 22,
+      "annual": 147600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 23,
+      "annual": 151080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 24,
+      "annual": 154560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 25,
+      "annual": 158040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 26,
+      "annual": 161520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 27,
+      "annual": 165000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 28,
+      "annual": 168480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13",
+      "step": 29,
+      "annual": 171960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 1,
+      "annual": 53160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 2,
+      "annual": 56520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 3,
+      "annual": 59880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 4,
+      "annual": 63240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 5,
+      "annual": 66600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 6,
+      "annual": 69960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 7,
+      "annual": 73320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 8,
+      "annual": 76680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 9,
+      "annual": 80040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 10,
+      "annual": 83400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 11,
+      "annual": 86760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 12,
+      "annual": 90120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 13,
+      "annual": 93480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 14,
+      "annual": 96840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 15,
+      "annual": 100200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 16,
+      "annual": 103560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 17,
+      "annual": 106920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 18,
+      "annual": 110280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 19,
+      "annual": 113640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 20,
+      "annual": 117000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 21,
+      "annual": 120360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 22,
+      "annual": 123720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 23,
+      "annual": 127080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 24,
+      "annual": 130440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 25,
+      "annual": 133800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 26,
+      "annual": 137160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 27,
+      "annual": 140520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 28,
+      "annual": 143880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 29,
+      "annual": 147240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 30,
+      "annual": 150600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 31,
+      "annual": 153960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 32,
+      "annual": 157320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-13P",
+      "step": 33,
+      "annual": 160680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 1,
+      "annual": 78720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 2,
+      "annual": 82560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 3,
+      "annual": 86400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 4,
+      "annual": 90240,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 5,
+      "annual": 94080,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 6,
+      "annual": 97920,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 7,
+      "annual": 101760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 8,
+      "annual": 105600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 9,
+      "annual": 109440,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 10,
+      "annual": 113280,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 11,
+      "annual": 117120,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 12,
+      "annual": 120960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 13,
+      "annual": 124800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 14,
+      "annual": 128640,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 15,
+      "annual": 132480,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 16,
+      "annual": 136320,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 17,
+      "annual": 140160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 18,
+      "annual": 144000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 19,
+      "annual": 147840,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 20,
+      "annual": 151680,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 21,
+      "annual": 155520,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 22,
+      "annual": 159360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 23,
+      "annual": 163200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 24,
+      "annual": 167040,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 25,
+      "annual": 170880,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 26,
+      "annual": 174720,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 27,
+      "annual": 178560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-14",
+      "step": 28,
+      "annual": 182400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 1,
+      "annual": 84360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 2,
+      "annual": 89160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 3,
+      "annual": 93960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 4,
+      "annual": 98760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 5,
+      "annual": 103560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 6,
+      "annual": 108360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 7,
+      "annual": 113160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 8,
+      "annual": 117960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 9,
+      "annual": 122760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 10,
+      "annual": 127560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 11,
+      "annual": 132360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 12,
+      "annual": 137160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 13,
+      "annual": 141960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 14,
+      "annual": 146760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 15,
+      "annual": 151560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 16,
+      "annual": 156360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 17,
+      "annual": 161160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 18,
+      "annual": 165960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 19,
+      "annual": 170760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 20,
+      "annual": 175560,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 21,
+      "annual": 180360,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 22,
+      "annual": 185160,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 23,
+      "annual": 189960,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-15",
+      "step": 24,
+      "annual": 194760,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 1,
+      "annual": 27000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 2,
+      "annual": 29700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 3,
+      "annual": 32400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 4,
+      "annual": 35100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 5,
+      "annual": 37800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 6,
+      "annual": 40500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 7,
+      "annual": 43200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 8,
+      "annual": 45900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 9,
+      "annual": 48600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 10,
+      "annual": 51300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 11,
+      "annual": 54000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 12,
+      "annual": 56700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 13,
+      "annual": 59400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 14,
+      "annual": 62100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 15,
+      "annual": 64800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 16,
+      "annual": 67500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 17,
+      "annual": 70200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 18,
+      "annual": 72900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 19,
+      "annual": 75600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 20,
+      "annual": 78300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 21,
+      "annual": 81000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 22,
+      "annual": 83700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 23,
+      "annual": 86400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 24,
+      "annual": 89100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 25,
+      "annual": 91800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 26,
+      "annual": 94500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 27,
+      "annual": 97200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 28,
+      "annual": 99900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 29,
+      "annual": 102600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 30,
+      "annual": 105300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 31,
+      "annual": 108000,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 32,
+      "annual": 110700,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 33,
+      "annual": 113400,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 34,
+      "annual": 116100,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 35,
+      "annual": 118800,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 36,
+      "annual": 121500,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 37,
+      "annual": 124200,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 38,
+      "annual": 126900,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 39,
+      "annual": 129600,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PP-9",
+      "step": 40,
+      "annual": 132300,
+      "verifiedAt": "2026-04-20T14:09:57.554Z",
+      "sourceUrl": "https://docs.jpa.gov.my/docs/sspa/SSPA_LAMPIRAN_D.pdf"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 1,
+      "annual": 146880,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 2,
+      "annual": 160099,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 3,
+      "annual": 174508,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 4,
+      "annual": 190214,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 5,
+      "annual": 207333,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 6,
+      "annual": 225993,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 7,
+      "annual": 246332,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 8,
+      "annual": 268502,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 9,
+      "annual": 292668,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 10,
+      "annual": 319008,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 11,
+      "annual": 347718,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 12,
+      "annual": 379013,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK2",
+      "step": 13,
+      "annual": 407400,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 1,
+      "annual": 136560,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 2,
+      "annual": 148850,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 3,
+      "annual": 162247,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 4,
+      "annual": 176849,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 5,
+      "annual": 192766,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 6,
+      "annual": 210114,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 7,
+      "annual": 229025,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 8,
+      "annual": 249637,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 9,
+      "annual": 272104,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 10,
+      "annual": 296594,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 11,
+      "annual": 323287,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 12,
+      "annual": 352383,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK3",
+      "step": 13,
+      "annual": 373680,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 1,
+      "annual": 124200,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 2,
+      "annual": 135378,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 3,
+      "annual": 147562,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 4,
+      "annual": 160843,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 5,
+      "annual": 175318,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 6,
+      "annual": 191097,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 7,
+      "annual": 208296,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 8,
+      "annual": 227042,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 9,
+      "annual": 247476,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 10,
+      "annual": 269749,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 11,
+      "annual": 294027,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 12,
+      "annual": 320489,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK4",
+      "step": 13,
+      "annual": 342720,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 1,
+      "annual": 112800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 2,
+      "annual": 122952,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 3,
+      "annual": 134018,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 4,
+      "annual": 146079,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 5,
+      "annual": 159226,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 6,
+      "annual": 173557,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 7,
+      "annual": 189177,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 8,
+      "annual": 206203,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 9,
+      "annual": 224761,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 10,
+      "annual": 244990,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 11,
+      "annual": 267039,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 12,
+      "annual": 291072,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK5",
+      "step": 13,
+      "annual": 314400,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 1,
+      "annual": 103800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 2,
+      "annual": 113142,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 3,
+      "annual": 123325,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 4,
+      "annual": 134424,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 5,
+      "annual": 146522,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 6,
+      "annual": 159709,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 7,
+      "annual": 174083,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 8,
+      "annual": 189750,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 9,
+      "annual": 206828,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 10,
+      "annual": 225443,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 11,
+      "annual": 245732,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 12,
+      "annual": 267848,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK6",
+      "step": 13,
+      "annual": 288360,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 1,
+      "annual": 95880,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 2,
+      "annual": 104509,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 3,
+      "annual": 113915,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 4,
+      "annual": 124167,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 5,
+      "annual": 135342,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 6,
+      "annual": 147523,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 7,
+      "annual": 160800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 8,
+      "annual": 175272,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 9,
+      "annual": 191047,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 10,
+      "annual": 208241,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 11,
+      "annual": 226983,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 12,
+      "annual": 247411,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VK7",
+      "step": 13,
+      "annual": 264480,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 1,
+      "annual": 161760,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 2,
+      "annual": 176318,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 3,
+      "annual": 192187,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 4,
+      "annual": 209484,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 5,
+      "annual": 228337,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 6,
+      "annual": 248888,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 7,
+      "annual": 271288,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 8,
+      "annual": 295704,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 9,
+      "annual": 322317,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 10,
+      "annual": 351325,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 11,
+      "annual": 382945,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 12,
+      "annual": 417410,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU1",
+      "step": 13,
+      "annual": 449520,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 1,
+      "annual": 148920,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 2,
+      "annual": 162323,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 3,
+      "annual": 176932,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 4,
+      "annual": 192856,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 5,
+      "annual": 210213,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 6,
+      "annual": 229132,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 7,
+      "annual": 249754,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 8,
+      "annual": 272232,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 9,
+      "annual": 296732,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 10,
+      "annual": 323438,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 11,
+      "annual": 352548,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 12,
+      "annual": 384277,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU2",
+      "step": 13,
+      "annual": 412320,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 1,
+      "annual": 136560,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 2,
+      "annual": 148850,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 3,
+      "annual": 162247,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 4,
+      "annual": 176849,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 5,
+      "annual": 192766,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 6,
+      "annual": 210114,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 7,
+      "annual": 229025,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 8,
+      "annual": 249637,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 9,
+      "annual": 272104,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 10,
+      "annual": 296594,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 11,
+      "annual": 323287,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 12,
+      "annual": 352383,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU3",
+      "step": 13,
+      "annual": 373680,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 1,
+      "annual": 124200,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 2,
+      "annual": 135378,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 3,
+      "annual": 147562,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 4,
+      "annual": 160843,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 5,
+      "annual": 175318,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 6,
+      "annual": 191097,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 7,
+      "annual": 208296,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 8,
+      "annual": 227042,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 9,
+      "annual": 247476,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 10,
+      "annual": 269749,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 11,
+      "annual": 294027,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 12,
+      "annual": 320489,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU4",
+      "step": 13,
+      "annual": 342720,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 1,
+      "annual": 112800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 2,
+      "annual": 122952,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 3,
+      "annual": 134018,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 4,
+      "annual": 146079,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 5,
+      "annual": 159226,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 6,
+      "annual": 173557,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 7,
+      "annual": 189177,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 8,
+      "annual": 206203,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 9,
+      "annual": 224761,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 10,
+      "annual": 244990,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 11,
+      "annual": 267039,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 12,
+      "annual": 291072,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU5",
+      "step": 13,
+      "annual": 314400,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 1,
+      "annual": 103800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 2,
+      "annual": 113142,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 3,
+      "annual": 123325,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 4,
+      "annual": 134424,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 5,
+      "annual": 146522,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 6,
+      "annual": 159709,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 7,
+      "annual": 174083,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 8,
+      "annual": 189750,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 9,
+      "annual": 206828,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 10,
+      "annual": 225443,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 11,
+      "annual": 245732,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 12,
+      "annual": 267848,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU6",
+      "step": 13,
+      "annual": 288360,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 1,
+      "annual": 95880,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 2,
+      "annual": 104509,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 3,
+      "annual": 113915,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 4,
+      "annual": 124167,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 5,
+      "annual": 135342,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 6,
+      "annual": 147523,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 7,
+      "annual": 160800,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 8,
+      "annual": 175272,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 9,
+      "annual": 191047,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 10,
+      "annual": 208241,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 11,
+      "annual": 226983,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 12,
+      "annual": 247411,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    },
+    {
+      "gradeCode": "PT-VU7",
+      "step": 13,
+      "annual": 264480,
+      "verifiedAt": "2026-04-24T11:07:01.203Z",
+      "sourceUrl": "https://sspa.jpa.gov.my/pekeliling.html"
+    }
+  ]
+}

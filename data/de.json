@@ -1,0 +1,1961 @@
+{
+  "country": {
+    "code": "de",
+    "iso3": "DEU",
+    "name": "Germany",
+    "nameLocal": "Deutschland",
+    "currency": "EUR",
+    "system": "BBesG (Beamte) + TVöD Bund (Tarif) + W/R",
+    "authoritativePublisher": "gesetze-im-internet.de (Bundesamt für Justiz) + BMI Entgelttabellen",
+    "authoritativeUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html",
+    "fiscalYear": "2026"
+  },
+  "meta": {
+    "source": "BBesG Anlage IV (gesetze-im-internet.de) + TVöD Bund (BMI Entgelttabelle)",
+    "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html",
+    "fiscalYear": "2026",
+    "effectiveFrom": "BBesG: 2024-03-01 (Gültig ab 1. März 2024); TVöD: 2026-05-01 (ab 1. Mai 2026)",
+    "retrievedAt": "2026-04-23",
+    "status": "AUTO-VERIFIED — 246/246 cells. BBesG A/B/W/R: 145 cells matching gesetze-im-internet.de to cent (Gültig ab 1. März 2024). TVöD E: 101 cells matching BMI Entgelttabelle 2025 (ab 1. Mai 2026). Fetched by de:bbesg-anlage-iv-v2 + de:bmi-tvoed-v1 on 2026-04-23.",
+    "currency": "EUR",
+    "notes": "Two-source structure: Beamte pay per BBesG Anlage IV (statutory text on gesetze-im-internet.de) + Tarifbeschäftigte pay per TVöD Bund (BMI Entgelttabelle PDF). BBesG updates require Besoldungsanpassungsgesetz by Bundestag (typically 6-12mo lag vs Tarifvertrag). Last legally-in-force BBesG: March 2024 statute (BGBl. 2023 I Nr. 414). Soldiers: paid per BBesG A-Grade equivalent + Zulagen. Länder Beamte: separate state-level tables, not covered."
+  },
+  "grades": [
+    {
+      "code": "A10",
+      "description": "Gehobener Dienst — mid-career upper service; typical first promotion grade."
+    },
+    {
+      "code": "A11",
+      "description": "Gehobener Dienst — working level. Experienced upper-service civil servants."
+    },
+    {
+      "code": "A12",
+      "description": "Gehobener Dienst — senior upper service; specialist roles and team leads."
+    },
+    {
+      "code": "A13",
+      "description": "Höherer Dienst — Einstieg. Entry to the senior service (master's or Staatsexamen required)."
+    },
+    {
+      "code": "A14",
+      "description": "Höherer Dienst — Oberrat. Senior civil servant; typical working level for experienced höherer Dienst."
+    },
+    {
+      "code": "A15",
+      "description": "Höherer Dienst — Direktor. Director-equivalent in agencies or Ministerialdirektor in smaller ministries."
+    },
+    {
+      "code": "A16",
+      "description": "Höherer Dienst — Leitender Direktor. Senior directorate leadership."
+    },
+    {
+      "code": "A3",
+      "description": "Mittlerer Dienst — Eingangsamt (einfacher Dienst Abschluss). Entry grade for the simple/intermediate service."
+    },
+    {
+      "code": "A4",
+      "description": "Mittlerer Dienst — Regelbeförderungsamt. Standard promotion grade in the intermediate service."
+    },
+    {
+      "code": "A5",
+      "description": "Mittlerer Dienst — Oberamt. Senior position in the intermediate service."
+    },
+    {
+      "code": "A6",
+      "description": "Mittlerer Dienst — Hauptamt. Senior-most intermediate service grade; typically Obersekretär."
+    },
+    {
+      "code": "A7",
+      "description": "Mittlerer Dienst — Regelbeförderung im gehobenen Teil. Supervisor-level roles."
+    },
+    {
+      "code": "A8",
+      "description": "Mittlerer Dienst — senior technical / specialist roles."
+    },
+    {
+      "code": "A9",
+      "description": "Gehobener Dienst — Einstieg. Entry to the upper service; bachelor's-level officials."
+    },
+    {
+      "code": "B1",
+      "description": "Besoldungsordnung B — entry senior grade (flat rate). Direktor / Ministerialrat."
+    },
+    {
+      "code": "B10",
+      "description": "Besoldungsordnung B — senior director-general."
+    },
+    {
+      "code": "B11",
+      "description": "Besoldungsordnung B — Staatssekretär (state secretary, non-political appointee)."
+    },
+    {
+      "code": "B2",
+      "description": "Besoldungsordnung B — B2 senior official."
+    },
+    {
+      "code": "B3",
+      "description": "Besoldungsordnung B — Ministerialrat / senior director."
+    },
+    {
+      "code": "B4",
+      "description": "Besoldungsordnung B — senior division head."
+    },
+    {
+      "code": "B5",
+      "description": "Besoldungsordnung B — Leitender Ministerialrat."
+    },
+    {
+      "code": "B6",
+      "description": "Besoldungsordnung B — Ministerialdirigent (assistant director-general of a ministry department)."
+    },
+    {
+      "code": "B7",
+      "description": "Besoldungsordnung B — senior Ministerialdirigent."
+    },
+    {
+      "code": "B8",
+      "description": "Besoldungsordnung B — senior agency leadership."
+    },
+    {
+      "code": "B9",
+      "description": "Besoldungsordnung B — Ministerialdirektor (director-general of a ministry department)."
+    },
+    {
+      "code": "E1",
+      "description": "TVöD Bund Entgeltgruppe 1 — einfachste Tätigkeiten (Botendienst, Pförtner)."
+    },
+    {
+      "code": "E10",
+      "description": "TVöD Bund Entgeltgruppe 10 — gehobener Dienst (FH-Einstieg, Bachelor)."
+    },
+    {
+      "code": "E11",
+      "description": "TVöD Bund Entgeltgruppe 11 — gehobener Dienst mit besonderer Verantwortung."
+    },
+    {
+      "code": "E12",
+      "description": "TVöD Bund Entgeltgruppe 12 — höherer Dienst Einstieg / leitende Fachkraft."
+    },
+    {
+      "code": "E13",
+      "description": "TVöD Bund Entgeltgruppe 13 — höherer Dienst (Master/Diplom-Einstieg)."
+    },
+    {
+      "code": "E14",
+      "description": "TVöD Bund Entgeltgruppe 14 — höherer Dienst mit Führungsverantwortung."
+    },
+    {
+      "code": "E15",
+      "description": "TVöD Bund Entgeltgruppe 15 — höchste TVöD-Gruppe (Abteilungsleitung, Referat)."
+    },
+    {
+      "code": "E2",
+      "description": "TVöD Bund Entgeltgruppe 2 — einfache Tätigkeiten (Büro-/Haushandwerker)."
+    },
+    {
+      "code": "E3",
+      "description": "TVöD Bund Entgeltgruppe 3 — erweiterte Tätigkeiten (ausgebildete Fachangestellte einfacher Ebene)."
+    },
+    {
+      "code": "E4",
+      "description": "TVöD Bund Entgeltgruppe 4 — Sachbearbeitung mit Fachwissen."
+    },
+    {
+      "code": "E5",
+      "description": "TVöD Bund Entgeltgruppe 5 — Sachbearbeitung mit Fachausbildung."
+    },
+    {
+      "code": "E6",
+      "description": "TVöD Bund Entgeltgruppe 6 — Sachbearbeitung mit gründlichem Fachwissen."
+    },
+    {
+      "code": "E7",
+      "description": "TVöD Bund Entgeltgruppe 7 — selbständige Sachbearbeitung."
+    },
+    {
+      "code": "E8",
+      "description": "TVöD Bund Entgeltgruppe 8 — selbständige Leistungen mit vielseitigen Fachkenntnissen."
+    },
+    {
+      "code": "E9a",
+      "description": "TVöD Bund Entgeltgruppe 9a — selbständige Sachbearbeitung (gehobener Dienst Einstieg)."
+    },
+    {
+      "code": "E9b",
+      "description": "TVöD Bund Entgeltgruppe 9b — gehobener Dienst mit Verantwortung."
+    },
+    {
+      "code": "E9c",
+      "description": "TVöD Bund Entgeltgruppe 9c — gehobener Dienst mit erhöhten Anforderungen."
+    },
+    {
+      "code": "R10",
+      "description": "Besoldungsordnung R10 — Präsident of a top federal court (BGH, BVerfG)."
+    },
+    {
+      "code": "R2",
+      "description": "Besoldungsordnung R2 — senior Richter (e.g., Vorsitzender Richter at a Landgericht)."
+    },
+    {
+      "code": "R3",
+      "description": "Besoldungsordnung R3 — Vorsitzender Richter at a higher court."
+    },
+    {
+      "code": "R5",
+      "description": "Besoldungsordnung R5 — senior federal court judge."
+    },
+    {
+      "code": "R6",
+      "description": "Besoldungsordnung R6 — Vizepräsident at a federal court."
+    },
+    {
+      "code": "R7",
+      "description": "Besoldungsordnung R7 — Präsident of a smaller federal court."
+    },
+    {
+      "code": "R8",
+      "description": "Besoldungsordnung R8 — Präsident of a mid-size federal court."
+    },
+    {
+      "code": "R9",
+      "description": "Besoldungsordnung R9 — Präsident des Bundesfinanzhofs etc."
+    },
+    {
+      "code": "W1",
+      "description": "Besoldungsordnung W1 — Juniorprofessor (junior professor, flat rate + optional performance pay)."
+    },
+    {
+      "code": "W2",
+      "description": "Besoldungsordnung W2 — standard professor at universities. Three Stufen + performance-based Leistungsbezüge."
+    },
+    {
+      "code": "W3",
+      "description": "Besoldungsordnung W3 — senior professor / chaired professor."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "A10",
+      "step": 1,
+      "annual": 42906,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 2,
+      "annual": 44605,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 3,
+      "annual": 47062,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 4,
+      "annual": 49531,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 5,
+      "annual": 52045,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 6,
+      "annual": 53795,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 7,
+      "annual": 55544,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A10",
+      "step": 8,
+      "annual": 57294,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 1,
+      "annual": 48682,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 2,
+      "annual": 51280,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 3,
+      "annual": 53862,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 4,
+      "annual": 56462,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 5,
+      "annual": 58245,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 6,
+      "annual": 60029,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 7,
+      "annual": 61812,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A11",
+      "step": 8,
+      "annual": 63597,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 1,
+      "annual": 52011,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 2,
+      "annual": 55086,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 3,
+      "annual": 58177,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 4,
+      "annual": 61252,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 5,
+      "annual": 63392,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 6,
+      "annual": 65499,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 7,
+      "annual": 67622,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A12",
+      "step": 8,
+      "annual": 69780,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 1,
+      "annual": 60556,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 2,
+      "annual": 63443,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 3,
+      "annual": 66314,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 4,
+      "annual": 69202,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 5,
+      "annual": 71189,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 6,
+      "annual": 73194,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 7,
+      "annual": 75181,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A13",
+      "step": 8,
+      "annual": 77135,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 1,
+      "annual": 62203,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 2,
+      "annual": 65923,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 3,
+      "annual": 69661,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 4,
+      "annual": 73381,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 5,
+      "annual": 75946,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 6,
+      "annual": 78528,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 7,
+      "annual": 81093,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A14",
+      "step": 8,
+      "annual": 83675,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 1,
+      "annual": 75470,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 2,
+      "annual": 78834,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 3,
+      "annual": 81399,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 4,
+      "annual": 83964,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 5,
+      "annual": 86529,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 6,
+      "annual": 89077,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 7,
+      "annual": 91625,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A15",
+      "step": 8,
+      "annual": 94156,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 1,
+      "annual": 82995,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 2,
+      "annual": 86903,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 3,
+      "annual": 89858,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 4,
+      "annual": 92814,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 5,
+      "annual": 95753,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 6,
+      "annual": 98726,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 7,
+      "annual": 101682,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A16",
+      "step": 8,
+      "annual": 104604,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 1,
+      "annual": 32484,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 2,
+      "annual": 33160,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 3,
+      "annual": 33836,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 4,
+      "annual": 34380,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 5,
+      "annual": 34924,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 6,
+      "annual": 35469,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 7,
+      "annual": 36013,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A3",
+      "step": 8,
+      "annual": 36557,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 1,
+      "annual": 33111,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 2,
+      "annual": 33919,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 3,
+      "annual": 34727,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 4,
+      "annual": 35370,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 5,
+      "annual": 36013,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 6,
+      "annual": 36656,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 7,
+      "annual": 37299,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A4",
+      "step": 8,
+      "annual": 37893,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 1,
+      "annual": 33341,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 2,
+      "annual": 34347,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 3,
+      "annual": 35155,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 4,
+      "annual": 35947,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 5,
+      "annual": 36739,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 6,
+      "annual": 37547,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 7,
+      "annual": 38338,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A5",
+      "step": 8,
+      "annual": 39114,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 1,
+      "annual": 34001,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 2,
+      "annual": 35172,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 3,
+      "annual": 36359,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 4,
+      "annual": 37266,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 5,
+      "annual": 38206,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 6,
+      "annual": 39114,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 7,
+      "annual": 40119,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A6",
+      "step": 8,
+      "annual": 40993,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 1,
+      "annual": 35568,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 2,
+      "annual": 36607,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 3,
+      "annual": 37976,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 4,
+      "annual": 39377,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 5,
+      "annual": 40746,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 6,
+      "annual": 42131,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 7,
+      "annual": 43170,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A7",
+      "step": 8,
+      "annual": 44209,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 1,
+      "annual": 37481,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 2,
+      "annual": 38734,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 3,
+      "annual": 40498,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 4,
+      "annual": 42280,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 5,
+      "annual": 44061,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 6,
+      "annual": 45298,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 7,
+      "annual": 46551,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A8",
+      "step": 8,
+      "annual": 47788,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 1,
+      "annual": 40251,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 2,
+      "annual": 41488,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 3,
+      "annual": 43434,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 4,
+      "annual": 45413,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 5,
+      "annual": 47359,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 6,
+      "annual": 48682,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 7,
+      "annual": 50058,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "A9",
+      "step": 8,
+      "annual": 51400,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B1",
+      "step": 1,
+      "annual": 94156,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B10",
+      "step": 1,
+      "annual": 187348,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B11",
+      "step": 1,
+      "annual": 193012,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B2",
+      "step": 1,
+      "annual": 108969,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B3",
+      "step": 1,
+      "annual": 115237,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B4",
+      "step": 1,
+      "annual": 121794,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B5",
+      "step": 1,
+      "annual": 129320,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B6",
+      "step": 1,
+      "annual": 136472,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B7",
+      "step": 1,
+      "annual": 143368,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B8",
+      "step": 1,
+      "annual": 150587,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "B9",
+      "step": 1,
+      "annual": 159540,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "E1",
+      "step": 1,
+      "annual": 30523,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E1",
+      "step": 2,
+      "annual": 30826,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E1",
+      "step": 3,
+      "annual": 31340,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E1",
+      "step": 4,
+      "annual": 31820,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E1",
+      "step": 5,
+      "annual": 33054,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 1,
+      "annual": 49494,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 2,
+      "annual": 53258,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 3,
+      "annual": 57536,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 4,
+      "annual": 62176,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 5,
+      "annual": 67343,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E10",
+      "step": 6,
+      "annual": 69040,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 1,
+      "annual": 51236,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 2,
+      "annual": 56039,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 3,
+      "annual": 60552,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 4,
+      "annual": 65449,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 5,
+      "annual": 72151,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E11",
+      "step": 6,
+      "annual": 75921,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 1,
+      "annual": 52988,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 2,
+      "annual": 58211,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 3,
+      "annual": 64314,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 4,
+      "annual": 71086,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 5,
+      "annual": 79032,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E12",
+      "step": 6,
+      "annual": 82802,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 1,
+      "annual": 58813,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 2,
+      "annual": 63352,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 3,
+      "annual": 68518,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 4,
+      "annual": 74128,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 5,
+      "annual": 80729,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E13",
+      "step": 6,
+      "annual": 84310,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 1,
+      "annual": 63579,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 2,
+      "annual": 67720,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 3,
+      "annual": 73128,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 4,
+      "annual": 79129,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 5,
+      "annual": 85819,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E14",
+      "step": 6,
+      "annual": 90621,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 1,
+      "annual": 69934,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 2,
+      "annual": 74508,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 3,
+      "annual": 79609,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 4,
+      "annual": 86573,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 5,
+      "annual": 93736,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E15",
+      "step": 6,
+      "annual": 98449,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 1,
+      "annual": 33210,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 2,
+      "annual": 35704,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 3,
+      "annual": 36325,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 4,
+      "annual": 37212,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 5,
+      "annual": 39162,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E2",
+      "step": 6,
+      "annual": 41202,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 1,
+      "annual": 35438,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 2,
+      "annual": 37970,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 3,
+      "annual": 38587,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 4,
+      "annual": 39996,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 5,
+      "annual": 41053,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E3",
+      "step": 6,
+      "annual": 42022,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 1,
+      "annual": 35930,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 2,
+      "annual": 38285,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 3,
+      "annual": 40262,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 4,
+      "annual": 41492,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 5,
+      "annual": 42722,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E4",
+      "step": 6,
+      "annual": 43442,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 1,
+      "annual": 37489,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 2,
+      "annual": 39816,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 3,
+      "annual": 41389,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 4,
+      "annual": 43053,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 5,
+      "annual": 44600,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E5",
+      "step": 6,
+      "annual": 45400,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 1,
+      "annual": 38884,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 2,
+      "annual": 41283,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 3,
+      "annual": 42966,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 4,
+      "annual": 44631,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 5,
+      "annual": 46266,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E6",
+      "step": 6,
+      "annual": 47114,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 1,
+      "annual": 39540,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 2,
+      "annual": 42455,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 3,
+      "annual": 44192,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 4,
+      "annual": 45945,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 5,
+      "annual": 47629,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E7",
+      "step": 6,
+      "annual": 48543,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 1,
+      "annual": 41837,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 2,
+      "annual": 44367,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 3,
+      "annual": 46120,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 4,
+      "annual": 47909,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 5,
+      "annual": 49842,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E8",
+      "step": 6,
+      "annual": 50772,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 1,
+      "annual": 44298,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 2,
+      "annual": 47008,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 3,
+      "annual": 47773,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 4,
+      "annual": 50356,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 5,
+      "annual": 55090,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9a",
+      "step": 6,
+      "annual": 56963,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 1,
+      "annual": 46002,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 2,
+      "annual": 47474,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 3,
+      "annual": 51204,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 4,
+      "annual": 55298,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 5,
+      "annual": 59803,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9b",
+      "step": 6,
+      "annual": 63573,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 1,
+      "annual": 47739,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 2,
+      "annual": 51000,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 3,
+      "annual": 55069,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 4,
+      "annual": 59503,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 5,
+      "annual": 64310,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "E9c",
+      "step": 6,
+      "annual": 65854,
+      "verifiedAt": "2026-04-23T00:06:51.211Z",
+      "sourceUrl": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/entgelttabelle-tvoed-2025.pdf?__blob=publicationFile&v=12"
+    },
+    {
+      "gradeCode": "R10",
+      "step": 1,
+      "annual": 193012,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 1,
+      "annual": 73041,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 2,
+      "annual": 76659,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 3,
+      "annual": 80261,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 4,
+      "annual": 85187,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 5,
+      "annual": 90147,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 6,
+      "annual": 95091,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 7,
+      "annual": 100051,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R2",
+      "step": 8,
+      "annual": 105011,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R3",
+      "step": 1,
+      "annual": 115237,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R5",
+      "step": 1,
+      "annual": 129320,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R6",
+      "step": 1,
+      "annual": 136472,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R7",
+      "step": 1,
+      "annual": 143368,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R8",
+      "step": 1,
+      "annual": 150587,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "R9",
+      "step": 1,
+      "annual": 159540,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W1",
+      "step": 1,
+      "annual": 66297,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W2",
+      "step": 1,
+      "annual": 81752,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W2",
+      "step": 2,
+      "annual": 86412,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W2",
+      "step": 3,
+      "annual": 91073,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W3",
+      "step": 1,
+      "annual": 91073,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W3",
+      "step": 2,
+      "annual": 97286,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    },
+    {
+      "gradeCode": "W3",
+      "step": 3,
+      "annual": 103500,
+      "verifiedAt": "2026-04-23T00:06:16.029Z",
+      "sourceUrl": "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html"
+    }
+  ]
+}

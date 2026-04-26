@@ -1,0 +1,1007 @@
+{
+  "country": {
+    "code": "ch",
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "nameLocal": "Schweiz / Suisse / Svizzera",
+    "currency": "CHF",
+    "system": "Bundespersonalverordnung (BPV) — 38 Lohnklassen",
+    "authoritativePublisher": "Eidgenössisches Personalamt (EPA)",
+    "authoritativeUrl": "https://www.epa.admin.ch/epa/de/home/themen/lohnsystem.html",
+    "fiscalYear": "2026"
+  },
+  "meta": {
+    "source": "Eidgenössisches Personalamt (EPA) — Lohntabelle 2026 (Art. 36 BPV)",
+    "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf",
+    "fiscalYear": "2026",
+    "retrievedAt": "2026-04-24",
+    "status": "AUTO-VERIFIED — 103/103 cells public-ready as of 2026-04-24. Last auto-fetch by ch:epa-lohntabelle-v1.",
+    "currency": "CHF",
+    "notes": "Swiss federal employees are placed on one of 38 Lohnklassen. Each class has a minimum (Klassenmindestbetrag) and maximum (Klassenhöchstbetrag). Individual progression within the range is performance-based, not step-based. Rates revise annually by the Federal Council."
+  },
+  "grades": [
+    {
+      "code": "APPR-HS1",
+      "description": "Praktikant/in mit laufendem Bachelor-Studium (intern during bachelor). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-HS2",
+      "description": "Praktikant/in mit Bachelor-Abschluss (intern with bachelor's degree). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-HS3",
+      "description": "Praktikant/in mit Master-/Lizentiats-Abschluss (intern with master's degree). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L1",
+      "description": "Lernende EFZ/EBA — 1. Lehrjahr (apprentice, year 1). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L2",
+      "description": "Lernende EFZ/EBA — 2. Lehrjahr. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L3",
+      "description": "Lernende EFZ/EBA — 3. Lehrjahr. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L4",
+      "description": "Lernende EFZ/EBA — 4. Lehrjahr. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L5A",
+      "description": "Zweitlehre nach 3-jähriger Lehre (second apprenticeship, after 3-year completion). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-L5B",
+      "description": "Zweitlehre nach 4-jähriger Lehre. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PBGB",
+      "description": "Handelsschule EFZ 2+1 (commercial-school apprentice). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PHFK",
+      "description": "Praktikum nach Art. 25 HFKG (Arbeitswelterfahrung). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PHMS",
+      "description": "Handelsmittelschule HMS 3+1. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PIBS1",
+      "description": "Praxisintegriertes Bachelorstudium — Jahr 1 (work-integrated bachelor). Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PIBS2",
+      "description": "Praxisintegriertes Bachelorstudium — Jahr 2. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PIBS3",
+      "description": "Praxisintegriertes Bachelorstudium — Jahr 3. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "APPR-PIBS4",
+      "description": "Praxisintegriertes Bachelorstudium — Jahr 4. Source: EPA Lohntabelle 2026 p.3 (Lernende und Praktikanten)."
+    },
+    {
+      "code": "GOV-BUNDESKANZLER",
+      "description": "Bundeskanzler/in (Chancellor of the Confederation — head of administration). Source: SR 172.121; ~89% of Bundesrat salary."
+    },
+    {
+      "code": "GOV-BUNDESPRAESIDENT",
+      "description": "Bundespräsident/in (rotating annual office, includes Präsidialzulage of CHF 12,000). Source: SR 172.121 + Präsidialzulage CHF 12,000."
+    },
+    {
+      "code": "GOV-BUNDESRAT",
+      "description": "Bundesrat (Federal Councillor / Cabinet Minister — 7 positions). Source: Bundesgesetz über Besoldung und berufliche Vorsorge der Magistratspersonen SR 172.121; Bruttojahresbezüge 2026."
+    },
+    {
+      "code": "GOV-NATIONALRAT",
+      "description": "Nationalratsabgeordnete/r (Member of the National Council, 200 seats — part-time). Source: Parlamentsressourcengesetz SR 171.21 — Grundeinkommen + Taggelder + Vorbereitungspauschale, typical annual."
+    },
+    {
+      "code": "GOV-NR-PRESIDENT",
+      "description": "Nationalratspräsident/in (President of the National Council — rotating annual office). Source: Parlamentsressourcengesetz + Präsidiumszulage."
+    },
+    {
+      "code": "GOV-STAENDERAT",
+      "description": "Ständerat (Member of the Council of States, 46 seats — part-time). Source: Parlamentsressourcengesetz SR 171.21 — same base as Nationalrat."
+    },
+    {
+      "code": "JUD-BG-JUDGE",
+      "description": "Bundesrichter/in (Federal Supreme Court Judge — 38 positions). Source: Richterverordnung SR 172.121.1; Art. 3 — Jahresbezüge 2026."
+    },
+    {
+      "code": "JUD-BG-PRESIDENT",
+      "description": "Präsident/in des Bundesgerichts (President of Federal Supreme Court). Source: Richterverordnung SR 172.121.1 + Präsidialzulage."
+    },
+    {
+      "code": "JUD-BPG-JUDGE",
+      "description": "Bundespatentgerichts Richter/in (Federal Patent Court Judge). Source: Richterverordnung SR 172.121.1."
+    },
+    {
+      "code": "JUD-BSTG-JUDGE",
+      "description": "Bundesstrafrichter/in (Federal Criminal Court Judge). Source: Richterverordnung SR 172.121.1."
+    },
+    {
+      "code": "JUD-BVG-JUDGE",
+      "description": "Bundesverwaltungsrichter/in (Federal Administrative Court Judge). Source: Richterverordnung SR 172.121.1 — 96% of Bundesrichter."
+    },
+    {
+      "code": "LK1",
+      "description": "Lohnklasse 1 — entry-level support (Hilfsarbeiter / Praktikanten)."
+    },
+    {
+      "code": "LK10",
+      "description": "Lohnklasse 10 — qualified administrative staff / technical support."
+    },
+    {
+      "code": "LK11",
+      "description": "Lohnklasse 11 — intermediate administrative / technical staff."
+    },
+    {
+      "code": "LK12",
+      "description": "Lohnklasse 12 — intermediate administrative / technical staff."
+    },
+    {
+      "code": "LK13",
+      "description": "Lohnklasse 13 — intermediate administrative / technical staff."
+    },
+    {
+      "code": "LK14",
+      "description": "Lohnklasse 14 — intermediate administrative / technical staff."
+    },
+    {
+      "code": "LK15",
+      "description": "Lohnklasse 15 — working-level caseworker / specialist (apprenticeship + experience)."
+    },
+    {
+      "code": "LK16",
+      "description": "Lohnklasse 16 — working-level specialist / caseworker."
+    },
+    {
+      "code": "LK17",
+      "description": "Lohnklasse 17 — working-level specialist / caseworker."
+    },
+    {
+      "code": "LK18",
+      "description": "Lohnklasse 18 — experienced specialist / small-team lead (FH graduate entry)."
+    },
+    {
+      "code": "LK19",
+      "description": "Lohnklasse 19 — working-level specialist / caseworker."
+    },
+    {
+      "code": "LK2",
+      "description": "Lohnklasse 2 — entry-level support roles."
+    },
+    {
+      "code": "LK20",
+      "description": "Lohnklasse 20 — scientific collaborator / section specialist (Master/PhD entry)."
+    },
+    {
+      "code": "LK21",
+      "description": "Lohnklasse 21 — scientific collaborator / specialist (higher-education entry)."
+    },
+    {
+      "code": "LK22",
+      "description": "Lohnklasse 22 — mid-career specialist / policy advisor."
+    },
+    {
+      "code": "LK23",
+      "description": "Lohnklasse 23 — scientific collaborator / specialist (higher-education entry)."
+    },
+    {
+      "code": "LK24",
+      "description": "Lohnklasse 24 — senior scientific collaborator / project lead."
+    },
+    {
+      "code": "LK25",
+      "description": "Lohnklasse 25 — senior specialist / project lead."
+    },
+    {
+      "code": "LK26",
+      "description": "Lohnklasse 26 — senior project lead / deputy section head."
+    },
+    {
+      "code": "LK27",
+      "description": "Lohnklasse 27 — senior specialist / project lead."
+    },
+    {
+      "code": "LK28",
+      "description": "Lohnklasse 28 — section head / senior specialist."
+    },
+    {
+      "code": "LK29",
+      "description": "Lohnklasse 29 — section head / deputy division head."
+    },
+    {
+      "code": "LK3",
+      "description": "Lohnklasse 3 — entry-level support roles."
+    },
+    {
+      "code": "LK30",
+      "description": "Lohnklasse 30 — deputy division head / senior section head."
+    },
+    {
+      "code": "LK31",
+      "description": "Lohnklasse 31 — section head / deputy division head."
+    },
+    {
+      "code": "LK32",
+      "description": "Lohnklasse 32 — division head / Kaderplan entry."
+    },
+    {
+      "code": "LK33",
+      "description": "Lohnklasse 33 — division head (Kaderplan)."
+    },
+    {
+      "code": "LK34",
+      "description": "Lohnklasse 34 — senior division head / ambassador rank."
+    },
+    {
+      "code": "LK35",
+      "description": "Lohnklasse 35 — division head (Kaderplan)."
+    },
+    {
+      "code": "LK36",
+      "description": "Lohnklasse 36 — top management / Direktor / secretary-general equivalent."
+    },
+    {
+      "code": "LK37",
+      "description": "Lohnklasse 37 — top management / senior executive."
+    },
+    {
+      "code": "LK38",
+      "description": "Lohnklasse 38 — highest career band / Staatssekretär level."
+    },
+    {
+      "code": "LK4",
+      "description": "Lohnklasse 4 — entry-level support roles."
+    },
+    {
+      "code": "LK5",
+      "description": "Lohnklasse 5 — basic administrative assistant / secretarial."
+    },
+    {
+      "code": "LK6",
+      "description": "Lohnklasse 6 — junior administrative staff."
+    },
+    {
+      "code": "LK7",
+      "description": "Lohnklasse 7 — junior administrative staff."
+    },
+    {
+      "code": "LK8",
+      "description": "Lohnklasse 8 — junior administrative staff."
+    },
+    {
+      "code": "LK9",
+      "description": "Lohnklasse 9 — junior administrative staff."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "APPR-HS1",
+      "step": 1,
+      "annual": 34500,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-HS2",
+      "step": 1,
+      "annual": 48240,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-HS3",
+      "step": 1,
+      "annual": 54000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L1",
+      "step": 1,
+      "annual": 10964,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L2",
+      "step": 1,
+      "annual": 13506,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L3",
+      "step": 1,
+      "annual": 20615,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L4",
+      "step": 1,
+      "annual": 24559,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L5A",
+      "step": 1,
+      "annual": 23472,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-L5B",
+      "step": 1,
+      "annual": 28110,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PBGB",
+      "step": 1,
+      "annual": 20615,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PHFK",
+      "step": 1,
+      "annual": 30792,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PHMS",
+      "step": 1,
+      "annual": 24559,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PIBS1",
+      "step": 1,
+      "annual": 26400,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PIBS2",
+      "step": 1,
+      "annual": 28800,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PIBS3",
+      "step": 1,
+      "annual": 33600,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "APPR-PIBS4",
+      "step": 1,
+      "annual": 38400,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-BUNDESKANZLER",
+      "step": 1,
+      "annual": 422000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-BUNDESPRAESIDENT",
+      "step": 1,
+      "annual": 487000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-BUNDESRAT",
+      "step": 1,
+      "annual": 475000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-NATIONALRAT",
+      "step": 1,
+      "annual": 132000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-NR-PRESIDENT",
+      "step": 1,
+      "annual": 165000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "GOV-STAENDERAT",
+      "step": 1,
+      "annual": 132000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "JUD-BG-JUDGE",
+      "step": 1,
+      "annual": 386000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "JUD-BG-PRESIDENT",
+      "step": 1,
+      "annual": 404000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "JUD-BPG-JUDGE",
+      "step": 1,
+      "annual": 365000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "JUD-BSTG-JUDGE",
+      "step": 1,
+      "annual": 372000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "JUD-BVG-JUDGE",
+      "step": 1,
+      "annual": 372000,
+      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK1",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK1",
+      "step": 2,
+      "annual": 66517,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK10",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK10",
+      "step": 2,
+      "annual": 88507,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK11",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK11",
+      "step": 2,
+      "annual": 91831,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK12",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK12",
+      "step": 2,
+      "annual": 95237,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK13",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK13",
+      "step": 2,
+      "annual": 98703,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK14",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK14",
+      "step": 2,
+      "annual": 102265,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK15",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK15",
+      "step": 2,
+      "annual": 106508,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK16",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK16",
+      "step": 2,
+      "annual": 110810,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK17",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK17",
+      "step": 2,
+      "annual": 115425,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK18",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK18",
+      "step": 2,
+      "annual": 120923,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK19",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK19",
+      "step": 2,
+      "annual": 126391,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK2",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK2",
+      "step": 2,
+      "annual": 67595,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK20",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK20",
+      "step": 2,
+      "annual": 131870,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK21",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK21",
+      "step": 2,
+      "annual": 137341,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK22",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK22",
+      "step": 2,
+      "annual": 142832,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK23",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK23",
+      "step": 2,
+      "annual": 149807,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK24",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK24",
+      "step": 2,
+      "annual": 158954,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK25",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK25",
+      "step": 2,
+      "annual": 167271,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK26",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK26",
+      "step": 2,
+      "annual": 175617,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK27",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK27",
+      "step": 2,
+      "annual": 183953,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK28",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK28",
+      "step": 2,
+      "annual": 192316,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK29",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK29",
+      "step": 2,
+      "annual": 201876,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK3",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK3",
+      "step": 2,
+      "annual": 68688,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK30",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK30",
+      "step": 2,
+      "annual": 216611,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK31",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK31",
+      "step": 2,
+      "annual": 226481,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK32",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK32",
+      "step": 2,
+      "annual": 236364,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK33",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK33",
+      "step": 2,
+      "annual": 256214,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK34",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK34",
+      "step": 2,
+      "annual": 276303,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK35",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK35",
+      "step": 2,
+      "annual": 296574,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK36",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK36",
+      "step": 2,
+      "annual": 317069,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK37",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK37",
+      "step": 2,
+      "annual": 337766,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK38",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK38",
+      "step": 2,
+      "annual": 405656,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK4",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK4",
+      "step": 2,
+      "annual": 69778,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK5",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK5",
+      "step": 2,
+      "annual": 71802,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK6",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK6",
+      "step": 2,
+      "annual": 75142,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK7",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK7",
+      "step": 2,
+      "annual": 78473,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK8",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK8",
+      "step": 2,
+      "annual": 81767,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK9",
+      "step": 1,
+      "annual": 46195,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    },
+    {
+      "gradeCode": "LK9",
+      "step": 2,
+      "annual": 85145,
+      "verifiedAt": "2026-04-24T19:59:18.014Z",
+      "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
+    }
+  ]
+}

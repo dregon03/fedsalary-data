@@ -1,0 +1,148 @@
+{
+  "name": "FedSalary",
+  "description": "Authoritative federal-government salary tables, 17 countries.",
+  "license": "CC-BY-4.0",
+  "homepage": "https://fedsalary.com",
+  "methodology": "https://fedsalary.com/methodology",
+  "sources": "https://fedsalary.com/sources",
+  "generatedAt": "2026-04-26T03:14:03.788Z",
+  "totalRows": 19261,
+  "countries": [
+    {
+      "code": "us",
+      "name": "United States",
+      "rowCount": 895,
+      "cellCount": 895,
+      "gradeCount": 102,
+      "lastRefresh": "2026-04-22"
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "rowCount": 3447,
+      "cellCount": 3447,
+      "gradeCount": 721,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "au",
+      "name": "Australia",
+      "rowCount": 146,
+      "cellCount": 146,
+      "gradeCount": 36,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "de",
+      "name": "Germany",
+      "rowCount": 246,
+      "cellCount": 246,
+      "gradeCount": 53,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "jp",
+      "name": "Japan",
+      "rowCount": 9492,
+      "cellCount": 9492,
+      "gradeCount": 152,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "br",
+      "name": "Brazil",
+      "rowCount": 805,
+      "cellCount": 805,
+      "gradeCount": 187,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "in",
+      "name": "India",
+      "rowCount": 559,
+      "cellCount": 559,
+      "gradeCount": 54,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "kr",
+      "name": "South Korea",
+      "rowCount": 1611,
+      "cellCount": 1611,
+      "gradeCount": 80,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "es",
+      "name": "Spain",
+      "rowCount": 90,
+      "cellCount": 90,
+      "gradeCount": 90,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "nl",
+      "name": "Netherlands",
+      "rowCount": 214,
+      "cellCount": 214,
+      "gradeCount": 34,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "rowCount": 103,
+      "cellCount": 103,
+      "gradeCount": 65,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "rowCount": 224,
+      "cellCount": 224,
+      "gradeCount": 27,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "tw",
+      "name": "Taiwan",
+      "rowCount": 142,
+      "cellCount": 142,
+      "gradeCount": 9,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "hk",
+      "name": "Hong Kong",
+      "rowCount": 296,
+      "cellCount": 296,
+      "gradeCount": 55,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "uk",
+      "name": "United Kingdom",
+      "rowCount": 167,
+      "cellCount": 167,
+      "gradeCount": 56,
+      "lastRefresh": "2026-04-23"
+    },
+    {
+      "code": "my",
+      "name": "Malaysia",
+      "rowCount": 686,
+      "cellCount": 686,
+      "gradeCount": 47,
+      "lastRefresh": "2026-04-24"
+    },
+    {
+      "code": "pt",
+      "name": "Portugal",
+      "rowCount": 138,
+      "cellCount": 138,
+      "gradeCount": 24,
+      "lastRefresh": "2026-04-24"
+    }
+  ]
+}

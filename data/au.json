@@ -1,0 +1,1191 @@
+{
+  "country": {
+    "code": "au",
+    "iso3": "AUS",
+    "name": "Australia",
+    "currency": "AUD",
+    "system": "APS classification (APSC cross-agency distribution)",
+    "authoritativePublisher": "Australian Public Service Commission (APSC)",
+    "authoritativeUrl": "https://www.apsc.gov.au/remuneration-reports",
+    "fiscalYear": "2024"
+  },
+  "meta": {
+    "source": "Australian Public Service Commission (APSC) — APS Remuneration Data 31 December 2024, Appendix 3 Data Tables",
+    "sourceUrl": "https://www.apsc.gov.au/remuneration-reports/aps-remuneration-data-31-december-2024",
+    "fiscalYear": "2024",
+    "retrievedAt": "2026-04-24",
+    "status": "AUTO-VERIFIED — 146/146 cells public-ready as of 2026-04-24. Last auto-fetch by au:ato-ea-2024-v1.",
+    "currency": "AUD",
+    "notes": "APS agencies set pay via enterprise agreement (no single national step table). Canonical cross-agency distribution published by APSC annually. Per-agency EAs vary — this represents the central aggregate."
+  },
+  "grades": [
+    {
+      "code": "APS-1",
+      "description": "APS Level 1 — entry-level administrative and service-delivery roles."
+    },
+    {
+      "code": "APS-2",
+      "description": "APS Level 2 — basic administrative support and case-processing roles."
+    },
+    {
+      "code": "APS-3",
+      "description": "APS Level 3 — intermediate administrative and program roles."
+    },
+    {
+      "code": "APS-4",
+      "description": "APS Level 4 — senior administrative and policy-support roles."
+    },
+    {
+      "code": "APS-5",
+      "description": "APS Level 5 — professional-level generalist and specialist roles."
+    },
+    {
+      "code": "APS-6",
+      "description": "APS Level 6 — senior professional / team leader roles."
+    },
+    {
+      "code": "APSC-APS1",
+      "description": "APSC EA — APS Level 1 pay points (broadband 1): entry-level clerical roles."
+    },
+    {
+      "code": "APSC-APS2",
+      "description": "APSC EA — APS Level 2 pay points: basic administrative support."
+    },
+    {
+      "code": "APSC-APS3",
+      "description": "APSC EA — APS Level 3 pay points (broadband 2 start): intermediate admin."
+    },
+    {
+      "code": "APSC-APS4",
+      "description": "APSC EA — APS Level 4 pay points: senior admin and program support."
+    },
+    {
+      "code": "APSC-APS5",
+      "description": "APSC EA — APS Level 5 pay points: professional generalist and specialist."
+    },
+    {
+      "code": "APSC-APS6",
+      "description": "APSC EA — APS Level 6 pay points: senior professional / team leader."
+    },
+    {
+      "code": "APSC-EL1",
+      "description": "APSC EA — Executive Level 1 pay points (7 points): section manager, senior advisor."
+    },
+    {
+      "code": "APSC-EL2",
+      "description": "APSC EA — Executive Level 2 pay points (7 points): director, senior specialist."
+    },
+    {
+      "code": "ATO-APS1",
+      "description": "ATO APS Level 1 — entry-level administrative role, 4 pay points. Australian Taxation Office Enterprise Agreement 2024."
+    },
+    {
+      "code": "ATO-APS2",
+      "description": "ATO APS Level 2 — junior administrative / operational role, 5 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-APS3",
+      "description": "ATO APS Level 3 — administrative / technical officer, 4 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-APS4",
+      "description": "ATO APS Level 4 — experienced officer / specialist, 4 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-APS5",
+      "description": "ATO APS Level 5 — senior officer / specialist, 3 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-APS6",
+      "description": "ATO APS Level 6 — team leader / senior specialist, 5 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-EL1",
+      "description": "ATO Executive Level 1 — assistant director / senior manager, 3 pay points. ATO EA 2024."
+    },
+    {
+      "code": "ATO-EL2",
+      "description": "ATO Executive Level 2 — director / senior expert, 7 pay points spanning EL2 / EL2.1 / EL2.2 work-value tiers. ATO EA 2024."
+    },
+    {
+      "code": "EL-1",
+      "description": "Executive Level 1 — mid-level management, section manager, senior advisor."
+    },
+    {
+      "code": "EL-2",
+      "description": "Executive Level 2 — senior management, director, senior specialist."
+    },
+    {
+      "code": "GRAD",
+      "description": "Graduate — entry-level APS Graduate program, first-year rotational employment."
+    },
+    {
+      "code": "SA-APS1",
+      "description": "Services Australia EA — APS Level 1 salary band (min/max)."
+    },
+    {
+      "code": "SA-APS2",
+      "description": "Services Australia EA — APS Level 2 salary band (min/max)."
+    },
+    {
+      "code": "SA-APS3",
+      "description": "Services Australia EA — APS Level 3 salary band (min/max)."
+    },
+    {
+      "code": "SA-APS4",
+      "description": "Services Australia EA — APS Level 4 salary band (min/max)."
+    },
+    {
+      "code": "SA-APS5",
+      "description": "Services Australia EA — APS Level 5 salary band (min/max)."
+    },
+    {
+      "code": "SA-APS6",
+      "description": "Services Australia EA — APS Level 6 salary band (min/max)."
+    },
+    {
+      "code": "SA-EL1",
+      "description": "Services Australia EA — Executive Level 1 salary band (min/max)."
+    },
+    {
+      "code": "SA-EL2",
+      "description": "Services Australia EA — Executive Level 2 salary band (min/max)."
+    },
+    {
+      "code": "SES-1",
+      "description": "Senior Executive Service Band 1 — branch head / senior director level."
+    },
+    {
+      "code": "SES-2",
+      "description": "Senior Executive Service Band 2 — first assistant secretary / general manager."
+    },
+    {
+      "code": "SES-3",
+      "description": "Senior Executive Service Band 3 — deputy secretary level."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "APS-1",
+      "step": 1,
+      "annual": 52000,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-1",
+      "step": 2,
+      "annual": 53463,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-1",
+      "step": 3,
+      "annual": 54606,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-1",
+      "step": 4,
+      "annual": 57396,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-1",
+      "step": 5,
+      "annual": 60308,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-2",
+      "step": 1,
+      "annual": 56774,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-2",
+      "step": 2,
+      "annual": 58477,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-2",
+      "step": 3,
+      "annual": 61749,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-2",
+      "step": 4,
+      "annual": 64557,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-2",
+      "step": 5,
+      "annual": 68436,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-3",
+      "step": 1,
+      "annual": 63740,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-3",
+      "step": 2,
+      "annual": 66324,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-3",
+      "step": 3,
+      "annual": 70009,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-3",
+      "step": 4,
+      "annual": 73904,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-3",
+      "step": 5,
+      "annual": 75824,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-4",
+      "step": 1,
+      "annual": 71560,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-4",
+      "step": 2,
+      "annual": 75938,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-4",
+      "step": 3,
+      "annual": 79192,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-4",
+      "step": 4,
+      "annual": 81884,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-4",
+      "step": 5,
+      "annual": 84971,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-5",
+      "step": 1,
+      "annual": 80341,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-5",
+      "step": 2,
+      "annual": 86542,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-5",
+      "step": 3,
+      "annual": 88944,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-5",
+      "step": 4,
+      "annual": 89839,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-5",
+      "step": 5,
+      "annual": 92670,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-6",
+      "step": 1,
+      "annual": 90199,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-6",
+      "step": 2,
+      "annual": 98804,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-6",
+      "step": 3,
+      "annual": 103770,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-6",
+      "step": 4,
+      "annual": 105509,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APS-6",
+      "step": 5,
+      "annual": 110020,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "APSC-APS1",
+      "step": 1,
+      "annual": 52000,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS1",
+      "step": 2,
+      "annual": 57497,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS1",
+      "step": 3,
+      "annual": 59160,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS1",
+      "step": 4,
+      "annual": 60946,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS2",
+      "step": 1,
+      "annual": 62775,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS2",
+      "step": 2,
+      "annual": 64706,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS2",
+      "step": 3,
+      "annual": 69317,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS3",
+      "step": 1,
+      "annual": 72397,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS3",
+      "step": 2,
+      "annual": 74651,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS3",
+      "step": 3,
+      "annual": 76820,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS4",
+      "step": 1,
+      "annual": 79731,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS4",
+      "step": 2,
+      "annual": 80945,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS4",
+      "step": 3,
+      "annual": 85820,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS4",
+      "step": 4,
+      "annual": 86246,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS5",
+      "step": 1,
+      "annual": 89463,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS5",
+      "step": 2,
+      "annual": 93651,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS5",
+      "step": 3,
+      "annual": 97837,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS6",
+      "step": 1,
+      "annual": 101855,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS6",
+      "step": 2,
+      "annual": 106051,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS6",
+      "step": 3,
+      "annual": 110578,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-APS6",
+      "step": 4,
+      "annual": 111701,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 1,
+      "annual": 123996,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 2,
+      "annual": 127017,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 3,
+      "annual": 130713,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 4,
+      "annual": 135333,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 5,
+      "annual": 137315,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 6,
+      "annual": 140748,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL1",
+      "step": 7,
+      "annual": 142116,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 1,
+      "annual": 155479,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 2,
+      "annual": 158842,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 3,
+      "annual": 164333,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 4,
+      "annual": 167449,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 5,
+      "annual": 170738,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 6,
+      "annual": 173126,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "APSC-EL2",
+      "step": 7,
+      "annual": 174790,
+      "verifiedAt": "2026-04-22T22:42:54.911Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2024-03/APSC%20Enterprise%20Agreement%202024-2027.pdf"
+    },
+    {
+      "gradeCode": "ATO-APS1",
+      "step": 1,
+      "annual": 58608,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS1",
+      "step": 2,
+      "annual": 60560,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS1",
+      "step": 3,
+      "annual": 62191,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS1",
+      "step": 4,
+      "annual": 64728,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS2",
+      "step": 1,
+      "annual": 66274,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS2",
+      "step": 2,
+      "annual": 68087,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS2",
+      "step": 3,
+      "annual": 69862,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS2",
+      "step": 4,
+      "annual": 71668,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS2",
+      "step": 5,
+      "annual": 73452,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS3",
+      "step": 1,
+      "annual": 75431,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS3",
+      "step": 2,
+      "annual": 77380,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS3",
+      "step": 3,
+      "annual": 79337,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS3",
+      "step": 4,
+      "annual": 81381,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS4",
+      "step": 1,
+      "annual": 84028,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS4",
+      "step": 2,
+      "annual": 86683,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS4",
+      "step": 3,
+      "annual": 88933,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS4",
+      "step": 4,
+      "annual": 91199,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS5",
+      "step": 1,
+      "annual": 93676,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS5",
+      "step": 2,
+      "annual": 96596,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS5",
+      "step": 3,
+      "annual": 99307,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS6",
+      "step": 1,
+      "annual": 101142,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS6",
+      "step": 2,
+      "annual": 103648,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS6",
+      "step": 3,
+      "annual": 106477,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS6",
+      "step": 4,
+      "annual": 111815,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-APS6",
+      "step": 5,
+      "annual": 116131,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL1",
+      "step": 1,
+      "annual": 129551,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL1",
+      "step": 2,
+      "annual": 135396,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL1",
+      "step": 3,
+      "annual": 141239,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 1,
+      "annual": 155911,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 2,
+      "annual": 161109,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 3,
+      "annual": 166313,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 4,
+      "annual": 171516,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 5,
+      "annual": 176717,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 6,
+      "annual": 181216,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "ATO-EL2",
+      "step": 7,
+      "annual": 185713,
+      "verifiedAt": "2026-04-24T11:43:17.224Z",
+      "sourceUrl": "https://www.ato.gov.au/careers/why-join-us/salary-leave-and-conditions/ato-enterprise-agreement-2024/attachments/attachment-a"
+    },
+    {
+      "gradeCode": "EL-1",
+      "step": 1,
+      "annual": 110115,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-1",
+      "step": 2,
+      "annual": 126150,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-1",
+      "step": 3,
+      "annual": 130071,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-1",
+      "step": 4,
+      "annual": 132724,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-1",
+      "step": 5,
+      "annual": 141099,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-2",
+      "step": 1,
+      "annual": 127226,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-2",
+      "step": 2,
+      "annual": 155386,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-2",
+      "step": 3,
+      "annual": 161521,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-2",
+      "step": 4,
+      "annual": 168841,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "EL-2",
+      "step": 5,
+      "annual": 182258,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "GRAD",
+      "step": 1,
+      "annual": 61820,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "GRAD",
+      "step": 2,
+      "annual": 72658,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "GRAD",
+      "step": 3,
+      "annual": 76277,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "GRAD",
+      "step": 4,
+      "annual": 78290,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "GRAD",
+      "step": 5,
+      "annual": 82184,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SA-APS1",
+      "step": 1,
+      "annual": 57497,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS1",
+      "step": 2,
+      "annual": 61603,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS2",
+      "step": 1,
+      "annual": 64202,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS2",
+      "step": 2,
+      "annual": 69288,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS3",
+      "step": 1,
+      "annual": 71170,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS3",
+      "step": 2,
+      "annual": 79320,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS4",
+      "step": 1,
+      "annual": 79322,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS4",
+      "step": 2,
+      "annual": 87886,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS5",
+      "step": 1,
+      "annual": 88834,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS5",
+      "step": 2,
+      "annual": 96829,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS6",
+      "step": 1,
+      "annual": 99734,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-APS6",
+      "step": 2,
+      "annual": 113242,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-EL1",
+      "step": 1,
+      "annual": 122493,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-EL1",
+      "step": 2,
+      "annual": 135731,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-EL2",
+      "step": 1,
+      "annual": 141751,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SA-EL2",
+      "step": 2,
+      "annual": 168571,
+      "verifiedAt": "2026-04-22T22:42:54.918Z",
+      "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2024-04/services-australia-agreement-2024-2027.pdf"
+    },
+    {
+      "gradeCode": "SES-1",
+      "step": 1,
+      "annual": 179758,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-1",
+      "step": 2,
+      "annual": 230100,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-1",
+      "step": 3,
+      "annual": 244086,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-1",
+      "step": 4,
+      "annual": 253724,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-1",
+      "step": 5,
+      "annual": 274356,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-2",
+      "step": 1,
+      "annual": 237622,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-2",
+      "step": 2,
+      "annual": 296190,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-2",
+      "step": 3,
+      "annual": 307112,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-2",
+      "step": 4,
+      "annual": 324509,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-2",
+      "step": 5,
+      "annual": 354437,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-3",
+      "step": 1,
+      "annual": 343340,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-3",
+      "step": 2,
+      "annual": 395267,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-3",
+      "step": 3,
+      "annual": 416400,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-3",
+      "step": 4,
+      "annual": 436161,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    },
+    {
+      "gradeCode": "SES-3",
+      "step": 5,
+      "annual": 529929,
+      "verifiedAt": "2026-04-20T13:31:44.420Z",
+      "sourceUrl": "https://www.apsc.gov.au/sites/default/files/2025-07/2024%20Remuneration%20Data%20Tables%201-38%20%28Final%29.xlsx"
+    }
+  ]
+}
