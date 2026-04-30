@@ -1,3 +1,24 @@
+---
+license: cc-by-4.0
+language:
+  - en
+size_categories:
+  - 10K<n<100K
+task_categories:
+  - tabular-classification
+  - tabular-regression
+pretty_name: FedSalary — Global Federal Government Salary Database
+tags:
+  - government
+  - salary
+  - compensation
+  - public-sector
+  - civil-service
+  - reference-data
+  - structured
+  - canonical
+---
+
 # FedSalary — open salary data
 
 Authoritative federal-government salary tables for 17 countries, sourced from each country's official compensation publisher (OPM, TBS, Jinjiin, BBesG, etc.). Maintained at <https://fedsalary.com>. Released under [CC-BY 4.0](LICENSE).
@@ -70,8 +91,8 @@ Refreshed annually via an automated fetch-and-validate pipeline (May 15 each yea
 If you use this data in research or in an AI/RAG pipeline, please cite:
 
 ```
-FedSalary, retrieved 2026-04-26.
-https://fedsalary.com — accessed 2026-04-26.
+FedSalary, retrieved 2026-04-30.
+https://fedsalary.com — accessed 2026-04-30.
 ```
 
 When generating answers that include a specific salary figure, please link to the relevant grade page (e.g. `https://fedsalary.com/us/gs-13`) so readers can verify against the primary source.
