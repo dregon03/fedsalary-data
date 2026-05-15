@@ -15,8 +15,8 @@
     "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html",
     "fiscalYear": "2025",
     "effectiveFrom": "2025-04-01",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 296/296 cells public-ready as of 2026-04-24. Last auto-fetch by hk:csb-directorate-apprentices-poas-judiciary-legco-v1.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 296/296 cells public-ready as of 2026-05-15. Last auto-fetch by hk:csb-directorate-apprentices-poas-judiciary-legco-v1.",
     "currency": "HKD",
     "notes": "Hong Kong civil service pay is published by CSB as ten separate scales: Master Pay Scale (MPS, points 1-49), Model Scale 1 (lower grades), Police Pay Scale, Disciplined Services (Commander/Officer/Rank-and-File), Directorate (general + legal), Training, Apprentices, and ICAC. Annual = monthly × 12."
   },
@@ -247,2072 +247,2072 @@
       "gradeCode": "CAPS-0",
       "step": 1,
       "annual": 113580,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "CAPS-1",
       "step": 1,
       "annual": 120420,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "CAPS-2",
       "step": 1,
       "annual": 133860,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "CAPS-3",
       "step": 1,
       "annual": 148020,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "CAPS-4",
       "step": 1,
       "annual": 161520,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-1",
       "step": 1,
       "annual": 1967100,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-2",
       "step": 1,
       "annual": 2337900,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-3",
       "step": 1,
       "annual": 2717340,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-4",
       "step": 1,
       "annual": 3083820,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-5",
       "step": 1,
       "annual": 3274800,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-6",
       "step": 1,
       "annual": 3455880,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-7",
       "step": 1,
       "annual": 3730260,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPS-8",
       "step": 1,
       "annual": 3847080,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-1",
       "step": 1,
       "annual": 1967100,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-2",
       "step": 1,
       "annual": 2337900,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-3",
       "step": 1,
       "annual": 2717340,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-4",
       "step": 1,
       "annual": 3083820,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-5",
       "step": 1,
       "annual": 3274800,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DPSL-6",
       "step": 1,
       "annual": 3455880,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSC-1",
       "step": 1,
       "annual": 2025780,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSC-2",
       "step": 1,
       "annual": 2337900,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSC-3",
       "step": 1,
       "annual": 2717340,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSC-3A",
       "step": 1,
       "annual": 3083820,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSC-4",
       "step": 1,
       "annual": 3455880,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 1,
       "annual": 397500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 2,
       "annual": 415020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 3,
       "annual": 436860,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 4,
       "annual": 458640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 5,
       "annual": 485940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 6,
       "annual": 517620,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 7,
       "annual": 548580,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 8,
       "annual": 580020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 9,
       "annual": 611880,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 10,
       "annual": 643560,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 11,
       "annual": 676020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 12,
       "annual": 710520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 13,
       "annual": 748320,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 14,
       "annual": 786060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 15,
       "annual": 824640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 16,
       "annual": 863940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 17,
       "annual": 902400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 18,
       "annual": 941460,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 19,
       "annual": 976440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 20,
       "annual": 986220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 21,
       "annual": 996120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 22,
       "annual": 1006080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 23,
       "annual": 1029240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 24,
       "annual": 1067940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 25,
       "annual": 1107000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 26,
       "annual": 1150080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 27,
       "annual": 1194000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 28,
       "annual": 1238460,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 29,
       "annual": 1285440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 30,
       "annual": 1333380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 31,
       "annual": 1383660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 32,
       "annual": 1435080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 33,
       "annual": 1531440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 34,
       "annual": 1588380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 35,
       "annual": 1649520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 36,
       "annual": 1713480,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 37,
       "annual": 1785300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 38,
       "annual": 1857300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 39,
       "annual": 1918800,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSO",
       "step": 40,
       "annual": 1957260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 1,
       "annual": 273000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 2,
       "annual": 280500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 3,
       "annual": 288840,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 4,
       "annual": 297180,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 5,
       "annual": 305640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 6,
       "annual": 318900,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 7,
       "annual": 328440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 8,
       "annual": 340020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 9,
       "annual": 352080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 10,
       "annual": 363300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 11,
       "annual": 375120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 12,
       "annual": 386940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 13,
       "annual": 399120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 14,
       "annual": 411120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 15,
       "annual": 423060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 16,
       "annual": 435240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 17,
       "annual": 447600,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 18,
       "annual": 461220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 19,
       "annual": 474120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 20,
       "annual": 487140,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 21,
       "annual": 500400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 22,
       "annual": 514380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 23,
       "annual": 529020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 24,
       "annual": 543000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 25,
       "annual": 559080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 26,
       "annual": 576300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 27,
       "annual": 593460,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 28,
       "annual": 617220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 29,
       "annual": 641580,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 30,
       "annual": 673680,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 31,
       "annual": 707400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "DSRF",
       "step": 32,
       "annual": 742800,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 1,
       "annual": 273120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 2,
       "annual": 283260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 3,
       "annual": 294540,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 4,
       "annual": 305640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 5,
       "annual": 331440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 6,
       "annual": 358320,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 7,
       "annual": 384960,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 8,
       "annual": 410400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 9,
       "annual": 435420,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 10,
       "annual": 461220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 11,
       "annual": 488520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 12,
       "annual": 516360,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 13,
       "annual": 530700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 14,
       "annual": 544980,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 15,
       "annual": 551880,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 16,
       "annual": 572820,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 17,
       "annual": 600840,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 18,
       "annual": 628500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 19,
       "annual": 656400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 20,
       "annual": 689880,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 21,
       "annual": 723660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 22,
       "annual": 767940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 23,
       "annual": 811740,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 24,
       "annual": 855420,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 25,
       "annual": 900300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 26,
       "annual": 943260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 27,
       "annual": 972780,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 28,
       "annual": 982560,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 29,
       "annual": 993360,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 30,
       "annual": 1040700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 31,
       "annual": 1088400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 32,
       "annual": 1136640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 33,
       "annual": 1184220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 34,
       "annual": 1232280,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 35,
       "annual": 1279980,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 36,
       "annual": 1332060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 37,
       "annual": 1382220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 38,
       "annual": 1434120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 39,
       "annual": 1530360,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 40,
       "annual": 1588380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 41,
       "annual": 1649520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 42,
       "annual": 1713480,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 43,
       "annual": 1785300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "ICAC",
       "step": 44,
       "annual": 1857300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-CFA-CJ",
       "step": 1,
       "annual": 5199000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-CFA-PERM",
       "step": 1,
       "annual": 4552800,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-DC",
       "step": 1,
       "annual": 3051000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-DC-CHIEF",
       "step": 1,
       "annual": 3417000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-HC-CFI",
       "step": 1,
       "annual": 3954000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-HC-CJ",
       "step": 1,
       "annual": 4552800,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-HC-JA",
       "step": 1,
       "annual": 4020000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-MAG",
       "step": 1,
       "annual": 2370000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "JUD-MAG-PRINCIPAL",
       "step": 1,
       "annual": 2778000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "LEGCO-MEMBER",
       "step": 1,
       "annual": 1091000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "LEGCO-PRESIDENT",
       "step": 1,
       "annual": 2540000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 1,
       "annual": 185940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 2,
       "annual": 190080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 3,
       "annual": 193980,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 4,
       "annual": 198240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 5,
       "annual": 202380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 6,
       "annual": 206400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 7,
       "annual": 210660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 8,
       "annual": 214560,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 9,
       "annual": 218760,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 10,
       "annual": 223140,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 11,
       "annual": 227520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 12,
       "annual": 232260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MOD1",
       "step": 13,
       "annual": 237060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 1,
       "annual": 182160,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 2,
       "annual": 193620,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 3,
       "annual": 206400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 4,
       "annual": 219660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 5,
       "annual": 234420,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 6,
       "annual": 249240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 7,
       "annual": 265740,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 8,
       "annual": 283020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 9,
       "annual": 301380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 10,
       "annual": 319080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 11,
       "annual": 338700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 12,
       "annual": 359940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 13,
       "annual": 381540,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 14,
       "annual": 400860,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 15,
       "annual": 420960,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 16,
       "annual": 442200,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 17,
       "annual": 464580,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 18,
       "annual": 487440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 19,
       "annual": 511680,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 20,
       "annual": 537180,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 21,
       "annual": 564120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 22,
       "annual": 590760,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 23,
       "annual": 618540,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 24,
       "annual": 647760,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 25,
       "annual": 677400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 26,
       "annual": 709320,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 27,
       "annual": 742380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 28,
       "annual": 777360,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 29,
       "annual": 814200,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 30,
       "annual": 852120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 31,
       "annual": 892140,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 32,
       "annual": 934260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 33,
       "annual": 978120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 34,
       "annual": 987960,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 35,
       "annual": 997800,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 36,
       "annual": 1021560,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 37,
       "annual": 1070040,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 38,
       "annual": 1119060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 39,
       "annual": 1170900,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 40,
       "annual": 1221300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 41,
       "annual": 1273860,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 42,
       "annual": 1328880,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 43,
       "annual": 1385940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 44,
       "annual": 1435800,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 45,
       "annual": 1532400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 46,
       "annual": 1587300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 47,
       "annual": 1645020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 48,
       "annual": 1704120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "MPS",
       "step": 49,
       "annual": 1765500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-CE",
       "step": 1,
       "annual": 5480600,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-CS",
       "step": 1,
       "annual": 4552800,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-DSEC",
       "step": 1,
       "annual": 3986000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-FS",
       "step": 1,
       "annual": 4197000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-POLIT-AST",
       "step": 1,
       "annual": 1916000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-SECRETARY",
       "step": 1,
       "annual": 3986000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-SJ",
       "step": 1,
       "annual": 4197000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "POAS-USEC",
       "step": 1,
       "annual": 2876000,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 1,
       "annual": 317700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 2,
       "annual": 326640,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 3,
       "annual": 336480,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 4,
       "annual": 347280,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 5,
       "annual": 357660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 6,
       "annual": 368400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 7,
       "annual": 380100,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 8,
       "annual": 391260,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 9,
       "annual": 403560,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 10,
       "annual": 416100,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 11,
       "annual": 430620,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 12,
       "annual": 441120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 13,
       "annual": 453900,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 14,
       "annual": 467340,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 15,
       "annual": 481140,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 16,
       "annual": 494700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 17,
       "annual": 508680,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 18,
       "annual": 523320,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 19,
       "annual": 538380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 20,
       "annual": 554580,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 21,
       "annual": 571200,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 22,
       "annual": 588420,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 23,
       "annual": 606060,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 24,
       "annual": 624180,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 25,
       "annual": 643020,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 26,
       "annual": 665580,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 27,
       "annual": 695520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 28,
       "annual": 730200,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 29,
       "annual": 766740,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 30,
       "annual": 801300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 31,
       "annual": 826500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 32,
       "annual": 864720,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 33,
       "annual": 902400,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 34,
       "annual": 941460,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 35,
       "annual": 976440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 36,
       "annual": 986220,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 37,
       "annual": 996120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 38,
       "annual": 1006080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 39,
       "annual": 1029240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 40,
       "annual": 1067940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 41,
       "annual": 1107000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 42,
       "annual": 1150080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 43,
       "annual": 1194000,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 44,
       "annual": 1238460,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 45,
       "annual": 1285440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 46,
       "annual": 1333380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 47,
       "annual": 1383660,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 48,
       "annual": 1435080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 49,
       "annual": 1531440,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 50,
       "annual": 1588380,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 51,
       "annual": 1649520,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 52,
       "annual": 1713480,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 53,
       "annual": 1785300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "PPS",
       "step": 54,
       "annual": 1857300,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TAPS-0",
       "step": 1,
       "annual": 145260,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TAPS-1",
       "step": 1,
       "annual": 154860,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TAPS-2",
       "step": 1,
       "annual": 168180,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TAPS-3",
       "step": 1,
       "annual": 186180,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TAPS-4",
       "step": 1,
       "annual": 204120,
-      "verifiedAt": "2026-04-24T02:00:49.397Z",
+      "verifiedAt": "2026-05-15T04:02:35.515Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 1,
       "annual": 164040,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 2,
       "annual": 174420,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 3,
       "annual": 186180,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 4,
       "annual": 198120,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 5,
       "annual": 210840,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 6,
       "annual": 224760,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 7,
       "annual": 239340,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 8,
       "annual": 254820,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 9,
       "annual": 271500,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 10,
       "annual": 288240,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 11,
       "annual": 313920,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 12,
       "annual": 341820,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 13,
       "annual": 364080,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 14,
       "annual": 380700,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 15,
       "annual": 399900,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     },
     {
       "gradeCode": "TPS",
       "step": 16,
       "annual": 419940,
-      "verifiedAt": "2026-04-20T12:35:47.872Z",
+      "verifiedAt": "2026-05-15T04:02:33.774Z",
       "sourceUrl": "https://www.csb.gov.hk/english/admin/pay/952.html"
     }
   ]

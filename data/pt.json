@@ -14,8 +14,8 @@
     "source": "DGAEP — Direção-Geral da Administração e do Emprego Público: SRAP 2025 (Sistema Remuneratório da Administração Pública)",
     "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf",
     "fiscalYear": "2025",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 138/138 cells public-ready as of 2026-04-24. Last auto-fetch by pt:srap-2026-extras.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 138/138 cells public-ready as of 2026-05-15. Last auto-fetch by pt:srap-2026-extras.",
     "currency": "EUR",
     "notes": "Portuguese public administration uses a single Tabela Remuneratória Única (TRU) of 115 pay levels. Annual = monthly × 14 (subsídio de férias + subsídio de Natal). Levels 1-4 are pegged to BRAP (Base Remuneratória da Administração Pública) = €878.41/mo in 2025."
   },
@@ -122,966 +122,966 @@
       "gradeCode": "DIR-INT-1",
       "step": 1,
       "annual": 46863,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "DIR-INT-2",
       "step": 1,
       "annual": 41005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "DIR-SUP-1",
       "step": 1,
       "annual": 58578,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "DIR-SUP-2",
       "step": 1,
       "annual": 49792,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-CONSELHEIRO",
       "step": 1,
       "annual": 104005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-DESEMB",
       "step": 1,
       "annual": 88004,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-DESEMB-5A",
       "step": 1,
       "annual": 96005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-DIR-JUIZOS",
       "step": 1,
       "annual": 80004,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-DIR-LOCAIS",
       "step": 1,
       "annual": 70003,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-ESTAGIARIO",
       "step": 1,
       "annual": 40002,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "JUD-PRES-STJ",
       "step": 1,
       "annual": 104005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-ESTAGIARIO",
       "step": 1,
       "annual": 40002,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-PGR",
       "step": 1,
       "annual": 104005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-PGRADJ",
       "step": 1,
       "annual": 88004,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-PGRADJ-5A",
       "step": 1,
       "annual": 96005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-PR",
       "step": 1,
       "annual": 80004,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-PR-DIAP",
       "step": 1,
       "annual": 70003,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "MP-VPGR",
       "step": 1,
       "annual": 104005,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 1,
       "annual": 12298,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 2,
       "annual": 12298,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 3,
       "annual": 12298,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 4,
       "annual": 12298,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 5,
       "annual": 12298,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 6,
       "annual": 12970,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 7,
       "annual": 13707,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 8,
       "annual": 14252,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 9,
       "annual": 15038,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 10,
       "annual": 15775,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 11,
       "annual": 16512,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 12,
       "annual": 17249,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 13,
       "annual": 17985,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 14,
       "annual": 18722,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 15,
       "annual": 19459,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 16,
       "annual": 20196,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 17,
       "annual": 20933,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 18,
       "annual": 21670,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 19,
       "annual": 22406,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 20,
       "annual": 23143,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 21,
       "annual": 23880,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 22,
       "annual": 24617,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 23,
       "annual": 25354,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 24,
       "annual": 26091,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 25,
       "annual": 26850,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 26,
       "annual": 27609,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 27,
       "annual": 28368,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 28,
       "annual": 29127,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 29,
       "annual": 29886,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 30,
       "annual": 30645,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 31,
       "annual": 31404,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 32,
       "annual": 32162,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 33,
       "annual": 32921,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 34,
       "annual": 33680,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 35,
       "annual": 34439,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 36,
       "annual": 35198,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 37,
       "annual": 35957,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 38,
       "annual": 36716,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 39,
       "annual": 37475,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 40,
       "annual": 38247,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 41,
       "annual": 39022,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 42,
       "annual": 39803,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 43,
       "annual": 40594,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 44,
       "annual": 41384,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 45,
       "annual": 42175,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 46,
       "annual": 42966,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 47,
       "annual": 43757,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 48,
       "annual": 44547,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 49,
       "annual": 45338,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 50,
       "annual": 46129,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 51,
       "annual": 46920,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 52,
       "annual": 47710,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 53,
       "annual": 48501,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 54,
       "annual": 49292,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 55,
       "annual": 50083,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 56,
       "annual": 50874,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 57,
       "annual": 51664,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 58,
       "annual": 52455,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 59,
       "annual": 53246,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 60,
       "annual": 54037,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 61,
       "annual": 54828,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 62,
       "annual": 55618,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 63,
       "annual": 56410,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 64,
       "annual": 57200,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 65,
       "annual": 57991,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 66,
       "annual": 58781,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 67,
       "annual": 59572,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 68,
       "annual": 60363,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 69,
       "annual": 61154,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 70,
       "annual": 61945,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 71,
       "annual": 62736,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 72,
       "annual": 63526,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 73,
       "annual": 64317,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 74,
       "annual": 65108,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 75,
       "annual": 65898,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 76,
       "annual": 66689,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 77,
       "annual": 67480,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 78,
       "annual": 68271,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 79,
       "annual": 69062,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 80,
       "annual": 69853,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 81,
       "annual": 70643,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 82,
       "annual": 71434,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 83,
       "annual": 72225,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 84,
       "annual": 73016,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 85,
       "annual": 73806,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 86,
       "annual": 74597,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 87,
       "annual": 75388,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 88,
       "annual": 76179,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 89,
       "annual": 76970,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 90,
       "annual": 77760,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 91,
       "annual": 78551,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 92,
       "annual": 79342,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 93,
       "annual": 80133,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 94,
       "annual": 80923,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 95,
       "annual": 81714,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 96,
       "annual": 82505,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 97,
       "annual": 83296,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 98,
       "annual": 84087,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 99,
       "annual": 84877,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 100,
       "annual": 85668,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 101,
       "annual": 86459,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 102,
       "annual": 87250,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 103,
       "annual": 88041,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 104,
       "annual": 88831,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 105,
       "annual": 89622,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 106,
       "annual": 90413,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 107,
       "annual": 91203,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 108,
       "annual": 91994,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 109,
       "annual": 92785,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 110,
       "annual": 93576,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 111,
       "annual": 94367,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 112,
       "annual": 95157,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 113,
       "annual": 95948,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 114,
       "annual": 96739,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "TRU",
       "step": 115,
       "annual": 97530,
-      "verifiedAt": "2026-04-20T12:16:33.859Z",
+      "verifiedAt": "2026-05-15T04:03:14.053Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2025_V25_06_05_jun.pdf"
     },
     {
       "gradeCode": "UNIV-ASSOC-AGREG",
       "step": 1,
       "annual": 73182,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "UNIV-ASSOC-AUX-AG",
       "step": 1,
       "annual": 66763,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "UNIV-AUXILIAR",
       "step": 1,
       "annual": 62911,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "UNIV-CATEDRATICO",
       "step": 1,
       "annual": 84737,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     },
     {
       "gradeCode": "UNIV-LEITOR",
       "step": 1,
       "annual": 39812,
-      "verifiedAt": "2026-04-24T02:43:00.747Z",
+      "verifiedAt": "2026-05-15T04:03:15.624Z",
       "sourceUrl": "https://www.dgaep.gov.pt/upload//catalogo/SRAP_2026.pdf"
     }
   ]

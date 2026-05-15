@@ -21,13 +21,13 @@ tags:
 
 # FedSalary — open salary data
 
-Authoritative federal-government salary tables for 17 countries, sourced from each country's official compensation publisher (OPM, TBS, Jinjiin, BBesG, etc.). Maintained at <https://fedsalary.com>. Released under [CC-BY 4.0](LICENSE).
+Authoritative federal-government salary tables for 19 countries, sourced from each country's official compensation publisher (OPM, TBS, Jinjiin, BBesG, etc.). Maintained at <https://fedsalary.com>. Released under [CC-BY 4.0](LICENSE).
 
 This repository is the canonical export of the FedSalary database. The site at fedsalary.com renders this same data; the source-of-truth pipeline runs there. This repo exists so the data is independently downloadable, versioned, and ingestible by AI training and research pipelines.
 
 ## Files
 
-- [`data/all.csv`](data/all.csv) — Combined CSV, 19261 rows, every country.
+- [`data/all.csv`](data/all.csv) — Combined CSV, 19507 rows, every country.
 - [`data/{country}.csv`](data/) — Per-country CSV, one file per country code.
 - [`data/{country}.json`](data/) — Per-country JSON with full `grades` index plus per-cell source URLs.
 - [`manifest.json`](manifest.json) — Export-run metadata (row counts, generation time).
@@ -37,25 +37,27 @@ This repository is the canonical export of the FedSalary database. The site at f
 
 | Country | Code | Rows | Grades | Last refresh |
 |---|---|---:|---:|---|
-| Japan | `jp` | 9492 | 152 | 2026-04-23 |
-| Canada | `ca` | 3447 | 721 | 2026-04-23 |
-| South Korea | `kr` | 1611 | 80 | 2026-04-23 |
-| United States | `us` | 895 | 102 | 2026-04-22 |
-| Brazil | `br` | 805 | 187 | 2026-04-23 |
-| Malaysia | `my` | 686 | 47 | 2026-04-24 |
-| India | `in` | 559 | 54 | 2026-04-23 |
-| Hong Kong | `hk` | 296 | 55 | 2026-04-24 |
-| Germany | `de` | 246 | 53 | 2026-04-23 |
-| Austria | `at` | 224 | 27 | 2026-04-24 |
-| Netherlands | `nl` | 214 | 34 | 2026-04-24 |
-| United Kingdom | `uk` | 167 | 56 | 2026-04-23 |
-| Australia | `au` | 146 | 36 | 2026-04-24 |
-| Taiwan | `tw` | 142 | 9 | 2026-04-24 |
-| Portugal | `pt` | 138 | 24 | 2026-04-24 |
-| Switzerland | `ch` | 103 | 65 | 2026-04-24 |
-| Spain | `es` | 90 | 90 | 2026-04-24 |
+| Japan | `jp` | 9492 | 152 | 2026-05-15 |
+| Canada | `ca` | 3447 | 721 | 2026-05-15 |
+| South Korea | `kr` | 1611 | 80 | 2026-05-15 |
+| United States | `us` | 895 | 102 | 2026-05-15 |
+| Brazil | `br` | 839 | 193 | 2026-05-15 |
+| Malaysia | `my` | 686 | 47 | 2026-05-15 |
+| India | `in` | 559 | 54 | 2026-05-15 |
+| Hong Kong | `hk` | 296 | 55 | 2026-05-15 |
+| Germany | `de` | 246 | 53 | 2026-05-07 |
+| Austria | `at` | 224 | 27 | 2026-05-15 |
+| Netherlands | `nl` | 214 | 34 | 2026-05-15 |
+| Taiwan | `tw` | 181 | 10 | 2026-05-15 |
+| United Kingdom | `uk` | 167 | 56 | 2026-05-15 |
+| Australia | `au` | 146 | 36 | 2026-05-15 |
+| Portugal | `pt` | 138 | 24 | 2026-05-15 |
+| Switzerland | `ch` | 103 | 65 | 2026-05-15 |
+| France | `fr` | 99 | 9 | 2026-05-15 |
+| Spain | `es` | 90 | 90 | 2026-05-15 |
+| Mexico | `mx` | 74 | 26 | 2026-05-15 |
 
-Total: 19261 verified pay cells across 17 countries.
+Total: 19507 verified pay cells across 19 countries.
 
 ## Schema
 
@@ -91,8 +93,8 @@ Refreshed annually via an automated fetch-and-validate pipeline (May 15 each yea
 If you use this data in research or in an AI/RAG pipeline, please cite:
 
 ```
-FedSalary, retrieved 2026-04-30.
-https://fedsalary.com — accessed 2026-04-30.
+FedSalary, retrieved 2026-05-15.
+https://fedsalary.com — accessed 2026-05-15.
 ```
 
 When generating answers that include a specific salary figure, please link to the relevant grade page (e.g. `https://fedsalary.com/us/gs-13`) so readers can verify against the primary source.

@@ -14,8 +14,8 @@
     "source": "Ministry of Finance / Department of Expenditure — Gazette of India Extraordinary Part I Section 1, notification No. 512 dated 25-07-2016 (CCS(RP) Rules, 2016, Schedule Part A — Pay Matrix)",
     "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf",
     "fiscalYear": "2016-onwards",
-    "retrievedAt": "2026-04-23",
-    "status": "AUTO-VERIFIED — 559/559 cells public-ready as of 2026-04-23. Last auto-fetch by in:constitutional-judicial-military-v1.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 559/559 cells public-ready as of 2026-05-15. Last auto-fetch by in:constitutional-judicial-military-v1.",
     "currency": "INR",
     "notes": "India's Central Pay Matrix has 18 Pay Levels (L1-L18). Each level has up to 40 cells progressing by 3% annual increment. Authoritative source is the gazette notification issued by the Department of Expenditure, not any third-party salary site. 8th CPC expected in 2026-27 — refresh when implemented."
   },
@@ -242,3913 +242,3913 @@
       "gradeCode": "GOV-CABINET-MIN",
       "step": 1,
       "annual": 1920000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-DEPUTY-MIN",
       "step": 1,
       "annual": 1680000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-DY-SPEAKER",
       "step": 1,
       "annual": 4200000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-GOVERNOR",
       "step": 1,
       "annual": 4200000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-LS-SPEAKER",
       "step": 1,
       "annual": 4800000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-MP",
       "step": 1,
       "annual": 1200000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-PM",
       "step": 1,
       "annual": 1920000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-PRESIDENT",
       "step": 1,
       "annual": 6000000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-STATE-MIN",
       "step": 1,
       "annual": 1800000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "GOV-VICE-PRES",
       "step": 1,
       "annual": 4800000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-CJI",
       "step": 1,
       "annual": 3360000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-DISTRICT-ENTRY",
       "step": 1,
       "annual": 934080,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-DISTRICT-SR",
       "step": 1,
       "annual": 2389200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-HC-CJ",
       "step": 1,
       "annual": 3000000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-HC-JUDGE",
       "step": 1,
       "annual": 2700000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "JUD-SC-JUDGE",
       "step": 1,
       "annual": 3000000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "L1",
       "step": 1,
       "annual": 216000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 2,
       "annual": 222000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 3,
       "annual": 229200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 4,
       "annual": 236400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 5,
       "annual": 243600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 6,
       "annual": 250800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 7,
       "annual": 258000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 8,
       "annual": 265200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 9,
       "annual": 273600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 10,
       "annual": 282000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 11,
       "annual": 290400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 12,
       "annual": 298800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 13,
       "annual": 307200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 14,
       "annual": 316800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 15,
       "annual": 326400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 16,
       "annual": 336000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 17,
       "annual": 345600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 18,
       "annual": 356400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 19,
       "annual": 367200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 20,
       "annual": 378000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 21,
       "annual": 388800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 22,
       "annual": 400800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 23,
       "annual": 412800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 24,
       "annual": 424800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 25,
       "annual": 438000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 26,
       "annual": 451200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 27,
       "annual": 464400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 28,
       "annual": 478800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 29,
       "annual": 493200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 30,
       "annual": 507600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 31,
       "annual": 523200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 32,
       "annual": 538800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 33,
       "annual": 554400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 34,
       "annual": 571200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 35,
       "annual": 588000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 36,
       "annual": 606000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 37,
       "annual": 624000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 38,
       "annual": 643200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 39,
       "annual": 662400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L1",
       "step": 40,
       "annual": 682800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 1,
       "annual": 673200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 2,
       "annual": 693600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 3,
       "annual": 714000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 4,
       "annual": 735600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 5,
       "annual": 757200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 6,
       "annual": 780000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 7,
       "annual": 804000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 8,
       "annual": 828000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 9,
       "annual": 853200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 10,
       "annual": 878400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 11,
       "annual": 904800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 12,
       "annual": 932400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 13,
       "annual": 960000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 14,
       "annual": 988800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 15,
       "annual": 1018800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 16,
       "annual": 1048800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 17,
       "annual": 1080000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 18,
       "annual": 1112400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 19,
       "annual": 1146000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 20,
       "annual": 1180800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 21,
       "annual": 1216800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 22,
       "annual": 1252800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 23,
       "annual": 1290000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 24,
       "annual": 1328400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 25,
       "annual": 1368000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 26,
       "annual": 1408800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 27,
       "annual": 1450800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 28,
       "annual": 1494000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 29,
       "annual": 1538400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 30,
       "annual": 1584000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 31,
       "annual": 1632000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 32,
       "annual": 1681200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 33,
       "annual": 1731600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 34,
       "annual": 1783200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 35,
       "annual": 1837200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 36,
       "annual": 1892400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 37,
       "annual": 1948800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 38,
       "annual": 2007600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 39,
       "annual": 2067600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L10",
       "step": 40,
       "annual": 2130000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 1,
       "annual": 812400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 2,
       "annual": 836400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 3,
       "annual": 861600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 4,
       "annual": 888000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 5,
       "annual": 914400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 6,
       "annual": 942000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 7,
       "annual": 970800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 8,
       "annual": 999600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 9,
       "annual": 1029600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 10,
       "annual": 1060800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 11,
       "annual": 1093200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 12,
       "annual": 1125600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 13,
       "annual": 1159200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 14,
       "annual": 1194000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 15,
       "annual": 1230000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 16,
       "annual": 1267200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 17,
       "annual": 1305600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 18,
       "annual": 1345200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 19,
       "annual": 1386000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 20,
       "annual": 1428000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 21,
       "annual": 1471200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 22,
       "annual": 1515600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 23,
       "annual": 1561200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 24,
       "annual": 1608000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 25,
       "annual": 1656000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 26,
       "annual": 1705200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 27,
       "annual": 1756800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 28,
       "annual": 1809600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 29,
       "annual": 1863600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 30,
       "annual": 1920000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 31,
       "annual": 1977600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 32,
       "annual": 2036400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 33,
       "annual": 2097600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 34,
       "annual": 2160000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 35,
       "annual": 2224800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 36,
       "annual": 2292000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 37,
       "annual": 2360400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 38,
       "annual": 2431200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L11",
       "step": 39,
       "annual": 2504400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 1,
       "annual": 945600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 2,
       "annual": 974400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 3,
       "annual": 1003200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 4,
       "annual": 1033200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 5,
       "annual": 1064400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 6,
       "annual": 1096800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 7,
       "annual": 1129200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 8,
       "annual": 1162800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 9,
       "annual": 1197600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 10,
       "annual": 1233600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 11,
       "annual": 1270800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 12,
       "annual": 1309200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 13,
       "annual": 1348800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 14,
       "annual": 1389600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 15,
       "annual": 1431600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 16,
       "annual": 1474800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 17,
       "annual": 1519200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 18,
       "annual": 1564800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 19,
       "annual": 1611600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 20,
       "annual": 1659600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 21,
       "annual": 1708800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 22,
       "annual": 1760400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 23,
       "annual": 1813200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 24,
       "annual": 1867200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 25,
       "annual": 1923600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 26,
       "annual": 1981200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 27,
       "annual": 2041200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 28,
       "annual": 2102400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 29,
       "annual": 2166000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 30,
       "annual": 2230800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 31,
       "annual": 2298000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 32,
       "annual": 2366400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 33,
       "annual": 2437200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L12",
       "step": 34,
       "annual": 2510400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 1,
       "annual": 1422000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 2,
       "annual": 1465200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 3,
       "annual": 1509600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 4,
       "annual": 1555200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 5,
       "annual": 1602000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 6,
       "annual": 1650000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 7,
       "annual": 1699200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 8,
       "annual": 1749600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 9,
       "annual": 1802400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 10,
       "annual": 1856400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 11,
       "annual": 1911600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 12,
       "annual": 1969200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 13,
       "annual": 2028000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 14,
       "annual": 2089200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 15,
       "annual": 2151600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 16,
       "annual": 2216400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 17,
       "annual": 2282400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 18,
       "annual": 2350800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 19,
       "annual": 2421600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 20,
       "annual": 2494800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L13",
       "step": 21,
       "annual": 2569200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 1,
       "annual": 1730400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 2,
       "annual": 1782000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 3,
       "annual": 1836000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 4,
       "annual": 1891200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 5,
       "annual": 1947600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 6,
       "annual": 2006400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 7,
       "annual": 2066400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 8,
       "annual": 2128800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 9,
       "annual": 2192400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 10,
       "annual": 2258400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 11,
       "annual": 2325600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 12,
       "annual": 2395200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 13,
       "annual": 2467200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 14,
       "annual": 2541600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L14",
       "step": 15,
       "annual": 2618400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 1,
       "annual": 2186400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 2,
       "annual": 2252400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 3,
       "annual": 2319600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 4,
       "annual": 2389200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 5,
       "annual": 2461200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 6,
       "annual": 2535600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 7,
       "annual": 2611200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L15",
       "step": 8,
       "annual": 2689200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L16",
       "step": 1,
       "annual": 2464800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L16",
       "step": 2,
       "annual": 2539200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L16",
       "step": 3,
       "annual": 2614800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L16",
       "step": 4,
       "annual": 2692800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L17",
       "step": 1,
       "annual": 2700000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L18",
       "step": 1,
       "annual": 3000000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 1,
       "annual": 238800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 2,
       "annual": 246000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 3,
       "annual": 253200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 4,
       "annual": 260400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 5,
       "annual": 268800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 6,
       "annual": 277200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 7,
       "annual": 285600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 8,
       "annual": 294000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 9,
       "annual": 302400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 10,
       "annual": 312000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 11,
       "annual": 321600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 12,
       "annual": 331200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 13,
       "annual": 340800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 14,
       "annual": 351600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 15,
       "annual": 362400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 16,
       "annual": 373200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 17,
       "annual": 384000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 18,
       "annual": 396000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 19,
       "annual": 408000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 20,
       "annual": 420000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 21,
       "annual": 433200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 22,
       "annual": 446400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 23,
       "annual": 459600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 24,
       "annual": 472800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 25,
       "annual": 487200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 26,
       "annual": 501600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 27,
       "annual": 517200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 28,
       "annual": 532800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 29,
       "annual": 548400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 30,
       "annual": 565200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 31,
       "annual": 582000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 32,
       "annual": 600000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 33,
       "annual": 618000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 34,
       "annual": 636000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 35,
       "annual": 655200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 36,
       "annual": 674400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 37,
       "annual": 694800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 38,
       "annual": 715200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 39,
       "annual": 736800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L2",
       "step": 40,
       "annual": 758400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 1,
       "annual": 260400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 2,
       "annual": 268800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 3,
       "annual": 277200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 4,
       "annual": 285600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 5,
       "annual": 294000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 6,
       "annual": 302400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 7,
       "annual": 312000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 8,
       "annual": 321600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 9,
       "annual": 331200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 10,
       "annual": 340800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 11,
       "annual": 351600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 12,
       "annual": 362400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 13,
       "annual": 373200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 14,
       "annual": 384000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 15,
       "annual": 396000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 16,
       "annual": 408000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 17,
       "annual": 420000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 18,
       "annual": 433200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 19,
       "annual": 446400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 20,
       "annual": 459600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 21,
       "annual": 472800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 22,
       "annual": 487200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 23,
       "annual": 501600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 24,
       "annual": 517200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 25,
       "annual": 532800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 26,
       "annual": 548400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 27,
       "annual": 565200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 28,
       "annual": 582000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 29,
       "annual": 600000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 30,
       "annual": 618000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 31,
       "annual": 636000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 32,
       "annual": 655200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 33,
       "annual": 674400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 34,
       "annual": 694800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 35,
       "annual": 715200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 36,
       "annual": 736800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 37,
       "annual": 758400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 38,
       "annual": 781200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 39,
       "annual": 805200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L3",
       "step": 40,
       "annual": 829200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 1,
       "annual": 306000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 2,
       "annual": 315600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 3,
       "annual": 325200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 4,
       "annual": 334800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 5,
       "annual": 344400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 6,
       "annual": 355200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 7,
       "annual": 366000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 8,
       "annual": 376800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 9,
       "annual": 387600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 10,
       "annual": 399600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 11,
       "annual": 411600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 12,
       "annual": 423600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 13,
       "annual": 436800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 14,
       "annual": 450000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 15,
       "annual": 463200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 16,
       "annual": 477600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 17,
       "annual": 492000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 18,
       "annual": 506400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 19,
       "annual": 522000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 20,
       "annual": 537600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 21,
       "annual": 553200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 22,
       "annual": 570000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 23,
       "annual": 586800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 24,
       "annual": 604800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 25,
       "annual": 622800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 26,
       "annual": 642000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 27,
       "annual": 661200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 28,
       "annual": 681600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 29,
       "annual": 702000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 30,
       "annual": 723600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 31,
       "annual": 745200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 32,
       "annual": 768000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 33,
       "annual": 790800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 34,
       "annual": 814800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 35,
       "annual": 838800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 36,
       "annual": 864000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 37,
       "annual": 890400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 38,
       "annual": 916800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 39,
       "annual": 944400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L4",
       "step": 40,
       "annual": 973200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 1,
       "annual": 350400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 2,
       "annual": 361200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 3,
       "annual": 372000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 4,
       "annual": 382800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 5,
       "annual": 394800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 6,
       "annual": 406800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 7,
       "annual": 418800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 8,
       "annual": 430800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 9,
       "annual": 444000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 10,
       "annual": 457200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 11,
       "annual": 470400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 12,
       "annual": 484800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 13,
       "annual": 499200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 14,
       "annual": 513600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 15,
       "annual": 529200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 16,
       "annual": 544800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 17,
       "annual": 561600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 18,
       "annual": 578400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 19,
       "annual": 595200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 20,
       "annual": 613200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 21,
       "annual": 631200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 22,
       "annual": 650400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 23,
       "annual": 669600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 24,
       "annual": 690000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 25,
       "annual": 710400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 26,
       "annual": 732000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 27,
       "annual": 753600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 28,
       "annual": 776400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 29,
       "annual": 799200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 30,
       "annual": 823200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 31,
       "annual": 848400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 32,
       "annual": 873600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 33,
       "annual": 900000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 34,
       "annual": 927600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 35,
       "annual": 955200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 36,
       "annual": 984000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 37,
       "annual": 1014000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 38,
       "annual": 1044000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 39,
       "annual": 1075200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L5",
       "step": 40,
       "annual": 1107600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 1,
       "annual": 424800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 2,
       "annual": 438000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 3,
       "annual": 451200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 4,
       "annual": 464400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 5,
       "annual": 478800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 6,
       "annual": 493200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 7,
       "annual": 507600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 8,
       "annual": 523200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 9,
       "annual": 538800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 10,
       "annual": 554400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 11,
       "annual": 571200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 12,
       "annual": 588000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 13,
       "annual": 606000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 14,
       "annual": 624000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 15,
       "annual": 643200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 16,
       "annual": 662400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 17,
       "annual": 682800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 18,
       "annual": 703200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 19,
       "annual": 724800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 20,
       "annual": 746400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 21,
       "annual": 769200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 22,
       "annual": 792000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 23,
       "annual": 816000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 24,
       "annual": 840000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 25,
       "annual": 865200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 26,
       "annual": 891600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 27,
       "annual": 918000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 28,
       "annual": 945600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 29,
       "annual": 974400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 30,
       "annual": 1003200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 31,
       "annual": 1033200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 32,
       "annual": 1064400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 33,
       "annual": 1096800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 34,
       "annual": 1129200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 35,
       "annual": 1162800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 36,
       "annual": 1197600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 37,
       "annual": 1233600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 38,
       "annual": 1270800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 39,
       "annual": 1309200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L6",
       "step": 40,
       "annual": 1348800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 1,
       "annual": 538800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 2,
       "annual": 554400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 3,
       "annual": 571200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 4,
       "annual": 588000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 5,
       "annual": 606000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 6,
       "annual": 624000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 7,
       "annual": 643200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 8,
       "annual": 662400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 9,
       "annual": 682800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 10,
       "annual": 703200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 11,
       "annual": 724800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 12,
       "annual": 746400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 13,
       "annual": 769200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 14,
       "annual": 792000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 15,
       "annual": 816000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 16,
       "annual": 840000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 17,
       "annual": 865200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 18,
       "annual": 891600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 19,
       "annual": 918000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 20,
       "annual": 945600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 21,
       "annual": 974400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 22,
       "annual": 1003200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 23,
       "annual": 1033200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 24,
       "annual": 1064400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 25,
       "annual": 1096800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 26,
       "annual": 1129200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 27,
       "annual": 1162800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 28,
       "annual": 1197600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 29,
       "annual": 1233600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 30,
       "annual": 1270800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 31,
       "annual": 1309200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 32,
       "annual": 1348800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 33,
       "annual": 1389600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 34,
       "annual": 1431600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 35,
       "annual": 1474800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 36,
       "annual": 1519200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 37,
       "annual": 1564800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 38,
       "annual": 1611600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 39,
       "annual": 1659600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L7",
       "step": 40,
       "annual": 1708800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 1,
       "annual": 571200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 2,
       "annual": 588000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 3,
       "annual": 606000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 4,
       "annual": 624000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 5,
       "annual": 643200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 6,
       "annual": 662400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 7,
       "annual": 682800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 8,
       "annual": 703200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 9,
       "annual": 724800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 10,
       "annual": 746400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 11,
       "annual": 769200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 12,
       "annual": 792000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 13,
       "annual": 816000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 14,
       "annual": 840000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 15,
       "annual": 865200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 16,
       "annual": 891600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 17,
       "annual": 918000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 18,
       "annual": 945600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 19,
       "annual": 974400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 20,
       "annual": 1003200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 21,
       "annual": 1033200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 22,
       "annual": 1064400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 23,
       "annual": 1096800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 24,
       "annual": 1129200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 25,
       "annual": 1162800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 26,
       "annual": 1197600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 27,
       "annual": 1233600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 28,
       "annual": 1270800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 29,
       "annual": 1309200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 30,
       "annual": 1348800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 31,
       "annual": 1389600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 32,
       "annual": 1431600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 33,
       "annual": 1474800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 34,
       "annual": 1519200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 35,
       "annual": 1564800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 36,
       "annual": 1611600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 37,
       "annual": 1659600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 38,
       "annual": 1708800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 39,
       "annual": 1760400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L8",
       "step": 40,
       "annual": 1813200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 1,
       "annual": 637200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 2,
       "annual": 656400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 3,
       "annual": 675600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 4,
       "annual": 696000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 5,
       "annual": 716400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 6,
       "annual": 738000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 7,
       "annual": 759600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 8,
       "annual": 782400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 9,
       "annual": 806400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 10,
       "annual": 830400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 11,
       "annual": 855600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 12,
       "annual": 880800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 13,
       "annual": 907200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 14,
       "annual": 934800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 15,
       "annual": 962400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 16,
       "annual": 991200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 17,
       "annual": 1021200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 18,
       "annual": 1052400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 19,
       "annual": 1083600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 20,
       "annual": 1116000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 21,
       "annual": 1149600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 22,
       "annual": 1184400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 23,
       "annual": 1220400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 24,
       "annual": 1257600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 25,
       "annual": 1294800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 26,
       "annual": 1333200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 27,
       "annual": 1372800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 28,
       "annual": 1413600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 29,
       "annual": 1455600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 30,
       "annual": 1498800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 31,
       "annual": 1543200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 32,
       "annual": 1590000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 33,
       "annual": 1638000,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 34,
       "annual": 1687200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 35,
       "annual": 1737600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 36,
       "annual": 1789200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 37,
       "annual": 1843200,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 38,
       "annual": 1898400,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 39,
       "annual": 1954800,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "L9",
       "step": 40,
       "annual": 2013600,
-      "verifiedAt": "2026-04-21T20:56:26.816Z",
+      "verifiedAt": "2026-05-15T04:04:13.857Z",
       "sourceUrl": "https://clri.org/Admin/RTI/7th%20Central%20Pay%20Commission.pdf"
     },
     {
       "gradeCode": "MIL-ARMY-CDR",
       "step": 1,
       "annual": 2650800,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-BRIG",
       "step": 1,
       "annual": 1861200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-CAPT",
       "step": 1,
       "annual": 921600,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-CDS",
       "step": 1,
       "annual": 3000000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-COAS",
       "step": 1,
       "annual": 3000000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-COL",
       "step": 1,
       "annual": 1753200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-HAVILDAR",
       "step": 1,
       "annual": 412800,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-HONY-LT",
       "step": 1,
       "annual": 673200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-LANCE-NAIK",
       "step": 1,
       "annual": 322800,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-LT",
       "step": 1,
       "annual": 859200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-LT-COL",
       "step": 1,
       "annual": 1640400,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-LT-GEN",
       "step": 1,
       "annual": 2372400,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-MAJ",
       "step": 1,
       "annual": 1018800,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-MAJ-GEN",
       "step": 1,
       "annual": 1916400,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-NAIB-SUB",
       "step": 1,
       "annual": 487200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-NAIK",
       "step": 1,
       "annual": 368400,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-SEPOY",
       "step": 1,
       "annual": 322800,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-SUB-MAJOR",
       "step": 1,
       "annual": 633600,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-SUBEDAR",
       "step": 1,
       "annual": 601200,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     },
     {
       "gradeCode": "MIL-VCOAS",
       "step": 1,
       "annual": 2700000,
-      "verifiedAt": "2026-04-23T10:54:30.603Z",
+      "verifiedAt": "2026-05-15T04:04:15.708Z",
       "sourceUrl": "https://egazette.nic.in/"
     }
   ]

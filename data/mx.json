@@ -1,0 +1,648 @@
+{
+  "country": {
+    "code": "mx",
+    "iso3": "MEX",
+    "name": "Mexico",
+    "nameLocal": "México",
+    "currency": "MXN",
+    "system": "Manual de Percepciones — Tabulador de Sueldos y Salarios",
+    "authoritativePublisher": "Secretaría de Hacienda y Crédito Público + Secretaría Anticorrupción y Buen Gobierno",
+    "authoritativeUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025",
+    "fiscalYear": "2024"
+  },
+  "meta": {
+    "source": "Diario Oficial de la Federación — Manual de Percepciones de los Servidores Públicos de las dependencias y entidades de la Administración Pública Federal (Acuerdo SHCP/SABG, 30 mayo 2025)",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025",
+    "fiscalYear": "2024",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 74/74 cells public-ready as of 2026-05-15. Last auto-fetch by mx:dof-manual-percepciones-v1.",
+    "currency": "MXN",
+    "notes": "Mexican federal Executive Branch monthly pay schedule. Anexo 2 covers personal operativo (niveles 1-11) under both zona económica II (general) and zona económica III (border/high-cost). Anexo 3A covers personal de mando y enlace (grupos jerárquicos G/H/J/K/L/M/N/O/P with grado-nivel breakdown) plus the President. Annual = monthly × 12 (federal aguinaldo/13th month modeled separately as adjustment). Acuerdo published 30/05/2025 with vigencia from 1 enero 2024 — these rates are authoritative through 2025-2026 until the next acuerdo issues."
+  },
+  "grades": [
+    {
+      "code": "PRES",
+      "description": "Persona Titular de la Presidencia de la República — única plaza, total bruto mensual de $191,846 conforme al Anexo 3A del Manual de Percepciones."
+    },
+    {
+      "code": "G-1",
+      "description": "Grupo G — Secretaría de Estado. Titular de Secretaría del Poder Ejecutivo Federal."
+    },
+    {
+      "code": "H-1",
+      "description": "Grupo H — Subsecretaría de Estado, Oficialía Mayor o Equivalente."
+    },
+    {
+      "code": "J-1",
+      "description": "Grupo J grado 1 — Jefatura de Unidad o Equivalente, escalón inicial."
+    },
+    {
+      "code": "J-2",
+      "description": "Grupo J grado 2 — Jefatura de Unidad, escalón intermedio."
+    },
+    {
+      "code": "J-3",
+      "description": "Grupo J grado 3 — Jefatura de Unidad, escalón superior."
+    },
+    {
+      "code": "K-1",
+      "description": "Grupo K grado 1 — Dirección General o Equivalente, escalón inicial."
+    },
+    {
+      "code": "K-2",
+      "description": "Grupo K grado 2 — Dirección General o Equivalente, escalón superior."
+    },
+    {
+      "code": "L-1",
+      "description": "Grupo L grado 1 — Dirección General Adjunta o Equivalente."
+    },
+    {
+      "code": "L-2",
+      "description": "Grupo L grado 2 — Dirección General Adjunta."
+    },
+    {
+      "code": "L-3",
+      "description": "Grupo L grado 3 — Dirección General Adjunta."
+    },
+    {
+      "code": "M-1",
+      "description": "Grupo M grado 1 — Coordinación, Dirección de Área o Equivalente, escalón inicial."
+    },
+    {
+      "code": "M-2",
+      "description": "Grupo M grado 2 — Coordinación / Dirección de Área."
+    },
+    {
+      "code": "M-3",
+      "description": "Grupo M grado 3 — Coordinación / Dirección de Área."
+    },
+    {
+      "code": "M-4",
+      "description": "Grupo M grado 4 — Coordinación / Dirección de Área, escalón superior."
+    },
+    {
+      "code": "N-1",
+      "description": "Grupo N grado 1 — Subdirección de Área, escalón inicial."
+    },
+    {
+      "code": "N-2",
+      "description": "Grupo N grado 2 — Subdirección de Área."
+    },
+    {
+      "code": "N-3",
+      "description": "Grupo N grado 3 — Subdirección de Área, escalón superior."
+    },
+    {
+      "code": "O-1",
+      "description": "Grupo O grado 1 — Jefatura de Departamento, escalón inicial."
+    },
+    {
+      "code": "O-2",
+      "description": "Grupo O grado 2 — Jefatura de Departamento."
+    },
+    {
+      "code": "O-3",
+      "description": "Grupo O grado 3 — Jefatura de Departamento, escalón superior."
+    },
+    {
+      "code": "P-1",
+      "description": "Grupo P grado 1 — Enlace o Equivalente, escalón inicial."
+    },
+    {
+      "code": "P-2",
+      "description": "Grupo P grado 2 — Enlace o Equivalente."
+    },
+    {
+      "code": "P-3",
+      "description": "Grupo P grado 3 — Enlace o Equivalente, escalón superior."
+    },
+    {
+      "code": "OP-Z2",
+      "description": "Personal Operativo — Zona Económica II (general). Niveles 1-11 con sueldo base bruto + compensación garantizada bruta."
+    },
+    {
+      "code": "OP-Z3",
+      "description": "Personal Operativo — Zona Económica III (zonas fronterizas / alto costo de vida). Niveles 1-11 con un pequeño premio sobre Zona II."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "G-1",
+      "step": 1,
+      "annual": 2280420,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "H-1",
+      "step": 1,
+      "annual": 2262324,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "J-1",
+      "step": 1,
+      "annual": 2063268,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "J-2",
+      "step": 1,
+      "annual": 2135640,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "J-3",
+      "step": 1,
+      "annual": 2208048,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "K-1",
+      "step": 1,
+      "annual": 1721676,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "K-1",
+      "step": 2,
+      "annual": 1809864,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "K-2",
+      "step": 1,
+      "annual": 1882260,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "K-2",
+      "step": 2,
+      "annual": 1954656,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "L-1",
+      "step": 1,
+      "annual": 1357392,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "L-2",
+      "step": 1,
+      "annual": 1502184,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "L-3",
+      "step": 1,
+      "annual": 1646964,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-1",
+      "step": 1,
+      "annual": 796344,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-1",
+      "step": 2,
+      "annual": 814440,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-1",
+      "step": 3,
+      "annual": 850632,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-2",
+      "step": 1,
+      "annual": 886812,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-2",
+      "step": 2,
+      "annual": 977328,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-2",
+      "step": 3,
+      "annual": 1031616,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-3",
+      "step": 1,
+      "annual": 1085916,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-3",
+      "step": 2,
+      "annual": 1122120,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-3",
+      "step": 3,
+      "annual": 1158312,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-4",
+      "step": 1,
+      "annual": 1273164,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-4",
+      "step": 2,
+      "annual": 1418844,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "M-4",
+      "step": 3,
+      "annual": 1564524,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-1",
+      "step": 1,
+      "annual": 468936,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-1",
+      "step": 2,
+      "annual": 485052,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-1",
+      "step": 3,
+      "annual": 503148,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-2",
+      "step": 1,
+      "annual": 539352,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-2",
+      "step": 2,
+      "annual": 552468,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-2",
+      "step": 3,
+      "annual": 597276,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-3",
+      "step": 1,
+      "annual": 644304,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-3",
+      "step": 2,
+      "annual": 702228,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "N-3",
+      "step": 3,
+      "annual": 778248,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-1",
+      "step": 1,
+      "annual": 312060,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-1",
+      "step": 2,
+      "annual": 317880,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-1",
+      "step": 3,
+      "annual": 326772,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-2",
+      "step": 1,
+      "annual": 333540,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-2",
+      "step": 2,
+      "annual": 359400,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-2",
+      "step": 3,
+      "annual": 373536,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-3",
+      "step": 1,
+      "annual": 403008,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-3",
+      "step": 2,
+      "annual": 424992,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "O-3",
+      "step": 3,
+      "annual": 459708,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 1,
+      "annual": 127992,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 2,
+      "annual": 147192,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 3,
+      "annual": 148812,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 4,
+      "annual": 149568,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 5,
+      "annual": 150312,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 6,
+      "annual": 155232,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 7,
+      "annual": 164244,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 8,
+      "annual": 170724,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 9,
+      "annual": 173892,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 10,
+      "annual": 179040,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z2",
+      "step": 11,
+      "annual": 180564,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 1,
+      "annual": 133020,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 2,
+      "annual": 151776,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 3,
+      "annual": 152964,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 4,
+      "annual": 153696,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 5,
+      "annual": 154416,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 6,
+      "annual": 162696,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 7,
+      "annual": 172764,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 8,
+      "annual": 178368,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 9,
+      "annual": 180660,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 10,
+      "annual": 186576,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "OP-Z3",
+      "step": 11,
+      "annual": 188088,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-1",
+      "step": 1,
+      "annual": 171240,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-1",
+      "step": 2,
+      "annual": 175176,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-1",
+      "step": 3,
+      "annual": 192708,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-2",
+      "step": 1,
+      "annual": 212172,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-2",
+      "step": 2,
+      "annual": 232608,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-2",
+      "step": 3,
+      "annual": 253392,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-3",
+      "step": 1,
+      "annual": 268272,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-3",
+      "step": 2,
+      "annual": 280104,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "P-3",
+      "step": 3,
+      "annual": 298728,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    },
+    {
+      "gradeCode": "PRES",
+      "step": 1,
+      "annual": 2302152,
+      "verifiedAt": "2026-05-15T04:04:18.490Z",
+      "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5758798&fecha=30/05/2025"
+    }
+  ]
+}

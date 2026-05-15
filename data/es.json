@@ -14,8 +14,8 @@
     "source": "Ministerio de Hacienda — Ley 31/2022 de Presupuestos Generales del Estado para 2023 (authoritative PGE)",
     "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con",
     "fiscalYear": "2023",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 90/90 cells public-ready as of 2026-04-24. Last auto-fetch by es:fas-rd248-2025.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 90/90 cells public-ready as of 2026-05-15. Last auto-fetch by es:fas-rd248-2025.",
     "currency": "EUR",
     "notes": "Spanish funcionarios are classified into five subgrupos (A1, A2, B, C1, C2) plus the OEP (Oferta de Empleo Público). Each has a fixed sueldo base. Complementos (destino, específico, productividad) add meaningful pay on top and vary by body and post."
   },
@@ -386,630 +386,630 @@
       "gradeCode": "ALTO-DIR-GENERAL",
       "step": 1,
       "annual": 59048,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-MINISTRO",
       "step": 1,
       "annual": 79415,
-      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "verifiedAt": "2026-05-15T04:03:48.844Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-PRES-CE",
       "step": 1,
       "annual": 90383,
-      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "verifiedAt": "2026-05-15T04:03:48.844Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-PRES-CES",
       "step": 1,
       "annual": 98741,
-      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "verifiedAt": "2026-05-15T04:03:48.844Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-PRES-GOB",
       "step": 1,
       "annual": 90010,
-      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "verifiedAt": "2026-05-15T04:03:48.844Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-SEC-ESTADO",
       "step": 1,
       "annual": 77893,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-SUBSECRETARIO",
       "step": 1,
       "annual": 69060,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "ALTO-VP-GOB",
       "step": 1,
       "annual": 84601,
-      "verifiedAt": "2026-04-22T14:53:51.350Z",
+      "verifiedAt": "2026-05-15T04:03:48.844Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-AUX-JUD",
       "step": 1,
       "annual": 13441,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-AYU-LAB",
       "step": 1,
       "annual": 14819,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-GEST-PROC",
       "step": 1,
       "annual": 18029,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-MED-FOR",
       "step": 1,
       "annual": 20879,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-TEC-INTCF",
       "step": 1,
       "annual": 18029,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CAJ-TRAM-PROC",
       "step": 1,
       "annual": 14819,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CGPJ-PRES",
       "step": 1,
       "annual": 151186,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CGPJ-SEC",
       "step": 1,
       "annual": 127385,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "CGPJ-VOCAL",
       "step": 1,
       "annual": 130390,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "FAS-ALF",
       "step": 1,
       "annual": 31728,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-BRIG",
       "step": 1,
       "annual": 30208,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-CABO",
       "step": 1,
       "annual": 18599,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-CABO-1",
       "step": 1,
       "annual": 19956,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-CABO-MAY",
       "step": 1,
       "annual": 21296,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-CAP",
       "step": 1,
       "annual": 35341,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-COL",
       "step": 1,
       "annual": 42770,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-COM",
       "step": 1,
       "annual": 37991,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-GEN-BRIG",
       "step": 1,
       "annual": 46041,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-GEN-DIV",
       "step": 1,
       "annual": 50436,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-SGT",
       "step": 1,
       "annual": 26924,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-SGT-1",
       "step": 1,
       "annual": 28296,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-SOB-MAY",
       "step": 1,
       "annual": 34357,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-SOLDADO",
       "step": 1,
       "annual": 18144,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-SUBT",
       "step": 1,
       "annual": 32513,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-TCOL",
       "step": 1,
       "annual": 39756,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FAS-TEN",
       "step": 1,
       "annual": 32115,
-      "verifiedAt": "2026-04-24T11:52:23.149Z",
+      "verifiedAt": "2026-05-15T04:03:52.404Z",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
     },
     {
       "gradeCode": "FIS-ABOG",
       "step": 1,
       "annual": 24358,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "FIS-FISCAL",
       "step": 1,
       "annual": 27839,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "FIS-SUP-CA",
       "step": 1,
       "annual": 31317,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "JUD-JUEZ",
       "step": 1,
       "annual": 24358,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "JUD-MAG",
       "step": 1,
       "annual": 27839,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "JUD-PRES-AN",
       "step": 1,
       "annual": 32440,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "JUD-PRES-SALA-AN",
       "step": 1,
       "annual": 30732,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "JUD-PRES-TSJ",
       "step": 1,
       "annual": 31317,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "LAJ-1",
       "step": 1,
       "annual": 24358,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "LAJ-2",
       "step": 1,
       "annual": 23152,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "LAJ-3",
       "step": 1,
       "annual": 21510,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-1",
       "step": 1,
       "annual": 1279,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-10",
       "step": 1,
       "annual": 3000,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-11",
       "step": 1,
       "annual": 3312,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-12",
       "step": 1,
       "annual": 3626,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-13",
       "step": 1,
       "annual": 3939,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-14",
       "step": 1,
       "annual": 4252,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-15",
       "step": 1,
       "annual": 4565,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-16",
       "step": 1,
       "annual": 4878,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-17",
       "step": 1,
       "annual": 5190,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-18",
       "step": 1,
       "annual": 5504,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-19",
       "step": 1,
       "annual": 5817,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-2",
       "step": 1,
       "annual": 1514,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-20",
       "step": 1,
       "annual": 6129,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-21",
       "step": 1,
       "annual": 6599,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-22",
       "step": 1,
       "annual": 7107,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-23",
       "step": 1,
       "annual": 7617,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-24",
       "step": 1,
       "annual": 8126,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-25",
       "step": 1,
       "annual": 8635,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-26",
       "step": 1,
       "annual": 9733,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-27",
       "step": 1,
       "annual": 11094,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-28",
       "step": 1,
       "annual": 11604,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-29",
       "step": 1,
       "annual": 12113,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-3",
       "step": 1,
       "annual": 1749,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-30",
       "step": 1,
       "annual": 13504,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-4",
       "step": 1,
       "annual": 1983,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-5",
       "step": 1,
       "annual": 2217,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-6",
       "step": 1,
       "annual": 2374,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-7",
       "step": 1,
       "annual": 2530,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-8",
       "step": 1,
       "annual": 2687,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "NIV-9",
       "step": 1,
       "annual": 2844,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-A1",
       "step": 1,
       "annual": 17050,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-A2",
       "step": 1,
       "annual": 14993,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-B",
       "step": 1,
       "annual": 13369,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-C1",
       "step": 1,
       "annual": 11483,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-C2",
       "step": 1,
       "annual": 9733,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "SUB-E",
       "step": 1,
       "annual": 8920,
-      "verifiedAt": "2026-04-21T11:21:24.712Z",
+      "verifiedAt": "2026-05-15T04:03:47.079Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TC-MAG",
       "step": 1,
       "annual": 141757,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TC-PRES",
       "step": 1,
       "annual": 167169,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TC-PRES-SEC",
       "step": 1,
       "annual": 149445,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TC-SEC",
       "step": 1,
       "annual": 134150,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TC-VP",
       "step": 1,
       "annual": 157133,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TCU-CONS",
       "step": 1,
       "annual": 130772,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TCU-PRES",
       "step": 1,
       "annual": 130772,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TCU-PRES-SEC",
       "step": 1,
       "annual": 130772,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     },
     {
       "gradeCode": "TCU-SEC",
       "step": 1,
       "annual": 112585,
-      "verifiedAt": "2026-04-24T02:31:37.295Z",
+      "verifiedAt": "2026-05-15T04:03:50.643Z",
       "sourceUrl": "https://www.boe.es/eli/es/l/2022/12/23/31/con"
     }
   ]

@@ -21,11 +21,11 @@ tags:
 
 # FedSalary — Global Federal Government Salary Database
 
-> Authoritative federal-government salary tables for 17 countries, sourced exclusively from each country's official compensation publisher. 19261 verified cells. CC-BY 4.0.
+> Authoritative federal-government salary tables for 19 countries, sourced exclusively from each country's official compensation publisher. 19507 verified cells. CC-BY 4.0.
 
 ## Dataset summary
 
-FedSalary publishes the canonical pay tables for federal civil servants across 17 countries. Every value in this dataset traces to the authoritative compensation publisher (e.g. US Office of Personnel Management, Canadian Treasury Board Secretariat, Japanese Jinjiin, Spanish BOE) — never from aggregators, salary websites, or AI-generated estimates.
+FedSalary publishes the canonical pay tables for federal civil servants across 19 countries. Every value in this dataset traces to the authoritative compensation publisher (e.g. US Office of Personnel Management, Canadian Treasury Board Secretariat, Japanese Jinjiin, Spanish BOE) — never from aggregators, salary websites, or AI-generated estimates.
 
 Useful for:
 - LLM RAG pipelines that need to cite government pay figures with primary-source links
@@ -49,7 +49,7 @@ Verification = (a) URL whitelist match, (b) currency sanity band, (c) within-gra
   author = {{FedSalary}},
   year = {2026},
   howpublished = {\url{https://fedsalary.com}},
-  note = {Retrieved 2026-04-26.}
+  note = {Retrieved 2026-05-15.}
 }
 ```
 

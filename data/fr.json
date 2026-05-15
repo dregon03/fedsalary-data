@@ -1,0 +1,755 @@
+{
+  "country": {
+    "code": "fr",
+    "iso3": "FRA",
+    "name": "France",
+    "nameLocal": "France",
+    "currency": "EUR",
+    "system": "Grilles indiciaires — corps administratifs généraux",
+    "authoritativePublisher": "Direction générale de l'administration et de la fonction publique (DGAFP)",
+    "authoritativeUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration",
+    "fiscalYear": "2024"
+  },
+  "meta": {
+    "source": "Direction générale de l'administration et de la fonction publique (DGAFP) — Grilles indiciaires des corps administratifs généraux de la fonction publique de l'État (catégories A, B, C)",
+    "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration",
+    "fiscalYear": "2024",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 99/99 cells public-ready as of 2026-05-15. Last auto-fetch by fr:dgafp-grilles-corps-generaux-v1.",
+    "currency": "EUR",
+    "notes": "French civil service pay = indice majoré (IM) × valeur du point d'indice (€4.92278/month, frozen since July 2023 per Décret 2023-519). Annual = IM × 4.92278 × 12 = monthly × 12. Three corps administratifs généraux covered: Adjoint administratif (cat C, 3 grades), Secrétaire administratif (cat B, 3 grades), Attaché d'administration CIGEM (cat A, 3 active grades + Échelon spécial HEA). These are the standard cross-ministry corps used by ~30% of fonctionnaires; specialized corps (police, magistrats, enseignants, ingénieurs) have their own grilles and are not included here. Hors-échelle letter grades (HEA1/A2/A3) for Attaché hors classe échelon spécial appear with fixed values not on the IM scale."
+  },
+  "grades": [
+    {
+      "code": "AAAE-C1",
+      "description": "Adjoint administratif (catégorie C, grade 1) — corps des AAAE, Décret 2006-1761 modifié. 11 échelons, IM 366 → IM 387."
+    },
+    {
+      "code": "AAAE-C2",
+      "description": "Adjoint administratif principal de 2ème classe (catégorie C, grade 2) — 12 échelons, IM 367 → IM 425."
+    },
+    {
+      "code": "AAAE-C3",
+      "description": "Adjoint administratif principal de 1ère classe (catégorie C, grade 3) — 10 échelons, IM 373 → IM 478. Sommet du corps C en administration générale."
+    },
+    {
+      "code": "SAFE-B1",
+      "description": "Secrétaire administratif classe normale (catégorie B, grade 1) — corps des SAFE, Décret 2010-302 modifié (PPCR). 13 échelons, IM 373 → IM 508."
+    },
+    {
+      "code": "SAFE-B2",
+      "description": "Secrétaire administratif classe supérieure (catégorie B, grade 2) — 12 échelons, IM 376 → IM 539."
+    },
+    {
+      "code": "SAFE-B3",
+      "description": "Secrétaire administratif classe exceptionnelle (catégorie B, grade 3) — 11 échelons, IM 397 → IM 592. Sommet du corps B en administration générale."
+    },
+    {
+      "code": "AAEE-A1",
+      "description": "Attaché d'administration (catégorie A, grade 1) — Corps interministériel à gestion ministérielle CIGEM, Décret 2011-1317 modifié. 11 échelons, IM 395 → IM 678."
+    },
+    {
+      "code": "AAEE-A2",
+      "description": "Attaché principal d'administration (catégorie A, grade 2) — 10 échelons, IM 505 → IM 826. Premier accès à la haute fonction publique d'encadrement."
+    },
+    {
+      "code": "AAEE-A3",
+      "description": "Attaché d'administration hors classe (catégorie A, grade 3) — 6 échelons normaux (IM 660 → IM 835) plus 3 échelons spéciaux hors-échelle HEA1/HEA2/HEA3 (€4 405 → €4 810/mois). Sommet du CIGEM avant accès aux emplois supérieurs (sous-préfet, etc.)."
+    }
+  ],
+  "cells": [
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 1,
+      "annual": 21620.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 2,
+      "annual": 21679.92,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 3,
+      "annual": 21738.96,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 4,
+      "annual": 21798.12,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 5,
+      "annual": 21857.16,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 6,
+      "annual": 21916.2,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 7,
+      "annual": 21975.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 8,
+      "annual": 22034.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 9,
+      "annual": 22211.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 10,
+      "annual": 22270.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C1",
+      "step": 11,
+      "annual": 22861.44,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 1,
+      "annual": 21679.92,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 2,
+      "annual": 21798.12,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 3,
+      "annual": 21857.16,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 4,
+      "annual": 22034.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 5,
+      "annual": 22093.44,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 6,
+      "annual": 22211.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 7,
+      "annual": 22270.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 8,
+      "annual": 22743.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 9,
+      "annual": 23452.08,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 10,
+      "annual": 24161.04,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 11,
+      "annual": 24633.6,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C2",
+      "step": 12,
+      "annual": 25106.16,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 1,
+      "annual": 22034.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 2,
+      "annual": 22152.48,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 3,
+      "annual": 22211.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 4,
+      "annual": 22743.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 5,
+      "annual": 23511.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 6,
+      "annual": 24101.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 7,
+      "annual": 24810.84,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 8,
+      "annual": 25696.92,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 9,
+      "annual": 26878.32,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAAE-C3",
+      "step": 10,
+      "annual": 28237.08,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 1,
+      "annual": 23334,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 2,
+      "annual": 24515.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 3,
+      "annual": 25696.92,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 4,
+      "annual": 26878.32,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 5,
+      "annual": 28650.6,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 6,
+      "annual": 30600,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 7,
+      "annual": 32490.36,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 8,
+      "annual": 34262.52,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 9,
+      "annual": 36034.8,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 10,
+      "annual": 38102.28,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A1",
+      "step": 11,
+      "annual": 40051.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 1,
+      "annual": 29832,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 2,
+      "annual": 31899.6,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 3,
+      "annual": 34262.52,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 4,
+      "annual": 36034.8,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 5,
+      "annual": 38693.04,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 6,
+      "annual": 41055.96,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 7,
+      "annual": 43418.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 8,
+      "annual": 45663.72,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 9,
+      "annual": 47908.44,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A2",
+      "step": 10,
+      "annual": 48794.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 1,
+      "annual": 38988.36,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 2,
+      "annual": 41351.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 3,
+      "annual": 43418.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 4,
+      "annual": 45663.72,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 5,
+      "annual": 47908.44,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 6,
+      "annual": 49326.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 7,
+      "annual": 52870.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 8,
+      "annual": 54938.28,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "AAEE-A3",
+      "step": 9,
+      "annual": 57714.72,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 1,
+      "annual": 22034.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 2,
+      "annual": 22093.44,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 3,
+      "annual": 22152.48,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 4,
+      "annual": 22211.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 5,
+      "annual": 22270.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 6,
+      "annual": 22802.28,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 7,
+      "annual": 23688.36,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 8,
+      "annual": 24810.84,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 9,
+      "annual": 25755.96,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 10,
+      "annual": 26346.72,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 11,
+      "annual": 27291.84,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 12,
+      "annual": 28473.36,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B1",
+      "step": 13,
+      "annual": 30009.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 1,
+      "annual": 22211.64,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 2,
+      "annual": 22270.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 3,
+      "annual": 22684.2,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 4,
+      "annual": 23334,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 5,
+      "annual": 23983.8,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 6,
+      "annual": 24869.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 7,
+      "annual": 26051.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 8,
+      "annual": 26996.52,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 9,
+      "annual": 27528.24,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 10,
+      "annual": 28650.6,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 11,
+      "annual": 30068.4,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B2",
+      "step": 12,
+      "annual": 31840.56,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 1,
+      "annual": 23452.08,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 2,
+      "annual": 24161.04,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 3,
+      "annual": 25047.12,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 4,
+      "annual": 26346.72,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 5,
+      "annual": 27764.52,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 6,
+      "annual": 28886.88,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 7,
+      "annual": 30304.68,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 8,
+      "annual": 31840.56,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 9,
+      "annual": 32844.84,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 10,
+      "annual": 33908.16,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    },
+    {
+      "gradeCode": "SAFE-B3",
+      "step": 11,
+      "annual": 34971.48,
+      "verifiedAt": "2026-05-15T04:04:21.321Z",
+      "sourceUrl": "https://www.fonction-publique.gouv.fr/etre-fonctionnaire/votre-carriere/votre-remuneration"
+    }
+  ]
+}

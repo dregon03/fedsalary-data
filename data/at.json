@@ -14,8 +14,8 @@
     "source": "BMKöS — Gehaltsschema des Bundes (PRIMARY AUTHORITATIVE SOURCE)",
     "sourceUrl": "https://www.oeffentlicherdienst.gv.at/",
     "fiscalYear": "2026",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 224/224 cells public-ready as of 2026-04-24. Last auto-fetch by at:ris-statutory-v1.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 224/224 cells public-ready as of 2026-05-15. Last auto-fetch by at:ris-statutory-v1.",
     "currency": "EUR",
     "notes": "Austrian VBG governs pay for federal contract employees (Vertragsbedienstete). Annual = monthly × 14 (12 regular + 2 Sonderzahlungen — 13th in June, 14th in November). Beamte pay (statutory civil servants) follows a separate Gehaltsgesetz scheme with Dienstklassen — not yet covered."
   },
@@ -134,1568 +134,1568 @@
       "gradeCode": "GOV-BR-MEMBER",
       "step": 1,
       "annual": 69041,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-CHANCELLOR",
       "step": 1,
       "annual": 331394,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-MINISTER",
       "step": 1,
       "annual": 276162,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-NR-MP",
       "step": 1,
       "annual": 138081,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-NR-PRESIDENT",
       "step": 1,
       "annual": 289970,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-PRESIDENT",
       "step": 1,
       "annual": 386627,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-STATE-SEC",
       "step": 1,
       "annual": 248546,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "GOV-VICE-CHANCELLOR",
       "step": 1,
       "annual": 289970,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-LG-RICHTER",
       "step": 1,
       "annual": 120000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-OGH-JUSTICE",
       "step": 1,
       "annual": 230000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-OGH-PRESIDENT",
       "step": 1,
       "annual": 289970,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-OLG-PRESIDENT",
       "step": 1,
       "annual": 210000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-RICHTER-ENTRY",
       "step": 1,
       "annual": 68000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "JUD-VFGH-PRESIDENT",
       "step": 1,
       "annual": 386627,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "PRO-GENPROK",
       "step": 1,
       "annual": 289970,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "PRO-OBERSTAATSANWALT",
       "step": 1,
       "annual": 175000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "PRO-STAATSANWALT",
       "step": 1,
       "annual": 110000,
-      "verifiedAt": "2026-04-24T01:30:26.552Z",
+      "verifiedAt": "2026-05-15T04:02:16.956Z",
       "sourceUrl": "https://www.ris.bka.gv.at/"
     },
     {
       "gradeCode": "VB-A",
       "step": 1,
       "annual": 42696,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 2,
       "annual": 43686,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 3,
       "annual": 44681,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 4,
       "annual": 45669,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 5,
       "annual": 46833,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 6,
       "annual": 48488,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 7,
       "annual": 50179,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 8,
       "annual": 51866,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 9,
       "annual": 53519,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 10,
       "annual": 55191,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 11,
       "annual": 56857,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 12,
       "annual": 58510,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 13,
       "annual": 60203,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 14,
       "annual": 62007,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 15,
       "annual": 64182,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 16,
       "annual": 66398,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 17,
       "annual": 68575,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 18,
       "annual": 70767,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-A",
       "step": 19,
       "annual": 72443,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 1,
       "annual": 34241,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 2,
       "annual": 34950,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 3,
       "annual": 35662,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 4,
       "annual": 36389,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 5,
       "annual": 37149,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 6,
       "annual": 37948,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 7,
       "annual": 38765,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 8,
       "annual": 39827,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 9,
       "annual": 41068,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 10,
       "annual": 42620,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 11,
       "annual": 44330,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 12,
       "annual": 46000,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 13,
       "annual": 47690,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 14,
       "annual": 49344,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 15,
       "annual": 51033,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 16,
       "annual": 52704,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 17,
       "annual": 54372,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 18,
       "annual": 56046,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 19,
       "annual": 57715,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-B",
       "step": 20,
       "annual": 58125,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 1,
       "annual": 31062,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 2,
       "annual": 31577,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 3,
       "annual": 32112,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 4,
       "annual": 32663,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 5,
       "annual": 33180,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 6,
       "annual": 33757,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 7,
       "annual": 34349,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 8,
       "annual": 34950,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 9,
       "annual": 35538,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 10,
       "annual": 36175,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 11,
       "annual": 36831,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 12,
       "annual": 37486,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 13,
       "annual": 38196,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 14,
       "annual": 38886,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 15,
       "annual": 39581,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 16,
       "annual": 40289,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 17,
       "annual": 41084,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 18,
       "annual": 41863,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 19,
       "annual": 42620,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 20,
       "annual": 43417,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-C",
       "step": 21,
       "annual": 43803,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 1,
       "annual": 30055,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 2,
       "annual": 30464,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 3,
       "annual": 30887,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 4,
       "annual": 31297,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 5,
       "annual": 31720,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 6,
       "annual": 32127,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 7,
       "annual": 32535,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 8,
       "annual": 32959,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 9,
       "annual": 33383,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 10,
       "annual": 33844,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 11,
       "annual": 34278,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 12,
       "annual": 34758,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 13,
       "annual": 35217,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 14,
       "annual": 35713,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 15,
       "annual": 36175,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 16,
       "annual": 36690,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 17,
       "annual": 37185,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 18,
       "annual": 37734,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 19,
       "annual": 38269,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 20,
       "annual": 38818,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-D",
       "step": 21,
       "annual": 39084,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 1,
       "annual": 29036,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 2,
       "annual": 29270,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 3,
       "annual": 29506,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 4,
       "annual": 29725,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 5,
       "annual": 29977,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 6,
       "annual": 30195,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 7,
       "annual": 30430,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 8,
       "annual": 30668,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 9,
       "annual": 30902,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 10,
       "annual": 31137,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 11,
       "annual": 31374,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 12,
       "annual": 31594,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 13,
       "annual": 31843,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 14,
       "annual": 32081,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 15,
       "annual": 32299,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 16,
       "annual": 32535,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 17,
       "annual": 32788,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 18,
       "annual": 33005,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 19,
       "annual": 33244,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 20,
       "annual": 33481,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-E",
       "step": 21,
       "annual": 33638,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 1,
       "annual": 31170,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 2,
       "annual": 31720,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 3,
       "annual": 32235,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 4,
       "annual": 32788,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 5,
       "annual": 33330,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 6,
       "annual": 33914,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 7,
       "annual": 34509,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 8,
       "annual": 35130,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 9,
       "annual": 35748,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 10,
       "annual": 36368,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 11,
       "annual": 37027,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 12,
       "annual": 37717,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 13,
       "annual": 38410,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 14,
       "annual": 39116,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 15,
       "annual": 39827,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 16,
       "annual": 40558,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 17,
       "annual": 41356,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 18,
       "annual": 42136,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 19,
       "annual": 42931,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 20,
       "annual": 43709,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P1",
       "step": 21,
       "annual": 44097,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 1,
       "annual": 30653,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 2,
       "annual": 31122,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 3,
       "annual": 31577,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 4,
       "annual": 32047,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 5,
       "annual": 32504,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 6,
       "annual": 32976,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 7,
       "annual": 33432,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 8,
       "annual": 33949,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 9,
       "annual": 34455,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 10,
       "annual": 34987,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 11,
       "annual": 35501,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 12,
       "annual": 36050,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 13,
       "annual": 36621,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 14,
       "annual": 37169,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 15,
       "annual": 37754,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 16,
       "annual": 38356,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 17,
       "annual": 38975,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 18,
       "annual": 39563,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 19,
       "annual": 40184,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 20,
       "annual": 40852,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P2",
       "step": 21,
       "annual": 41184,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 1,
       "annual": 30166,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 2,
       "annual": 30573,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 3,
       "annual": 31013,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 4,
       "annual": 31422,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 5,
       "annual": 31843,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 6,
       "annual": 32253,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 7,
       "annual": 32677,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 8,
       "annual": 33083,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 9,
       "annual": 33520,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 10,
       "annual": 33979,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 11,
       "annual": 34437,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 12,
       "annual": 34915,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 13,
       "annual": 35375,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 14,
       "annual": 35854,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 15,
       "annual": 36352,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 16,
       "annual": 36865,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 17,
       "annual": 37380,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 18,
       "annual": 37929,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 19,
       "annual": 38461,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 20,
       "annual": 39011,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P3",
       "step": 21,
       "annual": 39278,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 1,
       "annual": 29648,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 2,
       "annual": 29992,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 3,
       "annual": 30306,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 4,
       "annual": 30619,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 5,
       "annual": 30965,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 6,
       "annual": 31279,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 7,
       "annual": 31594,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 8,
       "annual": 31938,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 9,
       "annual": 32253,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 10,
       "annual": 32584,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 11,
       "annual": 32914,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 12,
       "annual": 33229,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 13,
       "annual": 33604,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 14,
       "annual": 33949,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 15,
       "annual": 34314,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 16,
       "annual": 34685,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 17,
       "annual": 35057,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 18,
       "annual": 35413,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 19,
       "annual": 35804,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 20,
       "annual": 36175,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P4",
       "step": 21,
       "annual": 36368,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 1,
       "annual": 29145,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 2,
       "annual": 29382,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 3,
       "annual": 29616,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 4,
       "annual": 29837,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 5,
       "annual": 30089,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 6,
       "annual": 30320,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 7,
       "annual": 30558,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 8,
       "annual": 30778,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 9,
       "annual": 31027,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 10,
       "annual": 31265,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 11,
       "annual": 31500,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 12,
       "annual": 31752,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 13,
       "annual": 31970,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 14,
       "annual": 32207,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 15,
       "annual": 32441,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 16,
       "annual": 32677,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 17,
       "annual": 32914,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 18,
       "annual": 33146,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 19,
       "annual": 33400,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 20,
       "annual": 33673,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     },
     {
       "gradeCode": "VB-P5",
       "step": 21,
       "annual": 33792,
-      "verifiedAt": "2026-04-20T02:16:47.330Z",
+      "verifiedAt": "2026-05-15T04:02:15.309Z",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008115"
     }
   ]

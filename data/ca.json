@@ -13,9 +13,9 @@
     "source": "Treasury Board of Canada Secretariat — collective agreements (PRIMARY AUTHORITATIVE SOURCE)",
     "sourceUrl": "https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/",
     "fiscalYear": "2026",
-    "retrievedAt": "2026-04-23",
+    "retrievedAt": "2026-05-15",
     "fetcher": "ca:port-from-fedpayca-v1",
-    "status": "AUTO-VERIFIED — 3447/3447 cells public-ready as of 2026-04-23. Last auto-fetch by ca:dnd-caf-regular-force-2025-04.",
+    "status": "AUTO-VERIFIED — 3447/3447 cells public-ready as of 2026-05-15. Last auto-fetch by ca:dnd-caf-regular-force-2025-04.",
     "currency": "CAD",
     "notes": "Canadian federal public service pay is set by collective agreement per bargaining group. Rates revise on the agreement cycle, not annually. FedSalary mirrors FedPay.ca's current-year values and updates on each agreement signing."
   },
@@ -4835,693 +4835,693 @@
       "gradeCode": "CAF-2LT",
       "step": 1,
       "annual": 84012,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 2,
       "annual": 86472,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 3,
       "annual": 89076,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 4,
       "annual": 92628,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 5,
       "annual": 94572,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 6,
       "annual": 97368,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 7,
       "annual": 100296,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 8,
       "annual": 103272,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 9,
       "annual": 106368,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 10,
       "annual": 109548,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-2LT",
       "step": 11,
       "annual": 112824,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-BGEN",
       "step": 1,
       "annual": 222780,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-BGEN",
       "step": 2,
       "annual": 228720,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-BGEN",
       "step": 3,
       "annual": 235020,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-BGEN",
       "step": 4,
       "annual": 241164,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 1,
       "annual": 106332,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 2,
       "annual": 110352,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 3,
       "annual": 114408,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 4,
       "annual": 118440,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 5,
       "annual": 122364,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 6,
       "annual": 126156,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 7,
       "annual": 129900,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 8,
       "annual": 133764,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 9,
       "annual": 136008,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 10,
       "annual": 138252,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CAPT",
       "step": 11,
       "annual": 140544,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-COL",
       "step": 1,
       "annual": 188208,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-COL",
       "step": 2,
       "annual": 195636,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-COL",
       "step": 3,
       "annual": 203076,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-COL",
       "step": 4,
       "annual": 210492,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CPL",
       "step": 1,
       "annual": 82296,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CPL",
       "step": 2,
       "annual": 83736,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CPL",
       "step": 3,
       "annual": 85140,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CPL",
       "step": 4,
       "annual": 86556,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CPL",
       "step": 5,
       "annual": 88044,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CWO",
       "step": 1,
       "annual": 126744,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CWO",
       "step": 2,
       "annual": 128052,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CWO",
       "step": 3,
       "annual": 129456,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CWO",
       "step": 4,
       "annual": 130752,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-CWO",
       "step": 5,
       "annual": 132012,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LGEN",
       "step": 1,
       "annual": 328332,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LGEN",
       "step": 2,
       "annual": 337224,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LGEN",
       "step": 3,
       "annual": 346548,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LGEN",
       "step": 4,
       "annual": 355428,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 1,
       "annual": 86256,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 2,
       "annual": 89688,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 3,
       "annual": 93264,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 4,
       "annual": 97032,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 5,
       "annual": 100884,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 6,
       "annual": 104952,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 7,
       "annual": 109128,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 8,
       "annual": 113508,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 9,
       "annual": 118056,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 10,
       "annual": 122736,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LT",
       "step": 11,
       "annual": 127692,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LTCOL",
       "step": 1,
       "annual": 166644,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LTCOL",
       "step": 2,
       "annual": 169332,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LTCOL",
       "step": 3,
       "annual": 171948,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LTCOL",
       "step": 4,
       "annual": 174648,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-LTCOL",
       "step": 5,
       "annual": 177348,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 1,
       "annual": 143796,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 2,
       "annual": 146304,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 3,
       "annual": 148812,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 4,
       "annual": 151296,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 5,
       "annual": 153780,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 6,
       "annual": 156228,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 7,
       "annual": 158736,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MAJ",
       "step": 8,
       "annual": 161220,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MCPL",
       "step": 1,
       "annual": 85416,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MCPL",
       "step": 2,
       "annual": 86904,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MCPL",
       "step": 3,
       "annual": 88356,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MCPL",
       "step": 4,
       "annual": 89784,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MCPL",
       "step": 5,
       "annual": 94092,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MGEN",
       "step": 1,
       "annual": 255612,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MGEN",
       "step": 2,
       "annual": 270276,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MGEN",
       "step": 3,
       "annual": 285480,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MGEN",
       "step": 4,
       "annual": 300240,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MWO",
       "step": 1,
       "annual": 116016,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MWO",
       "step": 2,
       "annual": 117204,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MWO",
       "step": 3,
       "annual": 118380,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MWO",
       "step": 4,
       "annual": 119532,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-MWO",
       "step": 5,
       "annual": 120684,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-OCDT",
       "step": 1,
       "annual": 48528,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-OCDT",
       "step": 2,
       "annual": 50544,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-OCDT",
       "step": 3,
       "annual": 58464,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-OCDT",
       "step": 4,
       "annual": 60720,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-PVT",
       "step": 1,
       "annual": 52044,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-PVT",
       "step": 2,
       "annual": 59844,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-PVT",
       "step": 3,
       "annual": 71928,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-SGT",
       "step": 1,
       "annual": 95508,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-SGT",
       "step": 2,
       "annual": 96912,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-SGT",
       "step": 3,
       "annual": 98244,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-SGT",
       "step": 4,
       "annual": 99192,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-SGT",
       "step": 5,
       "annual": 100080,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-WO",
       "step": 1,
       "annual": 104328,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-WO",
       "step": 2,
       "annual": 105240,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-WO",
       "step": 3,
       "annual": 106200,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-WO",
       "step": 4,
       "annual": 107124,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
       "gradeCode": "CAF-WO",
       "step": 5,
       "annual": 107964,
-      "verifiedAt": "2026-04-23T14:18:35.754Z",
+      "verifiedAt": "2026-05-15T04:03:04.557Z",
       "sourceUrl": "https://www.canada.ca/en/department-national-defence/services/benefits-military/pay-pension-benefits/pay/regular.html"
     },
     {
@@ -11324,406 +11324,406 @@
       "gradeCode": "GIC-DM-1",
       "step": 1,
       "annual": 248400,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-1",
       "step": 2,
       "annual": 292200,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-2",
       "step": 1,
       "annual": 285300,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-2",
       "step": 2,
       "annual": 335600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-3",
       "step": 1,
       "annual": 319600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-3",
       "step": 2,
       "annual": 375900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-4",
       "step": 1,
       "annual": 357600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-DM-4",
       "step": 2,
       "annual": 420600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-1",
       "step": 1,
       "annual": 137524,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-1",
       "step": 2,
       "annual": 161773,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-2",
       "step": 1,
       "annual": 154178,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-2",
       "step": 2,
       "annual": 181365,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-3",
       "step": 1,
       "annual": 172548,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-3",
       "step": 2,
       "annual": 202918,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-4",
       "step": 1,
       "annual": 197774,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-4",
       "step": 2,
       "annual": 232676,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-5",
       "step": 1,
       "annual": 221654,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-EX-5",
       "step": 2,
       "annual": 260719,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-1",
       "step": 1,
       "annual": 95700,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-1",
       "step": 2,
       "annual": 112500,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-10",
       "step": 1,
       "annual": 334900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-10",
       "step": 2,
       "annual": 393900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-2",
       "step": 1,
       "annual": 109600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-2",
       "step": 2,
       "annual": 128900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-3",
       "step": 1,
       "annual": 126800,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-3",
       "step": 2,
       "annual": 149100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-4",
       "step": 1,
       "annual": 145400,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-4",
       "step": 2,
       "annual": 171000,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-5",
       "step": 1,
       "annual": 167100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-5",
       "step": 2,
       "annual": 196500,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-6",
       "step": 1,
       "annual": 192100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-6",
       "step": 2,
       "annual": 225900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-7",
       "step": 1,
       "annual": 220700,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-7",
       "step": 2,
       "annual": 259600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-8",
       "step": 1,
       "annual": 253300,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-8",
       "step": 2,
       "annual": 298000,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-9",
       "step": 1,
       "annual": 291600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GC-9",
       "step": 2,
       "annual": 343000,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-1",
       "step": 1,
       "annual": 105500,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-1",
       "step": 2,
       "annual": 124100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-10",
       "step": 1,
       "annual": 403000,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-10",
       "step": 2,
       "annual": 474100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-2",
       "step": 1,
       "annual": 121100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-2",
       "step": 2,
       "annual": 142400,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-3",
       "step": 1,
       "annual": 139700,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-3",
       "step": 2,
       "annual": 164300,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-4",
       "step": 1,
       "annual": 160400,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-4",
       "step": 2,
       "annual": 188600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-5",
       "step": 1,
       "annual": 184200,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-5",
       "step": 2,
       "annual": 216600,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-6",
       "step": 1,
       "annual": 225300,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-6",
       "step": 2,
       "annual": 265000,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-7",
       "step": 1,
       "annual": 259100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-7",
       "step": 2,
       "annual": 304800,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-8",
       "step": 1,
       "annual": 297500,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-8",
       "step": 2,
       "annual": 349900,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-9",
       "step": 1,
       "annual": 341800,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
       "gradeCode": "GIC-GCQ-9",
       "step": 2,
       "annual": 402100,
-      "verifiedAt": "2026-04-23T13:58:34.459Z",
+      "verifiedAt": "2026-05-15T04:03:02.665Z",
       "sourceUrl": "https://www.canada.ca/en/privy-council/programs/appointments/governor-council-appointments/compensation-terms-conditions-employment/salary-ranges-performance-pay.html"
     },
     {
@@ -15153,70 +15153,70 @@
       "gradeCode": "GOV-CABINET-MIN",
       "step": 1,
       "annual": 302900,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-DEP-SPEAKER-HOC",
       "step": 1,
       "annual": 254700,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-MIN-STATE",
       "step": 1,
       "annual": 278000,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-MP",
       "step": 1,
       "annual": 203100,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-OPPOSITION-LDR",
       "step": 1,
       "annual": 302900,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-PM",
       "step": 1,
       "annual": 402700,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-PS",
       "step": 1,
       "annual": 222600,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-SENATOR",
       "step": 1,
       "annual": 178100,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-SPEAKER-HOC",
       "step": 1,
       "annual": 302900,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "GOV-SPEAKER-SENATE",
       "step": 1,
       "annual": 274200,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
@@ -17225,77 +17225,77 @@
       "gradeCode": "JUD-CMAC-CHIEF",
       "step": 1,
       "annual": 371400,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-FC-ASSOC",
       "step": 1,
       "annual": 271040,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-FC-CHIEF",
       "step": 1,
       "annual": 371400,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-FC-JUDGE",
       "step": 1,
       "annual": 338800,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-FCA-CHIEF",
       "step": 1,
       "annual": 371400,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-FCA-JUDGE",
       "step": 1,
       "annual": 338800,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-SCC-CHIEF",
       "step": 1,
       "annual": 435600,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-SCC-PUISNE",
       "step": 1,
       "annual": 403300,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-TCC-ASSOC",
       "step": 1,
       "annual": 271040,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-TCC-CHIEF",
       "step": 1,
       "annual": 371400,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {
       "gradeCode": "JUD-TCC-JUDGE",
       "step": 1,
       "annual": 338800,
-      "verifiedAt": "2026-04-23T13:35:31.901Z",
+      "verifiedAt": "2026-05-15T04:03:00.708Z",
       "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/j-1/"
     },
     {

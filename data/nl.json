@@ -14,8 +14,8 @@
     "source": "Ministerie van BZK / CAO Rijk — Hoofdstuk 6 Salarisschalen (PRIMARY AUTHORITATIVE SOURCE)",
     "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen",
     "fiscalYear": "2024",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 214/214 cells public-ready as of 2026-04-24. Last auto-fetch by nl:wetten-overheid-statutory-v1.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 214/214 cells public-ready as of 2026-05-15. Last auto-fetch by nl:wetten-overheid-statutory-v1.",
     "currency": "EUR",
     "notes": "CAO Rijk salarisschalen 1-18. Values auto-fetched from caorijk.nl (the authoritative publisher of the CAO Rijk). Dutch central government employees are paid under this table."
   },
@@ -162,1498 +162,1498 @@
       "gradeCode": "GOV-EK-CHAIR",
       "step": 1,
       "annual": 90000,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-EK-MEMBER",
       "step": 1,
       "annual": 34900,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-MIN-PRES",
       "step": 1,
       "annual": 183168,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-MINISTER",
       "step": 1,
       "annual": 167596,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-STAATSSEC",
       "step": 1,
       "annual": 157980,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-TK-MEMBER",
       "step": 1,
       "annual": 155720,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "GOV-TK-SPEAKER",
       "step": 1,
       "annual": 167596,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-HOF-PRESIDENT",
       "step": 1,
       "annual": 185700,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-HOF-RAADSHEER",
       "step": 1,
       "annual": 160400,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-HR-JUSTICE",
       "step": 1,
       "annual": 187100,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-HR-PRESIDENT",
       "step": 1,
       "annual": 208700,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-HR-VICE",
       "step": 1,
       "annual": 194800,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-RB-PRESIDENT",
       "step": 1,
       "annual": 170900,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-RB-RECHTER",
       "step": 1,
       "annual": 126400,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-RB-RECHTER-SR",
       "step": 1,
       "annual": 155300,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "JUD-RIO",
       "step": 1,
       "annual": 77800,
-      "verifiedAt": "2026-04-24T01:10:17.282Z",
+      "verifiedAt": "2026-05-15T04:00:58.664Z",
       "sourceUrl": "https://wetten.overheid.nl/"
     },
     {
       "gradeCode": "S1",
       "step": 1,
       "annual": 28041,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 2,
       "annual": 28521,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 3,
       "annual": 29010,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 4,
       "annual": 29507,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 5,
       "annual": 30013,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 6,
       "annual": 30528,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 7,
       "annual": 31052,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 8,
       "annual": 31585,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 9,
       "annual": 32127,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 10,
       "annual": 32679,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S1",
       "step": 11,
       "annual": 33240,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 1,
       "annual": 40853,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 2,
       "annual": 42768,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 3,
       "annual": 45042,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 4,
       "annual": 48289,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 5,
       "annual": 52087,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 6,
       "annual": 54177,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 7,
       "annual": 56301,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 8,
       "annual": 58416,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 9,
       "annual": 60431,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 10,
       "annual": 62555,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S10",
       "step": 11,
       "annual": 64678,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 1,
       "annual": 48289,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 2,
       "annual": 52087,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 3,
       "annual": 54177,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 4,
       "annual": 56301,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 5,
       "annual": 58416,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 6,
       "annual": 60431,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 7,
       "annual": 62555,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 8,
       "annual": 64678,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 9,
       "annual": 67410,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 10,
       "annual": 70375,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S11",
       "step": 11,
       "annual": 73331,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 1,
       "annual": 56301,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 2,
       "annual": 58416,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 3,
       "annual": 60431,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 4,
       "annual": 62555,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 5,
       "annual": 64678,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 6,
       "annual": 67410,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 7,
       "annual": 70375,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 8,
       "annual": 73331,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 9,
       "annual": 76479,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 10,
       "annual": 79685,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S12",
       "step": 11,
       "annual": 82892,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 1,
       "annual": 62555,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 2,
       "annual": 64678,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 3,
       "annual": 67410,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 4,
       "annual": 70375,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 5,
       "annual": 73331,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 6,
       "annual": 76479,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 7,
       "annual": 79685,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 8,
       "annual": 82892,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 9,
       "annual": 86106,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 10,
       "annual": 89493,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S13",
       "step": 11,
       "annual": 92972,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 1,
       "annual": 70375,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 2,
       "annual": 73331,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 3,
       "annual": 76479,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 4,
       "annual": 79685,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 5,
       "annual": 82892,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 6,
       "annual": 86106,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 7,
       "annual": 89493,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 8,
       "annual": 92972,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 9,
       "annual": 96153,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 10,
       "annual": 99382,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S14",
       "step": 11,
       "annual": 102605,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 1,
       "annual": 79685,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 2,
       "annual": 82892,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 3,
       "annual": 86106,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 4,
       "annual": 89493,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 5,
       "annual": 92972,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 6,
       "annual": 96153,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 7,
       "annual": 99382,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 8,
       "annual": 102605,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 9,
       "annual": 105488,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 10,
       "annual": 108508,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S15",
       "step": 11,
       "annual": 111723,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 1,
       "annual": 89493,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 2,
       "annual": 92972,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 3,
       "annual": 96153,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 4,
       "annual": 99382,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 5,
       "annual": 102605,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 6,
       "annual": 105488,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 7,
       "annual": 108508,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 8,
       "annual": 111723,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 9,
       "annual": 114878,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 10,
       "annual": 118093,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S16",
       "step": 11,
       "annual": 121607,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 1,
       "annual": 99382,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 2,
       "annual": 102605,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 3,
       "annual": 105488,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 4,
       "annual": 108508,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 5,
       "annual": 111723,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 6,
       "annual": 114878,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 7,
       "annual": 118093,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 8,
       "annual": 121607,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 9,
       "annual": 125214,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 10,
       "annual": 128831,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S17",
       "step": 11,
       "annual": 132438,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 1,
       "annual": 108508,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 2,
       "annual": 111723,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 3,
       "annual": 114878,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 4,
       "annual": 118093,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 5,
       "annual": 121607,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 6,
       "annual": 125214,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 7,
       "annual": 128831,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 8,
       "annual": 132438,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 9,
       "annual": 136373,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 10,
       "annual": 140308,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S18",
       "step": 11,
       "annual": 144252,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 1,
       "annual": 29507,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 2,
       "annual": 30013,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 3,
       "annual": 30528,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 4,
       "annual": 31052,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 5,
       "annual": 31585,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 6,
       "annual": 32127,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 7,
       "annual": 32679,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 8,
       "annual": 33240,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 9,
       "annual": 33811,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 10,
       "annual": 34392,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S2",
       "step": 11,
       "annual": 34984,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 1,
       "annual": 31052,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 2,
       "annual": 31585,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 3,
       "annual": 32127,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 4,
       "annual": 32679,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 5,
       "annual": 33240,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 6,
       "annual": 33811,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 7,
       "annual": 34392,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 8,
       "annual": 34984,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 9,
       "annual": 35586,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 10,
       "annual": 36198,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S3",
       "step": 11,
       "annual": 37047,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 1,
       "annual": 32127,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 2,
       "annual": 32679,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 3,
       "annual": 33240,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 4,
       "annual": 33811,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 5,
       "annual": 34392,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 6,
       "annual": 34984,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 7,
       "annual": 35586,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 8,
       "annual": 36198,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 9,
       "annual": 37047,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 10,
       "annual": 37996,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S4",
       "step": 11,
       "annual": 38954,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 1,
       "annual": 33240,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 2,
       "annual": 33811,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 3,
       "annual": 34392,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 4,
       "annual": 34984,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 5,
       "annual": 35586,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 6,
       "annual": 36198,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 7,
       "annual": 37047,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 8,
       "annual": 37996,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 9,
       "annual": 38954,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 10,
       "annual": 39903,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S5",
       "step": 11,
       "annual": 40853,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 1,
       "annual": 34392,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 2,
       "annual": 34984,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 3,
       "annual": 35586,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 4,
       "annual": 36198,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 5,
       "annual": 37047,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 6,
       "annual": 37996,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 7,
       "annual": 38954,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 8,
       "annual": 39903,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 9,
       "annual": 40853,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 10,
       "annual": 41819,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S6",
       "step": 11,
       "annual": 42768,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 1,
       "annual": 36198,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 2,
       "annual": 37047,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 3,
       "annual": 37996,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 4,
       "annual": 38954,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 5,
       "annual": 39903,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 6,
       "annual": 40853,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 7,
       "annual": 41819,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 8,
       "annual": 42768,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 9,
       "annual": 43717,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 10,
       "annual": 45042,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S7",
       "step": 11,
       "annual": 46557,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 1,
       "annual": 38954,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 2,
       "annual": 39903,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 3,
       "annual": 40853,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 4,
       "annual": 41819,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 5,
       "annual": 42768,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 6,
       "annual": 43717,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 7,
       "annual": 45042,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 8,
       "annual": 46557,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 9,
       "annual": 48289,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 10,
       "annual": 50171,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S8",
       "step": 11,
       "annual": 52087,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 1,
       "annual": 41819,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 2,
       "annual": 42768,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 3,
       "annual": 43717,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 4,
       "annual": 45042,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 5,
       "annual": 46557,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 6,
       "annual": 48289,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 7,
       "annual": 50171,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 8,
       "annual": 52087,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 9,
       "annual": 54177,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 10,
       "annual": 56301,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     },
     {
       "gradeCode": "S9",
       "step": 11,
       "annual": 58416,
-      "verifiedAt": "2026-04-17T23:38:17.074Z",
+      "verifiedAt": "2026-05-15T04:00:56.942Z",
       "sourceUrl": "https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-6/salarisschalen"
     }
   ]

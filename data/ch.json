@@ -14,8 +14,8 @@
     "source": "Eidgenössisches Personalamt (EPA) — Lohntabelle 2026 (Art. 36 BPV)",
     "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf",
     "fiscalYear": "2026",
-    "retrievedAt": "2026-04-24",
-    "status": "AUTO-VERIFIED — 103/103 cells public-ready as of 2026-04-24. Last auto-fetch by ch:epa-lohntabelle-v1.",
+    "retrievedAt": "2026-05-15",
+    "status": "AUTO-VERIFIED — 103/103 cells public-ready as of 2026-05-15. Last auto-fetch by ch:epa-extras-apprentices-magistrates-judges-v1.",
     "currency": "CHF",
     "notes": "Swiss federal employees are placed on one of 38 Lohnklassen. Each class has a minimum (Klassenmindestbetrag) and maximum (Klassenhöchstbetrag). Individual progression within the range is performance-based, not step-based. Rates revise annually by the Federal Council."
   },
@@ -286,189 +286,189 @@
       "gradeCode": "APPR-HS1",
       "step": 1,
       "annual": 34500,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-HS2",
       "step": 1,
       "annual": 48240,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-HS3",
       "step": 1,
       "annual": 54000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L1",
       "step": 1,
       "annual": 10964,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L2",
       "step": 1,
       "annual": 13506,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L3",
       "step": 1,
       "annual": 20615,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L4",
       "step": 1,
       "annual": 24559,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L5A",
       "step": 1,
       "annual": 23472,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-L5B",
       "step": 1,
       "annual": 28110,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PBGB",
       "step": 1,
       "annual": 20615,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PHFK",
       "step": 1,
       "annual": 30792,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PHMS",
       "step": 1,
       "annual": 24559,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PIBS1",
       "step": 1,
       "annual": 26400,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PIBS2",
       "step": 1,
       "annual": 28800,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PIBS3",
       "step": 1,
       "annual": 33600,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "APPR-PIBS4",
       "step": 1,
       "annual": 38400,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-BUNDESKANZLER",
       "step": 1,
       "annual": 422000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-BUNDESPRAESIDENT",
       "step": 1,
       "annual": 487000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-BUNDESRAT",
       "step": 1,
       "annual": 475000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-NATIONALRAT",
       "step": 1,
       "annual": 132000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-NR-PRESIDENT",
       "step": 1,
       "annual": 165000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "GOV-STAENDERAT",
       "step": 1,
       "annual": 132000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "JUD-BG-JUDGE",
       "step": 1,
       "annual": 386000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "JUD-BG-PRESIDENT",
       "step": 1,
       "annual": 404000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "JUD-BPG-JUDGE",
       "step": 1,
       "annual": 365000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "JUD-BSTG-JUDGE",
       "step": 1,
       "annual": 372000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
       "gradeCode": "JUD-BVG-JUDGE",
       "step": 1,
       "annual": 372000,
-      "verifiedAt": "2026-04-24T01:40:29.588Z",
+      "verifiedAt": "2026-05-15T04:03:42.497Z",
       "sourceUrl": "https://www.epa.admin.ch/dam/epa/de/dokumente/themen/lohnsystem/Lohntabelle%202026.pdf.download.pdf/Lohntabelle%202026.pdf"
     },
     {
